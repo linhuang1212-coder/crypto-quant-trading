@@ -1,0 +1,28 @@
+﻿V5 Pipeline Summary
+===================
+Started:  04/04/2026 22:17:04
+Ended:    04/05/2026 06:48:01
+Duration: 08:30:57
+
+Phase 0 (download): ok=12 failed=0
+Stage 1:   completed_new=200 failed=0 resume_skipped=0
+Stage 1.5: candidates=84
+Stage 2:   pass=0 fail=84
+Stage 3:   pass=0 fail=0
+
+Pair screening (CryptoV11):
+  yearly PASS=0 FAIL=0 SKIPPED(full-sample gate)=12
+  ranked by Sharpe:
+  SUI/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  INJ/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  OP/USDT:USDT           Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  FIL/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  UNI/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  TRX/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  ATOM/USDT:USDT         Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  LTC/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  DOT/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  ARB/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  APT/USDT:USDT          Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+  NEAR/USDT:USDT         Sharpe=       0 PF=     0 Trades=    0 Profit%=         0 Yearly=SKIPPED
+

@@ -1,0 +1,7 @@
+﻿V3 Experiment Summary
+=====================
+Start: 04/03/2026 07:26:56
+End:   04/03/2026 08:45:49
+Duration: 01:18:53
+Total: 113 | Completed: 113 | Failed: 0
+Results: user_data/experiment_results/v3_results.csv

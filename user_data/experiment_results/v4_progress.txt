@@ -1,0 +1,551 @@
+﻿02:35:30 [1/281] V4_G1_P001 - G1 DCexit p=5 dc_only mb=0
+02:35:42 [9/281] V4_G1_P009 - G1 DCexit p=7 dc_trail mb=0
+02:36:42 [2/281] V4_G1_P002 - G1 DCexit p=5 dc_only mb=8
+02:36:51 [10/281] V4_G1_P010 - G1 DCexit p=7 dc_trail mb=8
+02:38:21 [3/281] V4_G1_P003 - G1 DCexit p=5 dc_trail mb=0
+02:38:23 [11/281] V4_G1_P011 - G1 DCexit p=7 dc_trail_stair mb=0
+02:40:16 [4/281] V4_G1_P004 - G1 DCexit p=5 dc_trail mb=8
+02:40:18 [12/281] V4_G1_P012 - G1 DCexit p=7 dc_trail_stair mb=8
+02:41:16 [5/281] V4_G1_P005 - G1 DCexit p=5 dc_trail_stair mb=0
+02:41:17 [13/281] V4_G1_P013 - G1 DCexit p=10 dc_only mb=0
+02:42:07 [6/281] V4_G1_P006 - G1 DCexit p=5 dc_trail_stair mb=8
+02:42:12 [14/281] V4_G1_P014 - G1 DCexit p=10 dc_only mb=8
+02:42:59 [7/281] V4_G1_P007 - G1 DCexit p=7 dc_only mb=0
+02:43:00 [15/281] V4_G1_P015 - G1 DCexit p=10 dc_trail mb=0
+02:43:50 [8/281] V4_G1_P008 - G1 DCexit p=7 dc_only mb=8
+02:43:52 [16/281] V4_G1_P016 - G1 DCexit p=10 dc_trail mb=8
+02:44:50 [9/281] V4_G1_P009 - G1 DCexit p=7 dc_trail mb=0
+02:44:52 [17/281] V4_G1_P017 - G1 DCexit p=10 dc_trail_stair mb=0
+02:45:44 [10/281] V4_G1_P010 - G1 DCexit p=7 dc_trail mb=8
+02:45:48 [18/281] V4_G1_P018 - G1 DCexit p=10 dc_trail_stair mb=8
+02:46:32 [11/281] V4_G1_P011 - G1 DCexit p=7 dc_trail_stair mb=0
+02:46:35 [19/281] V4_G1_P019 - G1 DCexit p=12 dc_only mb=0
+02:47:24 [12/281] V4_G1_P012 - G1 DCexit p=7 dc_trail_stair mb=8
+02:47:28 [20/281] V4_G1_P020 - G1 DCexit p=12 dc_only mb=8
+02:48:10 [13/281] V4_G1_P013 - G1 DCexit p=10 dc_only mb=0
+02:48:16 [21/281] V4_G1_P021 - G1 DCexit p=12 dc_trail mb=0
+02:49:00 [14/281] V4_G1_P014 - G1 DCexit p=10 dc_only mb=8
+02:49:02 [22/281] V4_G1_P022 - G1 DCexit p=12 dc_trail mb=8
+02:49:52 [15/281] V4_G1_P015 - G1 DCexit p=10 dc_trail mb=0
+02:49:53 [23/281] V4_G1_P023 - G1 DCexit p=12 dc_trail_stair mb=0
+02:50:42 [16/281] V4_G1_P016 - G1 DCexit p=10 dc_trail mb=8
+02:50:42 [24/281] V4_G1_P024 - G1 DCexit p=12 dc_trail_stair mb=8
+02:51:36 [17/281] V4_G1_P017 - G1 DCexit p=10 dc_trail_stair mb=0
+02:51:36 [25/281] V4_G1_P025 - G1 DCexit p=15 dc_only mb=0
+02:52:26 [18/281] V4_G1_P018 - G1 DCexit p=10 dc_trail_stair mb=8
+02:52:33 [26/281] V4_G1_P026 - G1 DCexit p=15 dc_only mb=8
+02:53:15 [19/281] V4_G1_P019 - G1 DCexit p=12 dc_only mb=0
+02:53:22 [27/281] V4_G1_P027 - G1 DCexit p=15 dc_trail mb=0
+02:54:12 [20/281] V4_G1_P020 - G1 DCexit p=12 dc_only mb=8
+02:54:12 [28/281] V4_G1_P028 - G1 DCexit p=15 dc_trail mb=8
+02:55:04 [21/281] V4_G1_P021 - G1 DCexit p=12 dc_trail mb=0
+02:55:06 [29/281] V4_G1_P029 - G1 DCexit p=15 dc_trail_stair mb=0
+02:55:56 [22/281] V4_G1_P022 - G1 DCexit p=12 dc_trail mb=8
+02:55:58 [30/281] V4_G1_P030 - G1 DCexit p=15 dc_trail_stair mb=8
+02:56:50 [23/281] V4_G1_P023 - G1 DCexit p=12 dc_trail_stair mb=0
+02:56:50 [31/281] V4_G2_P001 - G2 MACD f8s21sig5 hist_pos stair=True
+02:57:46 [24/281] V4_G1_P024 - G1 DCexit p=12 dc_trail_stair mb=8
+02:57:46 [32/281] V4_G2_P002 - G2 MACD f8s21sig5 hist_pos stair=False
+02:58:36 [25/281] V4_G1_P025 - G1 DCexit p=15 dc_only mb=0
+02:58:40 [33/281] V4_G2_P003 - G2 MACD f8s21sig5 hist_rise stair=True
+02:59:33 [34/281] V4_G2_P004 - G2 MACD f8s21sig5 hist_rise stair=False
+02:59:38 [26/281] V4_G1_P026 - G1 DCexit p=15 dc_only mb=8
+03:00:33 [27/281] V4_G1_P027 - G1 DCexit p=15 dc_trail mb=0
+03:00:37 [35/281] V4_G2_P005 - G2 MACD f8s21sig5 macd_pos stair=True
+03:01:33 [36/281] V4_G2_P006 - G2 MACD f8s21sig5 macd_pos stair=False
+03:01:39 [28/281] V4_G1_P028 - G1 DCexit p=15 dc_trail mb=8
+03:02:33 [29/281] V4_G1_P029 - G1 DCexit p=15 dc_trail_stair mb=0
+03:02:34 [37/281] V4_G2_P007 - G2 MACD f8s21sig5 macd_sig_hist stair=True
+03:03:30 [38/281] V4_G2_P008 - G2 MACD f8s21sig5 macd_sig_hist stair=False
+03:03:34 [30/281] V4_G1_P030 - G1 DCexit p=15 dc_trail_stair mb=8
+03:04:27 [31/281] V4_G2_P001 - G2 MACD f8s21sig5 hist_pos stair=True
+03:04:29 [39/281] V4_G2_P009 - G2 MACD f12s26sig9 hist_pos stair=True
+03:05:22 [32/281] V4_G2_P002 - G2 MACD f8s21sig5 hist_pos stair=False
+03:05:22 [40/281] V4_G2_P010 - G2 MACD f12s26sig9 hist_pos stair=False
+03:06:21 [33/281] V4_G2_P003 - G2 MACD f8s21sig5 hist_rise stair=True
+03:06:21 [41/281] V4_G2_P011 - G2 MACD f12s26sig9 hist_rise stair=True
+03:07:13 [34/281] V4_G2_P004 - G2 MACD f8s21sig5 hist_rise stair=False
+03:07:13 [42/281] V4_G2_P012 - G2 MACD f12s26sig9 hist_rise stair=False
+03:08:10 [35/281] V4_G2_P005 - G2 MACD f8s21sig5 macd_pos stair=True
+03:08:10 [43/281] V4_G2_P013 - G2 MACD f12s26sig9 macd_pos stair=True
+03:09:02 [44/281] V4_G2_P014 - G2 MACD f12s26sig9 macd_pos stair=False
+03:09:02 [36/281] V4_G2_P006 - G2 MACD f8s21sig5 macd_pos stair=False
+03:10:03 [45/281] V4_G2_P015 - G2 MACD f12s26sig9 macd_sig_hist stair=True
+03:10:03 [37/281] V4_G2_P007 - G2 MACD f8s21sig5 macd_sig_hist stair=True
+03:11:09 [38/281] V4_G2_P008 - G2 MACD f8s21sig5 macd_sig_hist stair=False
+03:11:09 [46/281] V4_G2_P016 - G2 MACD f12s26sig9 macd_sig_hist stair=False
+03:12:12 [39/281] V4_G2_P009 - G2 MACD f12s26sig9 hist_pos stair=True
+03:12:12 [47/281] V4_G2_P017 - G2 MACD f8s17sig9 hist_pos stair=True
+03:13:16 [40/281] V4_G2_P010 - G2 MACD f12s26sig9 hist_pos stair=False
+03:13:16 [48/281] V4_G2_P018 - G2 MACD f8s17sig9 hist_pos stair=False
+03:14:24 [41/281] V4_G2_P011 - G2 MACD f12s26sig9 hist_rise stair=True
+03:14:24 [49/281] V4_G2_P019 - G2 MACD f8s17sig9 hist_rise stair=True
+03:15:32 [42/281] V4_G2_P012 - G2 MACD f12s26sig9 hist_rise stair=False
+03:16:26 [43/281] V4_G2_P013 - G2 MACD f12s26sig9 macd_pos stair=True
+03:16:26 [51/281] V4_G2_P021 - G2 MACD f8s17sig9 macd_pos stair=True
+03:17:22 [44/281] V4_G2_P014 - G2 MACD f12s26sig9 macd_pos stair=False
+03:17:22 [52/281] V4_G2_P022 - G2 MACD f8s17sig9 macd_pos stair=False
+03:18:21 [45/281] V4_G2_P015 - G2 MACD f12s26sig9 macd_sig_hist stair=True
+03:18:21 [53/281] V4_G2_P023 - G2 MACD f8s17sig9 macd_sig_hist stair=True
+03:19:22 [54/281] V4_G2_P024 - G2 MACD f8s17sig9 macd_sig_hist stair=False
+03:20:23 [55/281] V4_G3_P001 - G3 EMA slope p=3 th=0.0005 stair=True
+03:20:23 [47/281] V4_G2_P017 - G2 MACD f8s17sig9 hist_pos stair=True
+03:21:25 [48/281] V4_G2_P018 - G2 MACD f8s17sig9 hist_pos stair=False
+03:21:25 [56/281] V4_G3_P002 - G3 EMA slope p=3 th=0.001 stair=True
+03:22:24 [49/281] V4_G2_P019 - G2 MACD f8s17sig9 hist_rise stair=True
+03:22:24 [57/281] V4_G3_P003 - G3 EMA slope p=3 th=0.001 stair=False
+03:23:11 [50/281] V4_G2_P020 - G2 MACD f8s17sig9 hist_rise stair=False
+03:23:12 [58/281] V4_G3_P004 - G3 EMA slope p=3 th=0.002 stair=True
+03:24:10 [59/281] V4_G3_P005 - G3 EMA slope p=3 th=0.002 stair=False
+03:24:12 [51/281] V4_G2_P021 - G2 MACD f8s17sig9 macd_pos stair=True
+03:25:09 [52/281] V4_G2_P022 - G2 MACD f8s17sig9 macd_pos stair=False
+03:25:09 [60/281] V4_G3_P006 - G3 EMA slope p=3 th=0.003 stair=True
+03:26:01 [61/281] V4_G3_P007 - G3 EMA slope p=5 th=0.0005 stair=True
+03:26:11 [53/281] V4_G2_P023 - G2 MACD f8s17sig9 macd_sig_hist stair=True
+03:27:05 [62/281] V4_G3_P008 - G3 EMA slope p=5 th=0.001 stair=True
+03:27:11 [54/281] V4_G2_P024 - G2 MACD f8s17sig9 macd_sig_hist stair=False
+03:28:12 [55/281] V4_G3_P001 - G3 EMA slope p=3 th=0.0005 stair=True
+03:28:12 [63/281] V4_G3_P009 - G3 EMA slope p=5 th=0.001 stair=False
+03:29:10 [56/281] V4_G3_P002 - G3 EMA slope p=3 th=0.001 stair=True
+03:29:11 [64/281] V4_G3_P010 - G3 EMA slope p=5 th=0.002 stair=True
+03:30:10 [65/281] V4_G3_P011 - G3 EMA slope p=5 th=0.002 stair=False
+03:30:10 [57/281] V4_G3_P003 - G3 EMA slope p=3 th=0.001 stair=False
+03:31:06 [66/281] V4_G3_P012 - G3 EMA slope p=5 th=0.003 stair=True
+03:31:07 [58/281] V4_G3_P004 - G3 EMA slope p=3 th=0.002 stair=True
+03:32:06 [59/281] V4_G3_P005 - G3 EMA slope p=3 th=0.002 stair=False
+03:32:06 [67/281] V4_G3_P013 - G3 EMA slope p=8 th=0.0005 stair=True
+03:33:00 [60/281] V4_G3_P006 - G3 EMA slope p=3 th=0.003 stair=True
+03:33:00 [68/281] V4_G3_P014 - G3 EMA slope p=8 th=0.001 stair=True
+03:33:50 [61/281] V4_G3_P007 - G3 EMA slope p=5 th=0.0005 stair=True
+03:33:56 [69/281] V4_G3_P015 - G3 EMA slope p=8 th=0.001 stair=False
+03:34:50 [70/281] V4_G3_P016 - G3 EMA slope p=8 th=0.002 stair=True
+03:34:50 [62/281] V4_G3_P008 - G3 EMA slope p=5 th=0.001 stair=True
+03:35:48 [71/281] V4_G3_P017 - G3 EMA slope p=8 th=0.002 stair=False
+03:36:51 [72/281] V4_G3_P018 - G3 EMA slope p=8 th=0.003 stair=True
+03:36:51 [64/281] V4_G3_P010 - G3 EMA slope p=5 th=0.002 stair=True
+03:37:53 [73/281] V4_G4_P001 - G4 1H 1h_only adx1h>0 stair=True
+03:37:54 [65/281] V4_G3_P011 - G3 EMA slope p=5 th=0.002 stair=False
+03:38:19 [74/281] V4_G4_P002 - G4 1H 1h_only adx1h>0 stair=False
+03:38:41 [75/281] V4_G4_P003 - G4 1H 1h_only adx1h>25 stair=True
+03:38:44 [66/281] V4_G3_P012 - G3 EMA slope p=5 th=0.003 stair=True
+03:39:00 [76/281] V4_G4_P004 - G4 1H 1h_only adx1h>25 stair=False
+03:39:24 [77/281] V4_G4_P005 - G4 1H 1h_only adx1h>30 stair=True
+03:39:33 [67/281] V4_G3_P013 - G3 EMA slope p=8 th=0.0005 stair=True
+03:39:46 [78/281] V4_G4_P006 - G4 1H 1h_only adx1h>30 stair=False
+03:40:08 [79/281] V4_G4_P007 - G4 1H 1h_and_4h adx1h>0 stair=True
+03:40:24 [68/281] V4_G3_P014 - G3 EMA slope p=8 th=0.001 stair=True
+03:40:31 [80/281] V4_G4_P008 - G4 1H 1h_and_4h adx1h>0 stair=False
+03:40:53 [81/281] V4_G4_P009 - G4 1H 1h_and_4h adx1h>25 stair=True
+03:41:10 [69/281] V4_G3_P015 - G3 EMA slope p=8 th=0.001 stair=False
+03:41:14 [82/281] V4_G4_P010 - G4 1H 1h_and_4h adx1h>25 stair=False
+03:41:39 [83/281] V4_G4_P011 - G4 1H 1h_and_4h adx1h>30 stair=True
+03:42:04 [84/281] V4_G4_P012 - G4 1H 1h_and_4h adx1h>30 stair=False
+03:42:06 [70/281] V4_G3_P016 - G3 EMA slope p=8 th=0.002 stair=True
+03:42:26 [85/281] V4_G4_P013 - G4 1H 1h_or_4h adx1h>0 stair=True
+03:42:50 [86/281] V4_G4_P014 - G4 1H 1h_or_4h adx1h>0 stair=False
+03:42:53 [71/281] V4_G3_P017 - G3 EMA slope p=8 th=0.002 stair=False
+03:43:11 [87/281] V4_G4_P015 - G4 1H 1h_or_4h adx1h>25 stair=True
+03:43:34 [88/281] V4_G4_P016 - G4 1H 1h_or_4h adx1h>25 stair=False
+03:43:43 [72/281] V4_G3_P018 - G3 EMA slope p=8 th=0.003 stair=True
+03:43:54 [89/281] V4_G4_P017 - G4 1H 1h_or_4h adx1h>30 stair=True
+03:44:17 [90/281] V4_G4_P018 - G4 1H 1h_or_4h adx1h>30 stair=False
+03:44:31 [73/281] V4_G4_P001 - G4 1H 1h_only adx1h>0 stair=True
+03:44:38 [91/281] V4_G5_P001 - G5 giveback mp=0.05 kr=0.3 stair=True
+03:44:52 [74/281] V4_G4_P002 - G4 1H 1h_only adx1h>0 stair=False
+03:45:14 [75/281] V4_G4_P003 - G4 1H 1h_only adx1h>25 stair=True
+03:45:22 [92/281] V4_G5_P002 - G5 giveback mp=0.05 kr=0.5 stair=True
+03:45:37 [76/281] V4_G4_P004 - G4 1H 1h_only adx1h>25 stair=False
+03:45:59 [77/281] V4_G4_P005 - G4 1H 1h_only adx1h>30 stair=True
+03:46:03 [93/281] V4_G5_P003 - G5 giveback mp=0.05 kr=0.7 stair=True
+03:46:19 [78/281] V4_G4_P006 - G4 1H 1h_only adx1h>30 stair=False
+03:46:40 [79/281] V4_G4_P007 - G4 1H 1h_and_4h adx1h>0 stair=True
+03:46:45 [94/281] V4_G5_P004 - G5 giveback mp=0.08 kr=0.3 stair=True
+03:47:00 [80/281] V4_G4_P008 - G4 1H 1h_and_4h adx1h>0 stair=False
+03:47:24 [81/281] V4_G4_P009 - G4 1H 1h_and_4h adx1h>25 stair=True
+03:47:31 [95/281] V4_G5_P005 - G5 giveback mp=0.08 kr=0.5 stair=True
+03:47:46 [82/281] V4_G4_P010 - G4 1H 1h_and_4h adx1h>25 stair=False
+03:48:07 [83/281] V4_G4_P011 - G4 1H 1h_and_4h adx1h>30 stair=True
+03:48:12 [96/281] V4_G5_P006 - G5 giveback mp=0.08 kr=0.7 stair=True
+03:48:27 [84/281] V4_G4_P012 - G4 1H 1h_and_4h adx1h>30 stair=False
+03:48:47 [85/281] V4_G4_P013 - G4 1H 1h_or_4h adx1h>0 stair=True
+03:48:50 [97/281] V4_G5_P007 - G5 giveback mp=0.1 kr=0.3 stair=True
+03:49:08 [86/281] V4_G4_P014 - G4 1H 1h_or_4h adx1h>0 stair=False
+03:49:29 [87/281] V4_G4_P015 - G4 1H 1h_or_4h adx1h>25 stair=True
+03:49:29 [98/281] V4_G5_P008 - G5 giveback mp=0.1 kr=0.5 stair=True
+03:49:48 [88/281] V4_G4_P016 - G4 1H 1h_or_4h adx1h>25 stair=False
+03:50:04 [99/281] V4_G5_P009 - G5 giveback mp=0.1 kr=0.7 stair=True
+03:50:07 [89/281] V4_G4_P017 - G4 1H 1h_or_4h adx1h>30 stair=True
+03:50:30 [90/281] V4_G4_P018 - G4 1H 1h_or_4h adx1h>30 stair=False
+03:50:48 [100/281] V4_G5_P010 - G5 giveback mp=0.15 kr=0.3 stair=True
+03:50:53 [91/281] V4_G5_P001 - G5 giveback mp=0.05 kr=0.3 stair=True
+03:51:33 [101/281] V4_G5_P011 - G5 giveback mp=0.15 kr=0.5 stair=True
+03:51:36 [92/281] V4_G5_P002 - G5 giveback mp=0.05 kr=0.5 stair=True
+03:52:20 [93/281] V4_G5_P003 - G5 giveback mp=0.05 kr=0.7 stair=True
+03:52:21 [102/281] V4_G5_P012 - G5 giveback mp=0.15 kr=0.7 stair=True
+03:53:03 [94/281] V4_G5_P004 - G5 giveback mp=0.08 kr=0.3 stair=True
+03:53:04 [103/281] V4_G5_P013 - G5 giveback mp=0.2 kr=0.3 stair=True
+03:53:40 [95/281] V4_G5_P005 - G5 giveback mp=0.08 kr=0.5 stair=True
+03:53:40 [104/281] V4_G5_P014 - G5 giveback mp=0.2 kr=0.5 stair=True
+03:54:18 [96/281] V4_G5_P006 - G5 giveback mp=0.08 kr=0.7 stair=True
+03:54:19 [105/281] V4_G5_P015 - G5 giveback mp=0.2 kr=0.7 stair=True
+03:54:56 [97/281] V4_G5_P007 - G5 giveback mp=0.1 kr=0.3 stair=True
+03:54:58 [106/281] V4_G5_P016 - G5 giveback mp=0.05 kr=0.5 stair=False
+03:55:38 [98/281] V4_G5_P008 - G5 giveback mp=0.1 kr=0.5 stair=True
+03:55:39 [107/281] V4_G5_P017 - G5 giveback mp=0.05 kr=0.7 stair=False
+03:56:20 [99/281] V4_G5_P009 - G5 giveback mp=0.1 kr=0.7 stair=True
+03:56:21 [108/281] V4_G5_P018 - G5 giveback mp=0.08 kr=0.5 stair=False
+03:57:04 [100/281] V4_G5_P010 - G5 giveback mp=0.15 kr=0.3 stair=True
+03:57:04 [109/281] V4_G5_P019 - G5 giveback mp=0.08 kr=0.7 stair=False
+03:57:49 [101/281] V4_G5_P011 - G5 giveback mp=0.15 kr=0.5 stair=True
+03:57:50 [110/281] V4_G5_P020 - G5 giveback mp=0.1 kr=0.5 stair=False
+03:58:28 [102/281] V4_G5_P012 - G5 giveback mp=0.15 kr=0.7 stair=True
+03:58:28 [111/281] V4_G5_P021 - G5 giveback mp=0.1 kr=0.7 stair=False
+03:59:11 [103/281] V4_G5_P013 - G5 giveback mp=0.2 kr=0.3 stair=True
+03:59:11 [112/281] V4_G5_P022 - G5 giveback mp=0.15 kr=0.5 stair=False
+03:59:53 [104/281] V4_G5_P014 - G5 giveback mp=0.2 kr=0.5 stair=True
+03:59:55 [113/281] V4_G5_P023 - G5 giveback mp=0.15 kr=0.7 stair=False
+04:00:39 [105/281] V4_G5_P015 - G5 giveback mp=0.2 kr=0.7 stair=True
+04:00:40 [114/281] V4_G5_P024 - G5 giveback mp=0.2 kr=0.5 stair=False
+04:01:25 [106/281] V4_G5_P016 - G5 giveback mp=0.05 kr=0.5 stair=False
+04:01:25 [115/281] V4_G5_P025 - G5 giveback mp=0.2 kr=0.7 stair=False
+04:02:06 [107/281] V4_G5_P017 - G5 giveback mp=0.05 kr=0.7 stair=False
+04:02:09 [116/281] V4_G6_P001 - G6 dynDC lb=50 s=14 L=25 th=0.3
+04:02:44 [108/281] V4_G5_P018 - G5 giveback mp=0.08 kr=0.5 stair=False
+04:03:19 [109/281] V4_G5_P019 - G5 giveback mp=0.08 kr=0.7 stair=False
+04:03:57 [110/281] V4_G5_P020 - G5 giveback mp=0.1 kr=0.5 stair=False
+04:04:09 [117/281] V4_G6_P002 - G6 dynDC lb=50 s=14 L=40 th=0.5
+04:04:33 [111/281] V4_G5_P021 - G5 giveback mp=0.1 kr=0.7 stair=False
+04:05:09 [112/281] V4_G5_P022 - G5 giveback mp=0.15 kr=0.5 stair=False
+04:05:45 [113/281] V4_G5_P023 - G5 giveback mp=0.15 kr=0.7 stair=False
+04:06:07 [118/281] V4_G6_P003 - G6 dynDC lb=50 s=16 L=40 th=0.7
+04:06:26 [114/281] V4_G5_P024 - G5 giveback mp=0.2 kr=0.5 stair=False
+04:07:02 [115/281] V4_G5_P025 - G5 giveback mp=0.2 kr=0.7 stair=False
+04:07:41 [116/281] V4_G6_P001 - G6 dynDC lb=50 s=14 L=25 th=0.3
+04:08:05 [119/281] V4_G6_P004 - G6 dynDC lb=100 s=14 L=30 th=0.3
+04:09:41 [117/281] V4_G6_P002 - G6 dynDC lb=50 s=14 L=40 th=0.5
+04:10:04 [120/281] V4_G6_P005 - G6 dynDC lb=100 s=16 L=35 th=0.5
+04:11:41 [118/281] V4_G6_P003 - G6 dynDC lb=50 s=16 L=40 th=0.7
+04:12:01 [121/281] V4_G6_P006 - G6 dynDC lb=100 s=14 L=30 th=0.5
+04:13:42 [119/281] V4_G6_P004 - G6 dynDC lb=100 s=14 L=30 th=0.3
+04:14:00 [122/281] V4_G6_P007 - G6 dynDC lb=50 s=16 L=25 th=0.7
+04:15:44 [120/281] V4_G6_P005 - G6 dynDC lb=100 s=16 L=35 th=0.5
+04:15:57 [123/281] V4_G6_P008 - G6 dynDC lb=100 s=16 L=40 th=0.3
+04:17:46 [121/281] V4_G6_P006 - G6 dynDC lb=100 s=14 L=30 th=0.5
+04:17:53 [124/281] V4_G6_P009 - G6 dynDC lb=50 s=14 L=25 th=0.3
+04:19:51 [125/281] V4_G6_P010 - G6 dynDC lb=100 s=14 L=40 th=0.7
+04:19:51 [122/281] V4_G6_P007 - G6 dynDC lb=50 s=16 L=25 th=0.7
+04:21:53 [123/281] V4_G6_P008 - G6 dynDC lb=100 s=16 L=40 th=0.3
+04:21:54 [126/281] V4_G6_P011 - G6 dynDC lb=50 s=14 L=40 th=0.3
+04:23:56 [127/281] V4_G6_P012 - G6 dynDC lb=100 s=16 L=30 th=0.5
+04:23:56 [124/281] V4_G6_P009 - G6 dynDC lb=50 s=14 L=25 th=0.3
+04:25:56 [128/281] V4_G6_P013 - G6 dynDC lb=50 s=14 L=30 th=0.5
+04:25:57 [125/281] V4_G6_P010 - G6 dynDC lb=100 s=14 L=40 th=0.7
+04:27:52 [129/281] V4_G6_P014 - G6 dynDC lb=100 s=14 L=40 th=0.3
+04:27:56 [126/281] V4_G6_P011 - G6 dynDC lb=50 s=14 L=40 th=0.3
+04:30:00 [130/281] V4_G6_P015 - G6 dynDC lb=50 s=16 L=35 th=0.5
+04:30:00 [127/281] V4_G6_P012 - G6 dynDC lb=100 s=16 L=30 th=0.5
+04:32:03 [131/281] V4_G6_P016 - G6 dynDC lb=100 s=14 L=30 th=0.5
+04:32:03 [128/281] V4_G6_P013 - G6 dynDC lb=50 s=14 L=30 th=0.5
+04:34:03 [129/281] V4_G6_P014 - G6 dynDC lb=100 s=14 L=40 th=0.3
+04:34:06 [132/281] V4_G6_P017 - G6 dynDC lb=50 s=16 L=40 th=0.7
+04:36:05 [130/281] V4_G6_P015 - G6 dynDC lb=50 s=16 L=35 th=0.5
+04:36:07 [133/281] V4_G6_P018 - G6 dynDC lb=100 s=16 L=30 th=0.7
+04:38:07 [131/281] V4_G6_P016 - G6 dynDC lb=100 s=14 L=30 th=0.5
+04:38:07 [134/281] V4_G6_P019 - G6 dynDC lb=50 s=16 L=35 th=0.3
+04:40:09 [135/281] V4_G6_P020 - G6 dynDC lb=100 s=14 L=25 th=0.7
+04:40:09 [132/281] V4_G6_P017 - G6 dynDC lb=50 s=16 L=40 th=0.7
+04:42:11 [133/281] V4_G6_P018 - G6 dynDC lb=100 s=16 L=30 th=0.7
+04:42:11 [136/281] V4_G7_BTC_PG01 - G7 BTC/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:42:36 [137/281] V4_G7_BTC_PG02 - G7 BTC/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:42:58 [138/281] V4_G7_BTC_PG03 - G7 BTC/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:43:19 [139/281] V4_G7_BTC_PG04 - G7 BTC/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:43:42 [140/281] V4_G7_BTC_PG05 - G7 BTC/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:44:06 [141/281] V4_G7_BTC_PG06 - G7 BTC/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:44:11 [134/281] V4_G6_P019 - G6 dynDC lb=50 s=16 L=35 th=0.3
+04:44:29 [142/281] V4_G7_BTC_PG07 - G7 BTC/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:44:52 [143/281] V4_G7_BTC_PG08 - G7 BTC/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:45:14 [144/281] V4_G7_ETH_PG01 - G7 ETH/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:45:37 [145/281] V4_G7_ETH_PG02 - G7 ETH/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:45:59 [146/281] V4_G7_ETH_PG03 - G7 ETH/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:46:09 [135/281] V4_G6_P020 - G6 dynDC lb=100 s=14 L=25 th=0.7
+04:46:20 [147/281] V4_G7_ETH_PG04 - G7 ETH/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:46:43 [148/281] V4_G7_ETH_PG05 - G7 ETH/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:47:04 [149/281] V4_G7_ETH_PG06 - G7 ETH/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:47:26 [150/281] V4_G7_ETH_PG07 - G7 ETH/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:47:49 [151/281] V4_G7_ETH_PG08 - G7 ETH/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:48:06 [136/281] V4_G7_BTC_PG01 - G7 BTC/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:48:10 [152/281] V4_G7_SOL_PG01 - G7 SOL/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:48:30 [137/281] V4_G7_BTC_PG02 - G7 BTC/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:48:31 [153/281] V4_G7_SOL_PG02 - G7 SOL/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:48:52 [154/281] V4_G7_SOL_PG03 - G7 SOL/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:48:53 [138/281] V4_G7_BTC_PG03 - G7 BTC/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:49:13 [155/281] V4_G7_SOL_PG04 - G7 SOL/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:49:16 [139/281] V4_G7_BTC_PG04 - G7 BTC/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:49:33 [156/281] V4_G7_SOL_PG05 - G7 SOL/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:49:39 [140/281] V4_G7_BTC_PG05 - G7 BTC/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:49:53 [157/281] V4_G7_SOL_PG06 - G7 SOL/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:50:02 [141/281] V4_G7_BTC_PG06 - G7 BTC/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:50:12 [158/281] V4_G7_SOL_PG07 - G7 SOL/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:50:23 [142/281] V4_G7_BTC_PG07 - G7 BTC/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:50:32 [159/281] V4_G7_SOL_PG08 - G7 SOL/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:50:47 [143/281] V4_G7_BTC_PG08 - G7 BTC/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:50:52 [160/281] V4_G7_ADA_PG01 - G7 ADA/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:51:10 [144/281] V4_G7_ETH_PG01 - G7 ETH/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:51:11 [161/281] V4_G7_ADA_PG02 - G7 ADA/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:51:30 [162/281] V4_G7_ADA_PG03 - G7 ADA/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:51:33 [145/281] V4_G7_ETH_PG02 - G7 ETH/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:51:48 [163/281] V4_G7_ADA_PG04 - G7 ADA/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:51:56 [146/281] V4_G7_ETH_PG03 - G7 ETH/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:52:07 [164/281] V4_G7_ADA_PG05 - G7 ADA/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:52:17 [147/281] V4_G7_ETH_PG04 - G7 ETH/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:52:26 [165/281] V4_G7_ADA_PG06 - G7 ADA/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:52:39 [148/281] V4_G7_ETH_PG05 - G7 ETH/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:52:44 [166/281] V4_G7_ADA_PG07 - G7 ADA/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:53:02 [149/281] V4_G7_ETH_PG06 - G7 ETH/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:53:03 [167/281] V4_G7_ADA_PG08 - G7 ADA/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:53:22 [168/281] V4_G8_P001 - G8 stair 16b/-0.05 36b/-0.03
+04:53:24 [150/281] V4_G7_ETH_PG07 - G7 ETH/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:53:47 [151/281] V4_G7_ETH_PG08 - G7 ETH/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:54:01 [169/281] V4_G8_P002 - G8 stair 16b/-0.05 40b/-0.04
+04:54:09 [152/281] V4_G7_SOL_PG01 - G7 SOL/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:54:30 [153/281] V4_G7_SOL_PG02 - G7 SOL/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:54:43 [170/281] V4_G8_P003 - G8 stair 16b/-0.05 44b/-0.05
+04:54:51 [154/281] V4_G7_SOL_PG03 - G7 SOL/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:55:11 [155/281] V4_G7_SOL_PG04 - G7 SOL/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:55:24 [171/281] V4_G8_P004 - G8 stair 16b/-0.06 36b/-0.03
+04:55:31 [156/281] V4_G7_SOL_PG05 - G7 SOL/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:55:52 [157/281] V4_G7_SOL_PG06 - G7 SOL/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:56:04 [172/281] V4_G8_P005 - G8 stair 16b/-0.06 40b/-0.04
+04:56:12 [158/281] V4_G7_SOL_PG07 - G7 SOL/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:56:32 [159/281] V4_G7_SOL_PG08 - G7 SOL/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:56:44 [173/281] V4_G8_P006 - G8 stair 16b/-0.06 48b/-0.05
+04:56:52 [160/281] V4_G7_ADA_PG01 - G7 ADA/USDT:USDT ADX=26 ATR=0.5 DC=20
+04:57:12 [161/281] V4_G7_ADA_PG02 - G7 ADA/USDT:USDT ADX=28 ATR=0.6 DC=20
+04:57:26 [174/281] V4_G8_P007 - G8 stair 16b/-0.07 40b/-0.03
+04:57:31 [162/281] V4_G7_ADA_PG03 - G7 ADA/USDT:USDT ADX=30 ATR=0.7 DC=20
+04:57:50 [163/281] V4_G7_ADA_PG04 - G7 ADA/USDT:USDT ADX=28 ATR=0.5 DC=14
+04:58:06 [175/281] V4_G8_P008 - G8 stair 16b/-0.07 44b/-0.04
+04:58:09 [164/281] V4_G7_ADA_PG05 - G7 ADA/USDT:USDT ADX=28 ATR=0.6 DC=14
+04:58:29 [165/281] V4_G7_ADA_PG06 - G7 ADA/USDT:USDT ADX=28 ATR=0.8 DC=20
+04:58:47 [176/281] V4_G8_P009 - G8 stair 18b/-0.05 36b/-0.03
+04:58:47 [166/281] V4_G7_ADA_PG07 - G7 ADA/USDT:USDT ADX=26 ATR=0.6 DC=25
+04:59:06 [167/281] V4_G7_ADA_PG08 - G7 ADA/USDT:USDT ADX=30 ATR=0.6 DC=25
+04:59:25 [168/281] V4_G8_P001 - G8 stair 16b/-0.05 36b/-0.03
+04:59:27 [177/281] V4_G8_P010 - G8 stair 18b/-0.05 40b/-0.05
+05:00:06 [169/281] V4_G8_P002 - G8 stair 16b/-0.05 40b/-0.04
+05:00:11 [178/281] V4_G8_P011 - G8 stair 18b/-0.06 36b/-0.04
+05:00:49 [170/281] V4_G8_P003 - G8 stair 16b/-0.05 44b/-0.05
+05:00:54 [179/281] V4_G8_P012 - G8 stair 18b/-0.06 44b/-0.03
+05:01:35 [171/281] V4_G8_P004 - G8 stair 16b/-0.06 36b/-0.03
+05:01:40 [180/281] V4_G8_P013 - G8 stair 18b/-0.07 40b/-0.04
+05:02:21 [172/281] V4_G8_P005 - G8 stair 16b/-0.06 40b/-0.04
+05:02:25 [181/281] V4_G8_P014 - G8 stair 18b/-0.07 48b/-0.05
+05:03:03 [173/281] V4_G8_P006 - G8 stair 16b/-0.06 48b/-0.05
+05:03:07 [182/281] V4_G8_P015 - G8 stair 20b/-0.05 36b/-0.03
+05:03:45 [174/281] V4_G8_P007 - G8 stair 16b/-0.07 40b/-0.03
+05:03:48 [183/281] V4_G8_P016 - G8 stair 20b/-0.05 40b/-0.04
+05:04:26 [175/281] V4_G8_P008 - G8 stair 16b/-0.07 44b/-0.04
+05:04:32 [184/281] V4_G8_P017 - G8 stair 20b/-0.05 48b/-0.05
+05:05:11 [176/281] V4_G8_P009 - G8 stair 18b/-0.05 36b/-0.03
+05:05:17 [185/281] V4_G8_P018 - G8 stair 20b/-0.06 36b/-0.03
+05:05:55 [177/281] V4_G8_P010 - G8 stair 18b/-0.05 40b/-0.05
+05:06:00 [186/281] V4_G8_P019 - G8 stair 20b/-0.06 40b/-0.04
+05:06:41 [178/281] V4_G8_P011 - G8 stair 18b/-0.06 36b/-0.04
+05:06:43 [187/281] V4_G8_P020 - G8 stair 20b/-0.06 44b/-0.05
+05:07:25 [179/281] V4_G8_P012 - G8 stair 18b/-0.06 44b/-0.03
+05:07:26 [188/281] V4_G8_P021 - G8 stair 20b/-0.07 36b/-0.04
+05:08:08 [180/281] V4_G8_P013 - G8 stair 18b/-0.07 40b/-0.04
+05:08:09 [189/281] V4_G8_P022 - G8 stair 20b/-0.07 40b/-0.05
+05:08:48 [181/281] V4_G8_P014 - G8 stair 18b/-0.07 48b/-0.05
+05:08:50 [190/281] V4_G8_P023 - G8 stair 20b/-0.07 48b/-0.03
+05:09:36 [191/281] V4_G8_P024 - G8 stair 22b/-0.05 40b/-0.03
+05:09:36 [182/281] V4_G8_P015 - G8 stair 20b/-0.05 36b/-0.03
+05:10:21 [192/281] V4_G8_P025 - G8 stair 22b/-0.05 44b/-0.04
+05:10:21 [183/281] V4_G8_P016 - G8 stair 20b/-0.05 40b/-0.04
+05:11:03 [184/281] V4_G8_P017 - G8 stair 20b/-0.05 48b/-0.05
+05:11:03 [193/281] V4_G8_P026 - G8 stair 22b/-0.06 36b/-0.05
+05:11:47 [185/281] V4_G8_P018 - G8 stair 20b/-0.06 36b/-0.03
+05:11:47 [194/281] V4_G8_P027 - G8 stair 22b/-0.06 40b/-0.03
+05:12:29 [186/281] V4_G8_P019 - G8 stair 20b/-0.06 40b/-0.04
+05:12:29 [195/281] V4_G8_P028 - G8 stair 22b/-0.06 48b/-0.04
+05:13:12 [196/281] V4_G8_P029 - G8 stair 22b/-0.07 36b/-0.03
+05:13:12 [187/281] V4_G8_P020 - G8 stair 20b/-0.06 44b/-0.05
+05:13:53 [197/281] V4_G8_P030 - G8 stair 22b/-0.07 40b/-0.05
+05:13:54 [188/281] V4_G8_P021 - G8 stair 20b/-0.07 36b/-0.04
+05:14:36 [198/281] V4_G8_P031 - G8 stair 24b/-0.05 36b/-0.04
+05:14:36 [189/281] V4_G8_P022 - G8 stair 20b/-0.07 40b/-0.05
+05:15:21 [199/281] V4_G8_P032 - G8 stair 24b/-0.05 44b/-0.03
+05:15:21 [190/281] V4_G8_P023 - G8 stair 20b/-0.07 48b/-0.03
+05:16:07 [200/281] V4_G8_P033 - G8 stair 24b/-0.06 40b/-0.05
+05:16:07 [191/281] V4_G8_P024 - G8 stair 22b/-0.05 40b/-0.03
+05:16:52 [192/281] V4_G8_P025 - G8 stair 22b/-0.05 44b/-0.04
+05:16:52 [201/281] V4_G8_P034 - G8 stair 24b/-0.06 48b/-0.03
+05:17:39 [193/281] V4_G8_P026 - G8 stair 22b/-0.06 36b/-0.05
+05:17:39 [202/281] V4_G8_P035 - G8 stair 24b/-0.07 36b/-0.04
+05:18:23 [203/281] V4_G8_P036 - G8 stair 24b/-0.07 40b/-0.03
+05:18:23 [194/281] V4_G8_P027 - G8 stair 22b/-0.06 40b/-0.03
+05:19:08 [195/281] V4_G8_P028 - G8 stair 22b/-0.06 48b/-0.04
+05:19:08 [204/281] V4_G9_P001 - G9 exclude [0,4) UTC stair=True
+05:19:30 [205/281] V4_G9_P002 - G9 exclude [0,4) UTC stair=False
+05:19:51 [206/281] V4_G9_P003 - G9 exclude [4,8) UTC stair=True
+05:19:51 [196/281] V4_G8_P029 - G8 stair 22b/-0.07 36b/-0.03
+05:20:12 [207/281] V4_G9_P004 - G9 exclude [4,8) UTC stair=False
+05:20:33 [208/281] V4_G9_P005 - G9 exclude [8,12) UTC stair=True
+05:20:33 [197/281] V4_G8_P030 - G8 stair 22b/-0.07 40b/-0.05
+05:20:53 [209/281] V4_G9_P006 - G9 exclude [8,12) UTC stair=False
+05:21:15 [210/281] V4_G9_P007 - G9 exclude [12,16) UTC stair=True
+05:21:15 [198/281] V4_G8_P031 - G8 stair 24b/-0.05 36b/-0.04
+05:21:35 [211/281] V4_G9_P008 - G9 exclude [12,16) UTC stair=False
+05:21:56 [199/281] V4_G8_P032 - G8 stair 24b/-0.05 44b/-0.03
+05:21:56 [212/281] V4_G9_P009 - G9 exclude [16,20) UTC stair=True
+05:22:18 [213/281] V4_G9_P010 - G9 exclude [16,20) UTC stair=False
+05:22:38 [200/281] V4_G8_P033 - G8 stair 24b/-0.06 40b/-0.05
+05:22:39 [214/281] V4_G9_P011 - G9 exclude [20,24) UTC stair=True
+05:23:00 [215/281] V4_G9_P012 - G9 exclude [20,24) UTC stair=False
+05:23:20 [216/281] V4_G9_P013 - G9 allow_8_20 stair=True
+05:23:21 [201/281] V4_G8_P034 - G8 stair 24b/-0.06 48b/-0.03
+05:23:41 [217/281] V4_G9_P014 - G9 allow_8_20 stair=False
+05:24:03 [218/281] V4_G9_P015 - G9 allow_12_24 stair=True
+05:24:03 [202/281] V4_G8_P035 - G8 stair 24b/-0.07 36b/-0.04
+05:24:23 [219/281] V4_G9_P016 - G9 allow_12_24 stair=False
+05:24:44 [220/281] V4_G9_P017 - G9 allow_0_12 stair=True
+05:24:44 [203/281] V4_G8_P036 - G8 stair 24b/-0.07 40b/-0.03
+05:25:05 [221/281] V4_G9_P018 - G9 allow_0_12 stair=False
+05:25:27 [222/281] V4_G9_P019 - G9 hybrid ex0_4_allow8_20 stair=True
+05:25:29 [204/281] V4_G9_P001 - G9 exclude [0,4) UTC stair=True
+05:25:47 [223/281] V4_G9_P020 - G9 hybrid ex0_4_allow8_20 stair=False
+05:25:50 [205/281] V4_G9_P002 - G9 exclude [0,4) UTC stair=False
+05:26:08 [224/281] V4_G9_P021 - G9 hybrid ex20_24_allow12_24 stair=True
+05:26:11 [206/281] V4_G9_P003 - G9 exclude [4,8) UTC stair=True
+05:26:28 [225/281] V4_G9_P022 - G9 hybrid ex20_24_allow12_24 stair=False
+05:26:33 [207/281] V4_G9_P004 - G9 exclude [4,8) UTC stair=False
+05:26:50 [226/281] V4_G9_P023 - G9 hybrid ex8_12_allow0_12 stair=True
+05:26:54 [208/281] V4_G9_P005 - G9 exclude [8,12) UTC stair=True
+05:27:10 [227/281] V4_G9_P024 - G9 hybrid ex8_12_allow0_12 stair=False
+05:27:15 [209/281] V4_G9_P006 - G9 exclude [8,12) UTC stair=False
+05:27:31 [228/281] V4_G10_P001 - G10 Stoch K=9 D=3 th>60 stair=True
+05:27:36 [210/281] V4_G9_P007 - G9 exclude [12,16) UTC stair=True
+05:27:59 [211/281] V4_G9_P008 - G9 exclude [12,16) UTC stair=False
+05:28:12 [229/281] V4_G10_P002 - G10 Stoch K=9 D=3 th>60 stair=False
+05:28:20 [212/281] V4_G9_P009 - G9 exclude [16,20) UTC stair=True
+05:28:41 [213/281] V4_G9_P010 - G9 exclude [16,20) UTC stair=False
+05:28:51 [230/281] V4_G10_P003 - G10 Stoch K=9 D=3 th>80 stair=True
+05:29:03 [214/281] V4_G9_P011 - G9 exclude [20,24) UTC stair=True
+05:29:24 [215/281] V4_G9_P012 - G9 exclude [20,24) UTC stair=False
+05:29:26 [231/281] V4_G10_P004 - G10 Stoch K=9 D=3 th>80 stair=False
+05:29:45 [216/281] V4_G9_P013 - G9 allow_8_20 stair=True
+05:30:02 [232/281] V4_G10_P005 - G10 Stoch K=9 D=5 th>60 stair=True
+05:30:06 [217/281] V4_G9_P014 - G9 allow_8_20 stair=False
+05:30:29 [218/281] V4_G9_P015 - G9 allow_12_24 stair=True
+05:30:46 [233/281] V4_G10_P006 - G10 Stoch K=9 D=5 th>60 stair=False
+05:30:52 [219/281] V4_G9_P016 - G9 allow_12_24 stair=False
+05:31:13 [220/281] V4_G9_P017 - G9 allow_0_12 stair=True
+05:31:28 [234/281] V4_G10_P007 - G10 Stoch K=9 D=5 th>80 stair=True
+05:31:35 [221/281] V4_G9_P018 - G9 allow_0_12 stair=False
+05:31:57 [222/281] V4_G9_P019 - G9 hybrid ex0_4_allow8_20 stair=True
+05:32:02 [235/281] V4_G10_P008 - G10 Stoch K=9 D=5 th>80 stair=False
+05:32:18 [223/281] V4_G9_P020 - G9 hybrid ex0_4_allow8_20 stair=False
+05:32:37 [236/281] V4_G10_P009 - G10 Stoch K=14 D=3 th>60 stair=True
+05:32:38 [224/281] V4_G9_P021 - G9 hybrid ex20_24_allow12_24 stair=True
+05:33:00 [225/281] V4_G9_P022 - G9 hybrid ex20_24_allow12_24 stair=False
+05:33:16 [237/281] V4_G10_P010 - G10 Stoch K=14 D=3 th>60 stair=False
+05:33:22 [226/281] V4_G9_P023 - G9 hybrid ex8_12_allow0_12 stair=True
+05:33:43 [227/281] V4_G9_P024 - G9 hybrid ex8_12_allow0_12 stair=False
+05:33:55 [238/281] V4_G10_P011 - G10 Stoch K=14 D=3 th>80 stair=True
+05:34:03 [228/281] V4_G10_P001 - G10 Stoch K=9 D=3 th>60 stair=True
+05:34:34 [239/281] V4_G10_P012 - G10 Stoch K=14 D=3 th>80 stair=False
+05:34:42 [229/281] V4_G10_P002 - G10 Stoch K=9 D=3 th>60 stair=False
+05:35:19 [240/281] V4_G10_P013 - G10 Stoch K=14 D=5 th>60 stair=True
+05:35:24 [230/281] V4_G10_P003 - G10 Stoch K=9 D=3 th>80 stair=True
+05:36:03 [231/281] V4_G10_P004 - G10 Stoch K=9 D=3 th>80 stair=False
+05:36:03 [241/281] V4_G10_P014 - G10 Stoch K=14 D=5 th>60 stair=False
+05:36:41 [232/281] V4_G10_P005 - G10 Stoch K=9 D=5 th>60 stair=True
+05:36:45 [242/281] V4_G10_P015 - G10 Stoch K=14 D=5 th>80 stair=True
+05:37:19 [233/281] V4_G10_P006 - G10 Stoch K=9 D=5 th>60 stair=False
+05:37:22 [243/281] V4_G10_P016 - G10 Stoch K=14 D=5 th>80 stair=False
+05:38:01 [234/281] V4_G10_P007 - G10 Stoch K=9 D=5 th>80 stair=True
+05:38:01 [244/281] V4_G10_P017 - G10 Stoch K=21 D=3 th>60 stair=True
+05:38:38 [235/281] V4_G10_P008 - G10 Stoch K=9 D=5 th>80 stair=False
+05:38:42 [245/281] V4_G10_P018 - G10 Stoch K=21 D=3 th>60 stair=False
+05:39:16 [236/281] V4_G10_P009 - G10 Stoch K=14 D=3 th>60 stair=True
+05:39:23 [246/281] V4_G10_P019 - G10 Stoch K=21 D=3 th>80 stair=True
+05:39:54 [237/281] V4_G10_P010 - G10 Stoch K=14 D=3 th>60 stair=False
+05:40:00 [247/281] V4_G10_P020 - G10 Stoch K=21 D=3 th>80 stair=False
+05:40:38 [238/281] V4_G10_P011 - G10 Stoch K=14 D=3 th>80 stair=True
+05:40:40 [248/281] V4_G10_P021 - G10 Stoch K=21 D=5 th>60 stair=True
+05:41:24 [239/281] V4_G10_P012 - G10 Stoch K=14 D=3 th>80 stair=False
+05:41:26 [249/281] V4_G10_P022 - G10 Stoch K=21 D=5 th>60 stair=False
+05:42:06 [240/281] V4_G10_P013 - G10 Stoch K=14 D=5 th>60 stair=True
+05:42:09 [250/281] V4_G10_P023 - G10 Stoch K=21 D=5 th>80 stair=True
+05:42:48 [251/281] V4_G10_P024 - G10 Stoch K=21 D=5 th>80 stair=False
+05:42:50 [241/281] V4_G10_P014 - G10 Stoch K=14 D=5 th>60 stair=False
+05:43:28 [252/281] V4_G11_P001 - G11 score>0.6 equal stair=True
+05:43:31 [242/281] V4_G10_P015 - G10 Stoch K=14 D=5 th>80 stair=True
+05:44:09 [243/281] V4_G10_P016 - G10 Stoch K=14 D=5 th>80 stair=False
+05:44:41 [253/281] V4_G11_P002 - G11 score>0.6 equal stair=False
+05:44:45 [244/281] V4_G10_P017 - G10 Stoch K=21 D=3 th>60 stair=True
+05:45:28 [245/281] V4_G10_P018 - G10 Stoch K=21 D=3 th>60 stair=False
+05:46:04 [254/281] V4_G11_P003 - G11 score>0.6 w_adx2 stair=True
+05:46:13 [246/281] V4_G10_P019 - G10 Stoch K=21 D=3 th>80 stair=True
+05:46:52 [247/281] V4_G10_P020 - G10 Stoch K=21 D=3 th>80 stair=False
+05:47:22 [255/281] V4_G11_P004 - G11 score>0.6 w_adx2 stair=False
+05:47:32 [248/281] V4_G10_P021 - G10 Stoch K=21 D=5 th>60 stair=True
+05:48:11 [249/281] V4_G10_P022 - G10 Stoch K=21 D=5 th>60 stair=False
+05:48:38 [256/281] V4_G11_P005 - G11 score>0.6 w_atr2 stair=True
+05:48:51 [250/281] V4_G10_P023 - G10 Stoch K=21 D=5 th>80 stair=True
+05:49:29 [251/281] V4_G10_P024 - G10 Stoch K=21 D=5 th>80 stair=False
+05:49:52 [257/281] V4_G11_P006 - G11 score>0.6 w_atr2 stair=False
+05:50:08 [252/281] V4_G11_P001 - G11 score>0.6 equal stair=True
+05:51:07 [258/281] V4_G11_P007 - G11 score>0.6 w_di2 stair=True
+05:51:25 [253/281] V4_G11_P002 - G11 score>0.6 equal stair=False
+05:52:25 [259/281] V4_G11_P008 - G11 score>0.6 w_di2 stair=False
+05:52:37 [254/281] V4_G11_P003 - G11 score>0.6 w_adx2 stair=True
+05:53:37 [260/281] V4_G11_P009 - G11 score>0.6 w_slope2 stair=True
+05:53:46 [255/281] V4_G11_P004 - G11 score>0.6 w_adx2 stair=False
+05:54:55 [261/281] V4_G11_P010 - G11 score>0.6 w_slope2 stair=False
+05:55:03 [256/281] V4_G11_P005 - G11 score>0.6 w_atr2 stair=True
+05:56:10 [262/281] V4_G11_P011 - G11 score>0.8 equal stair=True
+05:56:16 [257/281] V4_G11_P006 - G11 score>0.6 w_atr2 stair=False
+05:57:26 [263/281] V4_G11_P012 - G11 score>0.8 equal stair=False
+05:57:28 [258/281] V4_G11_P007 - G11 score>0.6 w_di2 stair=True
+05:58:37 [264/281] V4_G11_P013 - G11 score>0.8 w_adx2 stair=True
+05:58:38 [259/281] V4_G11_P008 - G11 score>0.6 w_di2 stair=False
+05:59:51 [265/281] V4_G11_P014 - G11 score>0.8 w_adx2 stair=False
+05:59:53 [260/281] V4_G11_P009 - G11 score>0.6 w_slope2 stair=True
+06:01:07 [261/281] V4_G11_P010 - G11 score>0.6 w_slope2 stair=False
+06:01:09 [266/281] V4_G11_P015 - G11 score>0.8 w_atr2 stair=True
+06:02:25 [267/281] V4_G11_P016 - G11 score>0.8 w_atr2 stair=False
+06:02:26 [262/281] V4_G11_P011 - G11 score>0.8 equal stair=True
+06:03:42 [263/281] V4_G11_P012 - G11 score>0.8 equal stair=False
+06:03:43 [268/281] V4_G11_P017 - G11 score>0.8 w_di2 stair=True
+06:04:57 [269/281] V4_G11_P018 - G11 score>0.8 w_di2 stair=False
+06:04:57 [264/281] V4_G11_P013 - G11 score>0.8 w_adx2 stair=True
+06:06:11 [265/281] V4_G11_P014 - G11 score>0.8 w_adx2 stair=False
+06:06:12 [270/281] V4_G11_P019 - G11 score>0.8 w_slope2 stair=True
+06:07:29 [271/281] V4_G11_P020 - G11 score>0.8 w_slope2 stair=False
+06:07:31 [266/281] V4_G11_P015 - G11 score>0.8 w_atr2 stair=True
+06:08:45 [272/281] V4_G11_P021 - G11 score>1.0 equal stair=True
+06:08:45 [267/281] V4_G11_P016 - G11 score>0.8 w_atr2 stair=False
+06:10:02 [273/281] V4_G11_P022 - G11 score>1.0 equal stair=False
+06:10:02 [268/281] V4_G11_P017 - G11 score>0.8 w_di2 stair=True
+06:11:22 [269/281] V4_G11_P018 - G11 score>0.8 w_di2 stair=False
+06:11:22 [274/281] V4_G11_P023 - G11 score>1.0 w_adx2 stair=True
+06:12:41 [275/281] V4_G11_P024 - G11 score>1.0 w_adx2 stair=False
+06:12:41 [270/281] V4_G11_P019 - G11 score>0.8 w_slope2 stair=True
+06:13:51 [271/281] V4_G11_P020 - G11 score>0.8 w_slope2 stair=False
+06:13:53 [276/281] V4_G11_P025 - G11 score>1.0 w_atr2 stair=True
+06:15:07 [277/281] V4_G11_P026 - G11 score>1.0 w_atr2 stair=False
+06:15:07 [272/281] V4_G11_P021 - G11 score>1.0 equal stair=True
+06:16:22 [273/281] V4_G11_P022 - G11 score>1.0 equal stair=False
+06:16:23 [278/281] V4_G11_P027 - G11 score>1.0 w_di2 stair=True
+06:17:35 [274/281] V4_G11_P023 - G11 score>1.0 w_adx2 stair=True
+06:17:36 [279/281] V4_G11_P028 - G11 score>1.0 w_di2 stair=False
+06:18:48 [275/281] V4_G11_P024 - G11 score>1.0 w_adx2 stair=False
+06:18:49 [280/281] V4_G11_P029 - G11 score>1.0 w_slope2 stair=True
+06:20:06 [281/281] V4_G11_P030 - G11 score>1.0 w_slope2 stair=False
+06:20:06 [276/281] V4_G11_P025 - G11 score>1.0 w_atr2 stair=True
+06:21:23 [277/281] V4_G11_P026 - G11 score>1.0 w_atr2 stair=False
+06:22:36 [278/281] V4_G11_P027 - G11 score>1.0 w_di2 stair=True
+06:23:45 [279/281] V4_G11_P028 - G11 score>1.0 w_di2 stair=False
+06:24:55 [280/281] V4_G11_P029 - G11 score>1.0 w_slope2 stair=True
+06:26:04 [281/281] V4_G11_P030 - G11 score>1.0 w_slope2 stair=False

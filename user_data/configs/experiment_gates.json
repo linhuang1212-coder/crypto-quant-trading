@@ -1,0 +1,51 @@
+{
+  "baseline": {
+    "sharpe": 1.21,
+    "profit_factor": 1.50,
+    "max_drawdown_pct": 11.24,
+    "tot_profit_pct": 1398,
+    "trades": 1098,
+    "note": "CryptoV11 全样本 2020-2026Q1"
+  },
+  "baseline_yearly_note": "参考：2020:+85% Sharpe1.72 / 2021:+115% Sharpe1.91 / 2022:+6.94% Sharpe0.21 / 2023:+74% Sharpe1.33 / 2024:+36% Sharpe1.14 / 2025Q1:+46% Sharpe1.07",
+  "full_sample_timerange": "20200101-20260401",
+  "stage1": {
+    "min_sharpe": 0.90,
+    "min_pf": 1.30,
+    "min_trades": 800,
+    "max_dd": 25.0
+  },
+  "stage2": {
+    "max_cv_stable": 0.5,
+    "max_cv_acceptable": 0.8,
+    "min_profitable_years": 5,
+    "min_eligible_years": 5,
+    "min_trades_per_year": 50,
+    "max_sharpe_floor": -0.5,
+    "bear_year": "2022",
+    "bear_min_sharpe": -0.3,
+    "yearly_periods": [
+      {"year": "2020",   "range": "20200101-20210101"},
+      {"year": "2021",   "range": "20210101-20220101"},
+      {"year": "2022",   "range": "20220101-20230101"},
+      {"year": "2023",   "range": "20230101-20240101"},
+      {"year": "2024",   "range": "20240101-20250101"},
+      {"year": "2025Q1", "range": "20250101-20260401"}
+    ]
+  },
+  "stage3": {
+    "min_oos": 0.5,
+    "strong_rec_min_oos": 0.8,
+    "pf_decay_threshold": 0.8,
+    "walkforward_windows": [
+      {"name": "W1", "train": "20200101-20230101", "test": "20230101-20240101"},
+      {"name": "W2", "train": "20210101-20240101", "test": "20240101-20250101"},
+      {"name": "W3", "train": "20220101-20250101", "test": "20250101-20260401"}
+    ]
+  },
+  "analysis": {
+    "neighbor_smooth_std": 0.1,
+    "neighbor_normal_std_max": 0.3,
+    "overfit_spike_delta": 0.3
+  }
+}

@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "4H=adx ADX4H>20 RSI4H(0-100)",
+    "strategy": "V3_MTF_adx_20_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "adx",
+      "adx_4h_min": 20,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=adx ADX4H>25 RSI4H(0-100)",
+    "strategy": "V3_MTF_adx_25_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "adx",
+      "adx_4h_min": 25,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=adx ADX4H>30 RSI4H(0-100)",
+    "strategy": "V3_MTF_adx_30_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "adx",
+      "adx_4h_min": 30,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=rsi ADX4H>0 RSI4H(40-70)",
+    "strategy": "V3_MTF_rsi_0_40_70",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 40,
+      "rsi_4h_max": 70
+    }
+  },
+  {
+    "name": "4H=rsi ADX4H>0 RSI4H(45-75)",
+    "strategy": "V3_MTF_rsi_0_45_75",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 45,
+      "rsi_4h_max": 75
+    }
+  },
+  {
+    "name": "4H=rsi ADX4H>0 RSI4H(50-80)",
+    "strategy": "V3_MTF_rsi_0_50_80",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 50,
+      "rsi_4h_max": 80
+    }
+  },
+  {
+    "name": "4H=rsi ADX4H>0 RSI4H(35-65)",
+    "strategy": "V3_MTF_rsi_0_35_65",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 35,
+      "rsi_4h_max": 65
+    }
+  },
+  {
+    "name": "4H=ema_adx ADX4H>20 RSI4H(0-100)",
+    "strategy": "V3_MTF_ema_adx_20_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "ema_adx",
+      "adx_4h_min": 20,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=ema_adx ADX4H>25 RSI4H(0-100)",
+    "strategy": "V3_MTF_ema_adx_25_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "ema_adx",
+      "adx_4h_min": 25,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=ema_rsi ADX4H>0 RSI4H(40-75)",
+    "strategy": "V3_MTF_ema_rsi_0_40_75",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "ema_rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 40,
+      "rsi_4h_max": 75
+    }
+  },
+  {
+    "name": "4H=ema_rsi ADX4H>0 RSI4H(50-80)",
+    "strategy": "V3_MTF_ema_rsi_0_50_80",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "ema_rsi",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 50,
+      "rsi_4h_max": 80
+    }
+  },
+  {
+    "name": "4H=all ADX4H>20 RSI4H(40-100)",
+    "strategy": "V3_MTF_all_20_40_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "all",
+      "adx_4h_min": 20,
+      "rsi_4h_min": 40,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=all ADX4H>25 RSI4H(45-100)",
+    "strategy": "V3_MTF_all_25_45_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "all",
+      "adx_4h_min": 25,
+      "rsi_4h_min": 45,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "4H=none ADX4H>0 RSI4H(0-100)",
+    "strategy": "V3_MTF_none_0_0_100",
+    "group": "mtf_variant",
+    "params": {
+      "confirm_4h": "none",
+      "adx_4h_min": 0,
+      "rsi_4h_min": 0,
+      "rsi_4h_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 40<RSI<100",
+    "strategy": "V3_DCRSI_14_40_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 40,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 45<RSI<100",
+    "strategy": "V3_DCRSI_14_45_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 45,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 50<RSI<100",
+    "strategy": "V3_DCRSI_14_50_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 50,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 55<RSI<100",
+    "strategy": "V3_DCRSI_14_55_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 55,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 60<RSI<100",
+    "strategy": "V3_DCRSI_14_60_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 60,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(14) 40<RSI<75",
+    "strategy": "V3_DCRSI_14_40_75",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 40,
+      "rsi_max": 75
+    }
+  },
+  {
+    "name": "DC+RSI(14) 40<RSI<80",
+    "strategy": "V3_DCRSI_14_40_80",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 40,
+      "rsi_max": 80
+    }
+  },
+  {
+    "name": "DC+RSI(14) 50<RSI<80",
+    "strategy": "V3_DCRSI_14_50_80",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 50,
+      "rsi_max": 80
+    }
+  },
+  {
+    "name": "DC+RSI(14) 50<RSI<75",
+    "strategy": "V3_DCRSI_14_50_75",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 14,
+      "rsi_min": 50,
+      "rsi_max": 75
+    }
+  },
+  {
+    "name": "DC+RSI(7) 40<RSI<100",
+    "strategy": "V3_DCRSI_7_40_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 7,
+      "rsi_min": 40,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(7) 50<RSI<100",
+    "strategy": "V3_DCRSI_7_50_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 7,
+      "rsi_min": 50,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(7) 50<RSI<80",
+    "strategy": "V3_DCRSI_7_50_80",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 7,
+      "rsi_min": 50,
+      "rsi_max": 80
+    }
+  },
+  {
+    "name": "DC+RSI(21) 40<RSI<100",
+    "strategy": "V3_DCRSI_21_40_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 21,
+      "rsi_min": 40,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "DC+RSI(21) 50<RSI<100",
+    "strategy": "V3_DCRSI_21_50_100",
+    "group": "dc_rsi_filter",
+    "params": {
+      "rsi_period": 21,
+      "rsi_min": 50,
+      "rsi_max": 100
+    }
+  },
+  {
+    "name": "ATR_SL=1.5x ATR_TP=3.0x",
+    "strategy": "V3_ATRSL_15_30",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 1.5,
+      "atr_tp_mult": 3.0
+    }
+  },
+  {
+    "name": "ATR_SL=1.5x ATR_TP=4.0x",
+    "strategy": "V3_ATRSL_15_40",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 1.5,
+      "atr_tp_mult": 4.0
+    }
+  },
+  {
+    "name": "ATR_SL=1.5x ATR_TP=5.0x",
+    "strategy": "V3_ATRSL_15_50",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 1.5,
+      "atr_tp_mult": 5.0
+    }
+  },
+  {
+    "name": "ATR_SL=1.5x ATR_TP=6.0x",
+    "strategy": "V3_ATRSL_15_60",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 1.5,
+      "atr_tp_mult": 6.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.0x ATR_TP=3.0x",
+    "strategy": "V3_ATRSL_20_30",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.0,
+      "atr_tp_mult": 3.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.0x ATR_TP=4.0x",
+    "strategy": "V3_ATRSL_20_40",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.0,
+      "atr_tp_mult": 4.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.0x ATR_TP=5.0x",
+    "strategy": "V3_ATRSL_20_50",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.0,
+      "atr_tp_mult": 5.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.0x ATR_TP=6.0x",
+    "strategy": "V3_ATRSL_20_60",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.0,
+      "atr_tp_mult": 6.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.0x ATR_TP=8.0x",
+    "strategy": "V3_ATRSL_20_80",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.0,
+      "atr_tp_mult": 8.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.5x ATR_TP=4.0x",
+    "strategy": "V3_ATRSL_25_40",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.5,
+      "atr_tp_mult": 4.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.5x ATR_TP=5.0x",
+    "strategy": "V3_ATRSL_25_50",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.5,
+      "atr_tp_mult": 5.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.5x ATR_TP=6.0x",
+    "strategy": "V3_ATRSL_25_60",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.5,
+      "atr_tp_mult": 6.0
+    }
+  },
+  {
+    "name": "ATR_SL=2.5x ATR_TP=8.0x",
+    "strategy": "V3_ATRSL_25_80",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 2.5,
+      "atr_tp_mult": 8.0
+    }
+  },
+  {
+    "name": "ATR_SL=3.0x ATR_TP=5.0x",
+    "strategy": "V3_ATRSL_30_50",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 3.0,
+      "atr_tp_mult": 5.0
+    }
+  },
+  {
+    "name": "ATR_SL=3.0x ATR_TP=6.0x",
+    "strategy": "V3_ATRSL_30_60",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 3.0,
+      "atr_tp_mult": 6.0
+    }
+  },
+  {
+    "name": "ATR_SL=3.0x ATR_TP=8.0x",
+    "strategy": "V3_ATRSL_30_80",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 3.0,
+      "atr_tp_mult": 8.0
+    }
+  },
+  {
+    "name": "ATR_SL=3.0x ATR_TP=10.0x",
+    "strategy": "V3_ATRSL_30_100",
+    "group": "atr_adaptive_exit",
+    "params": {
+      "atr_sl_mult": 3.0,
+      "atr_tp_mult": 10.0
+    }
+  },
+  {
+    "name": "DC+Vol(p=20) >1.2x avg",
+    "strategy": "V3_Vol_20_12",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 20,
+      "vol_mult": 1.2
+    }
+  },
+  {
+    "name": "DC+Vol(p=20) >1.5x avg",
+    "strategy": "V3_Vol_20_15",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 20,
+      "vol_mult": 1.5
+    }
+  },
+  {
+    "name": "DC+Vol(p=20) >2.0x avg",
+    "strategy": "V3_Vol_20_20",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 20,
+      "vol_mult": 2.0
+    }
+  },
+  {
+    "name": "DC+Vol(p=20) >2.5x avg",
+    "strategy": "V3_Vol_20_25",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 20,
+      "vol_mult": 2.5
+    }
+  },
+  {
+    "name": "DC+Vol(p=20) >3.0x avg",
+    "strategy": "V3_Vol_20_30",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 20,
+      "vol_mult": 3.0
+    }
+  },
+  {
+    "name": "DC+Vol(p=10) >1.5x avg",
+    "strategy": "V3_Vol_10_15",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 10,
+      "vol_mult": 1.5
+    }
+  },
+  {
+    "name": "DC+Vol(p=10) >2.0x avg",
+    "strategy": "V3_Vol_10_20",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 10,
+      "vol_mult": 2.0
+    }
+  },
+  {
+    "name": "DC+Vol(p=10) >2.5x avg",
+    "strategy": "V3_Vol_10_25",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 10,
+      "vol_mult": 2.5
+    }
+  },
+  {
+    "name": "DC+Vol(p=50) >1.5x avg",
+    "strategy": "V3_Vol_50_15",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 50,
+      "vol_mult": 1.5
+    }
+  },
+  {
+    "name": "DC+Vol(p=50) >2.0x avg",
+    "strategy": "V3_Vol_50_20",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 50,
+      "vol_mult": 2.0
+    }
+  },
+  {
+    "name": "DC+Vol(p=50) >2.5x avg",
+    "strategy": "V3_Vol_50_25",
+    "group": "dc_volume",
+    "params": {
+      "vol_period": 50,
+      "vol_mult": 2.5
+    }
+  },
+  {
+    "name": "Ichimoku(9/26/52)",
+    "strategy": "V3_Ichi_9_26_52",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 9,
+      "kijun": 26,
+      "senkou_b": 52
+    }
+  },
+  {
+    "name": "Ichimoku(7/22/44)",
+    "strategy": "V3_Ichi_7_22_44",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 7,
+      "kijun": 22,
+      "senkou_b": 44
+    }
+  },
+  {
+    "name": "Ichimoku(13/34/68)",
+    "strategy": "V3_Ichi_13_34_68",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 13,
+      "kijun": 34,
+      "senkou_b": 68
+    }
+  },
+  {
+    "name": "Ichimoku(9/26/78)",
+    "strategy": "V3_Ichi_9_26_78",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 9,
+      "kijun": 26,
+      "senkou_b": 78
+    }
+  },
+  {
+    "name": "Ichimoku(20/60/120)",
+    "strategy": "V3_Ichi_20_60_120",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 20,
+      "kijun": 60,
+      "senkou_b": 120
+    }
+  },
+  {
+    "name": "Ichimoku(9/26/104)",
+    "strategy": "V3_Ichi_9_26_104",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 9,
+      "kijun": 26,
+      "senkou_b": 104
+    }
+  },
+  {
+    "name": "Ichimoku(5/13/26)",
+    "strategy": "V3_Ichi_5_13_26",
+    "group": "ichimoku",
+    "params": {
+      "tenkan": 5,
+      "kijun": 13,
+      "senkou_b": 26
+    }
+  },
+  {
+    "name": "NB+ADX=24",
+    "strategy": "V3_NB_ADX24",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 24
+    }
+  },
+  {
+    "name": "NB+ADX=26",
+    "strategy": "V3_NB_ADX26",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 26
+    }
+  },
+  {
+    "name": "NB+ADX=30",
+    "strategy": "V3_NB_ADX30",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 30
+    }
+  },
+  {
+    "name": "NB+ADX=32",
+    "strategy": "V3_NB_ADX32",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 32
+    }
+  },
+  {
+    "name": "NB+ATR=0.3",
+    "strategy": "V3_NB_ATR03",
+    "group": "newbase_opt",
+    "params": {
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "NB+ATR=0.4",
+    "strategy": "V3_NB_ATR04",
+    "group": "newbase_opt",
+    "params": {
+      "atr_mult": 0.4
+    }
+  },
+  {
+    "name": "NB+ATR=0.6",
+    "strategy": "V3_NB_ATR06",
+    "group": "newbase_opt",
+    "params": {
+      "atr_mult": 0.6
+    }
+  },
+  {
+    "name": "NB+ATR=0.7",
+    "strategy": "V3_NB_ATR07",
+    "group": "newbase_opt",
+    "params": {
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "NB+Offset=0.25",
+    "strategy": "V3_NB_Off025",
+    "group": "newbase_opt",
+    "params": {
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "NB+Offset=0.35",
+    "strategy": "V3_NB_Off035",
+    "group": "newbase_opt",
+    "params": {
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "NB+Offset=0.4",
+    "strategy": "V3_NB_Off04",
+    "group": "newbase_opt",
+    "params": {
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "NB+Offset=0.5",
+    "strategy": "V3_NB_Off05",
+    "group": "newbase_opt",
+    "params": {
+      "trail_offset": 0.5
+    }
+  },
+  {
+    "name": "NB+SL=-0.06",
+    "strategy": "V3_NB_SL006",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.06
+    }
+  },
+  {
+    "name": "NB+SL=-0.08",
+    "strategy": "V3_NB_SL008",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "NB+SL=-0.12",
+    "strategy": "V3_NB_SL012",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.12
+    }
+  },
+  {
+    "name": "NB+SL=-0.15",
+    "strategy": "V3_NB_SL015",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.15
+    }
+  },
+  {
+    "name": "NB+Lev=3",
+    "strategy": "V3_NB_Lev3",
+    "group": "newbase_opt",
+    "params": {
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "NB+Lev=4",
+    "strategy": "V3_NB_Lev4",
+    "group": "newbase_opt",
+    "params": {
+      "leverage": 4.0
+    }
+  },
+  {
+    "name": "NB+Lev=7",
+    "strategy": "V3_NB_Lev7",
+    "group": "newbase_opt",
+    "params": {
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "NB+TP=0.25",
+    "strategy": "V3_NB_TP025",
+    "group": "newbase_opt",
+    "params": {
+      "tp_big": 0.25
+    }
+  },
+  {
+    "name": "NB+TP=0.3",
+    "strategy": "V3_NB_TP03",
+    "group": "newbase_opt",
+    "params": {
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "NB+TP=0.5",
+    "strategy": "V3_NB_TP05",
+    "group": "newbase_opt",
+    "params": {
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "NB+TP=0.6",
+    "strategy": "V3_NB_TP06",
+    "group": "newbase_opt",
+    "params": {
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "NB+DC=14",
+    "strategy": "V3_NB_DC14",
+    "group": "newbase_opt",
+    "params": {
+      "dc_period": 14
+    }
+  },
+  {
+    "name": "NB+DC=16",
+    "strategy": "V3_NB_DC16",
+    "group": "newbase_opt",
+    "params": {
+      "dc_period": 16
+    }
+  },
+  {
+    "name": "NB+DC=25",
+    "strategy": "V3_NB_DC25",
+    "group": "newbase_opt",
+    "params": {
+      "dc_period": 25
+    }
+  },
+  {
+    "name": "NB+DC=30",
+    "strategy": "V3_NB_DC30",
+    "group": "newbase_opt",
+    "params": {
+      "dc_period": 30
+    }
+  },
+  {
+    "name": "NB+CD=12",
+    "strategy": "V3_NB_CD12",
+    "group": "newbase_opt",
+    "params": {
+      "cooldown_bars": 12
+    }
+  },
+  {
+    "name": "NB+CD=36",
+    "strategy": "V3_NB_CD36",
+    "group": "newbase_opt",
+    "params": {
+      "cooldown_bars": 36
+    }
+  },
+  {
+    "name": "NB+CD=48",
+    "strategy": "V3_NB_CD48",
+    "group": "newbase_opt",
+    "params": {
+      "cooldown_bars": 48
+    }
+  },
+  {
+    "name": "NB+A26_R0.5_O0.35",
+    "strategy": "V3_NB_Combo_A26R05O035",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "NB+A28_R0.6_O0.35",
+    "strategy": "V3_NB_Combo_A28R06O035",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.6,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "NB+A30_R0.5_O0.35",
+    "strategy": "V3_NB_Combo_A30R05O035",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "NB+A28_R0.5_O0.4",
+    "strategy": "V3_NB_Combo_A28R05O04",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "NB+A28_R0.5_O0.5",
+    "strategy": "V3_NB_Combo_A28R05O05",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "trail_offset": 0.5
+    }
+  },
+  {
+    "name": "NB+A26_R0.6_O0.4",
+    "strategy": "V3_NB_Combo_A26R06O04",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.6,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "NB+A30_R0.6_O0.4",
+    "strategy": "V3_NB_Combo_A30R06O04",
+    "group": "newbase_opt",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.6,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "NB+S-0.08_O0.35_T0.3",
+    "strategy": "V3_NB_SOT_00803503",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.08,
+      "trail_offset": 0.35,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "NB+S-0.08_O0.4_T0.3",
+    "strategy": "V3_NB_SOT_0080403",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.08,
+      "trail_offset": 0.4,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "NB+S-0.1_O0.35_T0.25",
+    "strategy": "V3_NB_SOT_01035025",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.1,
+      "trail_offset": 0.35,
+      "tp_big": 0.25
+    }
+  },
+  {
+    "name": "NB+S-0.1_O0.4_T0.25",
+    "strategy": "V3_NB_SOT_0104025",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.1,
+      "trail_offset": 0.4,
+      "tp_big": 0.25
+    }
+  },
+  {
+    "name": "NB+S-0.12_O0.35_T0.3",
+    "strategy": "V3_NB_SOT_01203503",
+    "group": "newbase_opt",
+    "params": {
+      "stoploss": -0.12,
+      "trail_offset": 0.35,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "DC+MFI(14)>40",
+    "strategy": "V3_MFI_14_40",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 14,
+      "mfi_min": 40
+    }
+  },
+  {
+    "name": "DC+MFI(14)>50",
+    "strategy": "V3_MFI_14_50",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 14,
+      "mfi_min": 50
+    }
+  },
+  {
+    "name": "DC+MFI(14)>60",
+    "strategy": "V3_MFI_14_60",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 14,
+      "mfi_min": 60
+    }
+  },
+  {
+    "name": "DC+MFI(14)>30",
+    "strategy": "V3_MFI_14_30",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 14,
+      "mfi_min": 30
+    }
+  },
+  {
+    "name": "DC+MFI(7)>50",
+    "strategy": "V3_MFI_7_50",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 7,
+      "mfi_min": 50
+    }
+  },
+  {
+    "name": "DC+MFI(7)>60",
+    "strategy": "V3_MFI_7_60",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 7,
+      "mfi_min": 60
+    }
+  },
+  {
+    "name": "DC+MFI(21)>40",
+    "strategy": "V3_MFI_21_40",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 21,
+      "mfi_min": 40
+    }
+  },
+  {
+    "name": "DC+MFI(21)>50",
+    "strategy": "V3_MFI_21_50",
+    "group": "dc_mfi",
+    "params": {
+      "mfi_period": 21,
+      "mfi_min": 50
+    }
+  }
+]

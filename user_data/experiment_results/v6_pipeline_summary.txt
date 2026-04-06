@@ -1,0 +1,11 @@
+﻿V6 Pipeline Summary
+===================
+Started:  04/05/2026 11:35:05
+Ended:    04/06/2026 03:07:54
+Duration: 15:32:49
+
+Stage 1:   completed=173 failed=0 resumed=0
+Stage 1.5: candidates=57
+Stage 2:   pass=50 fail=7
+Stage 3:   pass=50 fail=0
+

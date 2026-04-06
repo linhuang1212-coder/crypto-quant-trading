@@ -1,0 +1,1962 @@
+[
+  {
+    "name": "GA1 trail 0.01/0.2",
+    "strategy": "V5_GA1_P001",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.01,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.01/0.25",
+    "strategy": "V5_GA1_P002",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.01,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.01/0.3",
+    "strategy": "V5_GA1_P003",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.01,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.01/0.35",
+    "strategy": "V5_GA1_P004",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.01,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.01/0.4",
+    "strategy": "V5_GA1_P005",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.01,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA1 trail 0.02/0.2",
+    "strategy": "V5_GA1_P006",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.02,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.02/0.25",
+    "strategy": "V5_GA1_P007",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.02,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.02/0.3",
+    "strategy": "V5_GA1_P008",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.02,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.02/0.35",
+    "strategy": "V5_GA1_P009",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.02,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.02/0.4",
+    "strategy": "V5_GA1_P010",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.02,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA1 trail 0.03/0.2",
+    "strategy": "V5_GA1_P011",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.03,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.03/0.25",
+    "strategy": "V5_GA1_P012",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.03,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.03/0.3",
+    "strategy": "V5_GA1_P013",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.03,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.03/0.35",
+    "strategy": "V5_GA1_P014",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.03,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.03/0.4",
+    "strategy": "V5_GA1_P015",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.03,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA1 trail 0.04/0.2",
+    "strategy": "V5_GA1_P016",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.04,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.04/0.25",
+    "strategy": "V5_GA1_P017",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.04,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.04/0.3",
+    "strategy": "V5_GA1_P018",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.04,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.04/0.35",
+    "strategy": "V5_GA1_P019",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.04,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.04/0.4",
+    "strategy": "V5_GA1_P020",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.04,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA1 trail 0.05/0.2",
+    "strategy": "V5_GA1_P021",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.05,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.05/0.25",
+    "strategy": "V5_GA1_P022",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.05,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.05/0.3",
+    "strategy": "V5_GA1_P023",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.05,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.05/0.35",
+    "strategy": "V5_GA1_P024",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.05,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.05/0.4",
+    "strategy": "V5_GA1_P025",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.05,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA1 trail 0.06/0.2",
+    "strategy": "V5_GA1_P026",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.06,
+      "trailing_stop_positive_offset": 0.2
+    }
+  },
+  {
+    "name": "GA1 trail 0.06/0.25",
+    "strategy": "V5_GA1_P027",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.06,
+      "trailing_stop_positive_offset": 0.25
+    }
+  },
+  {
+    "name": "GA1 trail 0.06/0.3",
+    "strategy": "V5_GA1_P028",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.06,
+      "trailing_stop_positive_offset": 0.3
+    }
+  },
+  {
+    "name": "GA1 trail 0.06/0.35",
+    "strategy": "V5_GA1_P029",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.06,
+      "trailing_stop_positive_offset": 0.35
+    }
+  },
+  {
+    "name": "GA1 trail 0.06/0.4",
+    "strategy": "V5_GA1_P030",
+    "group": "group_a1_trailing",
+    "params": {
+      "trailing_stop_positive": 0.06,
+      "trailing_stop_positive_offset": 0.4
+    }
+  },
+  {
+    "name": "GA2 sl=-0.06 stair=True",
+    "strategy": "V5_GA2_P001",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.06,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.06 stair=False",
+    "strategy": "V5_GA2_P002",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.06,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.07 stair=True",
+    "strategy": "V5_GA2_P003",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.07,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.07 stair=False",
+    "strategy": "V5_GA2_P004",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.07,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.08 stair=True",
+    "strategy": "V5_GA2_P005",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.08,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.08 stair=False",
+    "strategy": "V5_GA2_P006",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.08,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.09 stair=True",
+    "strategy": "V5_GA2_P007",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.09,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.09 stair=False",
+    "strategy": "V5_GA2_P008",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.09,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.1 stair=True",
+    "strategy": "V5_GA2_P009",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.1,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.1 stair=False",
+    "strategy": "V5_GA2_P010",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.1,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.12 stair=True",
+    "strategy": "V5_GA2_P011",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.12,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.12 stair=False",
+    "strategy": "V5_GA2_P012",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.12,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA2 sl=-0.15 stair=True",
+    "strategy": "V5_GA2_P013",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.15,
+      "stair": true
+    }
+  },
+  {
+    "name": "GA2 sl=-0.15 stair=False",
+    "strategy": "V5_GA2_P014",
+    "group": "group_a2_stoploss",
+    "params": {
+      "stoploss": -0.15,
+      "stair": false
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.2",
+    "strategy": "V5_GA3_P001",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.2
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.25",
+    "strategy": "V5_GA3_P002",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.25
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.3",
+    "strategy": "V5_GA3_P003",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.3
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.35",
+    "strategy": "V5_GA3_P004",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.35
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.4",
+    "strategy": "V5_GA3_P005",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.4
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.5",
+    "strategy": "V5_GA3_P006",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.5
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.6",
+    "strategy": "V5_GA3_P007",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.6
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=0.8",
+    "strategy": "V5_GA3_P008",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 0.8
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=1.0",
+    "strategy": "V5_GA3_P009",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 1.0
+    }
+  },
+  {
+    "name": "GA3 TP_BIG=99.0",
+    "strategy": "V5_GA3_P010",
+    "group": "group_a3_tp_big",
+    "params": {
+      "TP_BIG": 99.0
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.04 32/-0.02",
+    "strategy": "V5_GA4_P001",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.04,
+      "bars2": 32,
+      "loss2": -0.02,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.04 36/-0.02",
+    "strategy": "V5_GA4_P002",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.04,
+      "bars2": 36,
+      "loss2": -0.02,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.05 32/-0.03",
+    "strategy": "V5_GA4_P003",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.05,
+      "bars2": 32,
+      "loss2": -0.03,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.05 36/-0.03",
+    "strategy": "V5_GA4_P004",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.05,
+      "bars2": 36,
+      "loss2": -0.03,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.06 32/-0.04",
+    "strategy": "V5_GA4_P005",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.06,
+      "bars2": 32,
+      "loss2": -0.04,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 16/-0.06 36/-0.04",
+    "strategy": "V5_GA4_P006",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 16,
+      "loss1": -0.06,
+      "bars2": 36,
+      "loss2": -0.04,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.04 36/-0.02",
+    "strategy": "V5_GA4_P007",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.04,
+      "bars2": 36,
+      "loss2": -0.02,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.04 40/-0.02",
+    "strategy": "V5_GA4_P008",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.04,
+      "bars2": 40,
+      "loss2": -0.02,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.05 36/-0.03",
+    "strategy": "V5_GA4_P009",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.05,
+      "bars2": 36,
+      "loss2": -0.03,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.05 40/-0.03",
+    "strategy": "V5_GA4_P010",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.05,
+      "bars2": 40,
+      "loss2": -0.03,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.06 36/-0.04",
+    "strategy": "V5_GA4_P011",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.06,
+      "bars2": 36,
+      "loss2": -0.04,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 18/-0.06 40/-0.04",
+    "strategy": "V5_GA4_P012",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 18,
+      "loss1": -0.06,
+      "bars2": 40,
+      "loss2": -0.04,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.04 40/-0.02",
+    "strategy": "V5_GA4_P013",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.04,
+      "bars2": 40,
+      "loss2": -0.02,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.04 44/-0.02",
+    "strategy": "V5_GA4_P014",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.04,
+      "bars2": 44,
+      "loss2": -0.02,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.05 40/-0.03",
+    "strategy": "V5_GA4_P015",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.05,
+      "bars2": 40,
+      "loss2": -0.03,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.05 44/-0.03",
+    "strategy": "V5_GA4_P016",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.05,
+      "bars2": 44,
+      "loss2": -0.03,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.06 40/-0.04",
+    "strategy": "V5_GA4_P017",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.06,
+      "bars2": 40,
+      "loss2": -0.04,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 20/-0.06 44/-0.04",
+    "strategy": "V5_GA4_P018",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 20,
+      "loss1": -0.06,
+      "bars2": 44,
+      "loss2": -0.04,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.04 44/-0.02",
+    "strategy": "V5_GA4_P019",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.04,
+      "bars2": 44,
+      "loss2": -0.02,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.04 48/-0.02",
+    "strategy": "V5_GA4_P020",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.04,
+      "bars2": 48,
+      "loss2": -0.02,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.05 44/-0.03",
+    "strategy": "V5_GA4_P021",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.05,
+      "bars2": 44,
+      "loss2": -0.03,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.05 48/-0.03",
+    "strategy": "V5_GA4_P022",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.05,
+      "bars2": 48,
+      "loss2": -0.03,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.06 44/-0.04",
+    "strategy": "V5_GA4_P023",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.06,
+      "bars2": 44,
+      "loss2": -0.04,
+      "bars2_extra": 0
+    }
+  },
+  {
+    "name": "GA4 stair 22/-0.06 48/-0.04",
+    "strategy": "V5_GA4_P024",
+    "group": "group_a4_stair_fine",
+    "params": {
+      "bars1": 22,
+      "loss1": -0.06,
+      "bars2": 48,
+      "loss2": -0.04,
+      "bars2_extra": 4
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=32 timeout=-0.02",
+    "strategy": "V5_GA5_P001",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 32,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=32 timeout=-0.03",
+    "strategy": "V5_GA5_P002",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 32,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=40 timeout=-0.02",
+    "strategy": "V5_GA5_P003",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 40,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=40 timeout=-0.03",
+    "strategy": "V5_GA5_P004",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 40,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=48 timeout=-0.02",
+    "strategy": "V5_GA5_P005",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 48,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=48 timeout=-0.03",
+    "strategy": "V5_GA5_P006",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 48,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=56 timeout=-0.02",
+    "strategy": "V5_GA5_P007",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 56,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=56 timeout=-0.03",
+    "strategy": "V5_GA5_P008",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 56,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=64 timeout=-0.02",
+    "strategy": "V5_GA5_P009",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 64,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=64 timeout=-0.03",
+    "strategy": "V5_GA5_P010",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 64,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=80 timeout=-0.02",
+    "strategy": "V5_GA5_P011",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 80,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=80 timeout=-0.03",
+    "strategy": "V5_GA5_P012",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 80,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=96 timeout=-0.02",
+    "strategy": "V5_GA5_P013",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 96,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=96 timeout=-0.03",
+    "strategy": "V5_GA5_P014",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 96,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=128 timeout=-0.02",
+    "strategy": "V5_GA5_P015",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 128,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=128 timeout=-0.03",
+    "strategy": "V5_GA5_P016",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 128,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=144 timeout=-0.02",
+    "strategy": "V5_GA5_P017",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 144,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=144 timeout=-0.03",
+    "strategy": "V5_GA5_P018",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 144,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=160 timeout=-0.02",
+    "strategy": "V5_GA5_P019",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 160,
+      "TIMEOUT_LOSS_THRESHOLD": -0.02
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=160 timeout=-0.03",
+    "strategy": "V5_GA5_P020",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 160,
+      "TIMEOUT_LOSS_THRESHOLD": -0.03
+    }
+  },
+  {
+    "name": "GA5 MAX_BARS=64 timeout=-0.025",
+    "strategy": "V5_GA5_P021",
+    "group": "group_a5_max_bars",
+    "params": {
+      "MAX_BARS": 64,
+      "TIMEOUT_LOSS_THRESHOLD": -0.025,
+      "note": "timeout_mid"
+    }
+  },
+  {
+    "name": "GB1 MACD 6/15/5",
+    "strategy": "V5_GB1_P001",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 6/15/7",
+    "strategy": "V5_GB1_P002",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 6/15/9",
+    "strategy": "V5_GB1_P003",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 6/17/5",
+    "strategy": "V5_GB1_P004",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 6/17/7",
+    "strategy": "V5_GB1_P005",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 6/17/9",
+    "strategy": "V5_GB1_P006",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 6/21/5",
+    "strategy": "V5_GB1_P007",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 6/21/7",
+    "strategy": "V5_GB1_P008",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 6/21/9",
+    "strategy": "V5_GB1_P009",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 6/26/5",
+    "strategy": "V5_GB1_P010",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 6/26/7",
+    "strategy": "V5_GB1_P011",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 6/26/9",
+    "strategy": "V5_GB1_P012",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 6,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 8/15/5",
+    "strategy": "V5_GB1_P013",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 8/15/7",
+    "strategy": "V5_GB1_P014",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 8/15/9",
+    "strategy": "V5_GB1_P015",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 8/17/5",
+    "strategy": "V5_GB1_P016",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 8/17/7",
+    "strategy": "V5_GB1_P017",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 8/17/9",
+    "strategy": "V5_GB1_P018",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 8/21/5",
+    "strategy": "V5_GB1_P019",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 8/21/7",
+    "strategy": "V5_GB1_P020",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 8/21/9",
+    "strategy": "V5_GB1_P021",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 8/26/5",
+    "strategy": "V5_GB1_P022",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 8/26/7",
+    "strategy": "V5_GB1_P023",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 8/26/9",
+    "strategy": "V5_GB1_P024",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 8,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 10/15/5",
+    "strategy": "V5_GB1_P025",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 10/15/7",
+    "strategy": "V5_GB1_P026",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 10/15/9",
+    "strategy": "V5_GB1_P027",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 15,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 10/17/5",
+    "strategy": "V5_GB1_P028",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 10/17/7",
+    "strategy": "V5_GB1_P029",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 10/17/9",
+    "strategy": "V5_GB1_P030",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 10/21/5",
+    "strategy": "V5_GB1_P031",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 10/21/7",
+    "strategy": "V5_GB1_P032",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 10/21/9",
+    "strategy": "V5_GB1_P033",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 10/26/5",
+    "strategy": "V5_GB1_P034",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 10/26/7",
+    "strategy": "V5_GB1_P035",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 10/26/9",
+    "strategy": "V5_GB1_P036",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 10,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 12/17/5",
+    "strategy": "V5_GB1_P037",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 12/17/7",
+    "strategy": "V5_GB1_P038",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 12/17/9",
+    "strategy": "V5_GB1_P039",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 17,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 12/21/5",
+    "strategy": "V5_GB1_P040",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 12/21/7",
+    "strategy": "V5_GB1_P041",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 12/21/9",
+    "strategy": "V5_GB1_P042",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 12/26/5",
+    "strategy": "V5_GB1_P043",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 12/26/7",
+    "strategy": "V5_GB1_P044",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 12/26/9",
+    "strategy": "V5_GB1_P045",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 12,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 14/21/5",
+    "strategy": "V5_GB1_P046",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 14/21/7",
+    "strategy": "V5_GB1_P047",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 14/21/9",
+    "strategy": "V5_GB1_P048",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 21,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB1 MACD 14/26/5",
+    "strategy": "V5_GB1_P049",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 5
+    }
+  },
+  {
+    "name": "GB1 MACD 14/26/7",
+    "strategy": "V5_GB1_P050",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 7
+    }
+  },
+  {
+    "name": "GB1 MACD 14/26/9",
+    "strategy": "V5_GB1_P051",
+    "group": "group_b1_macd_grid",
+    "params": {
+      "MACD_FAST": 14,
+      "MACD_SLOW": 26,
+      "MACD_SIGNAL": 9
+    }
+  },
+  {
+    "name": "GB2 8/17/9 hist_rise",
+    "strategy": "V5_GB2_P001",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "hist_rise"
+    }
+  },
+  {
+    "name": "GB2 8/17/9 hist_pos",
+    "strategy": "V5_GB2_P002",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "hist_pos"
+    }
+  },
+  {
+    "name": "GB2 8/17/9 macd_above_sig",
+    "strategy": "V5_GB2_P003",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "macd_above_sig"
+    }
+  },
+  {
+    "name": "GB2 8/17/9 macd_above_rise",
+    "strategy": "V5_GB2_P004",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "macd_above_rise"
+    }
+  },
+  {
+    "name": "GB2 8/17/9 hist_rise2",
+    "strategy": "V5_GB2_P005",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "hist_rise2"
+    }
+  },
+  {
+    "name": "GB2 8/17/9 no_macd",
+    "strategy": "V5_GB2_P006",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        8,
+        17,
+        9
+      ],
+      "mode": "no_macd"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 hist_rise",
+    "strategy": "V5_GB2_P007",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "hist_rise"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 hist_pos",
+    "strategy": "V5_GB2_P008",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "hist_pos"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 macd_above_sig",
+    "strategy": "V5_GB2_P009",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "macd_above_sig"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 macd_above_rise",
+    "strategy": "V5_GB2_P010",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "macd_above_rise"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 hist_rise2",
+    "strategy": "V5_GB2_P011",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "hist_rise2"
+    }
+  },
+  {
+    "name": "GB2 12/26/9 no_macd",
+    "strategy": "V5_GB2_P012",
+    "group": "group_b2_macd_modes",
+    "params": {
+      "MACD": [
+        12,
+        26,
+        9
+      ],
+      "mode": "no_macd"
+    }
+  },
+  {
+    "name": "GB3 EMA slope p=5 th=0.001",
+    "strategy": "V5_GB3_P001",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "ema_slope",
+      "period": 5,
+      "threshold": 0.001
+    }
+  },
+  {
+    "name": "GB3 EMA slope p=5 th=0.002",
+    "strategy": "V5_GB3_P002",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "ema_slope",
+      "period": 5,
+      "threshold": 0.002
+    }
+  },
+  {
+    "name": "GB3 EMA slope p=8 th=0.001",
+    "strategy": "V5_GB3_P003",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "ema_slope",
+      "period": 8,
+      "threshold": 0.001
+    }
+  },
+  {
+    "name": "GB3 EMA slope p=8 th=0.002",
+    "strategy": "V5_GB3_P004",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "ema_slope",
+      "period": 8,
+      "threshold": 0.002
+    }
+  },
+  {
+    "name": "GB3 Stoch K=14",
+    "strategy": "V5_GB3_P005",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "stoch",
+      "K": 14,
+      "D": 3,
+      "th": 60
+    }
+  },
+  {
+    "name": "GB3 Stoch K=21",
+    "strategy": "V5_GB3_P006",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "stoch",
+      "K": 21,
+      "D": 3,
+      "th": 60
+    }
+  },
+  {
+    "name": "GB3 dual MACD+Stoch K=14",
+    "strategy": "V5_GB3_P007",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "dual_macd_stoch",
+      "K": 14
+    }
+  },
+  {
+    "name": "GB3 dual MACD+Stoch K=21",
+    "strategy": "V5_GB3_P008",
+    "group": "group_b3_alternatives",
+    "params": {
+      "type": "dual_macd_stoch",
+      "K": 21
+    }
+  },
+  {
+    "name": "GC DC 10/30",
+    "strategy": "V5_GC_P001",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 10,
+      "DC_LONG": 30
+    }
+  },
+  {
+    "name": "GC DC 10/35",
+    "strategy": "V5_GC_P002",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 10,
+      "DC_LONG": 35
+    }
+  },
+  {
+    "name": "GC DC 10/40",
+    "strategy": "V5_GC_P003",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 10,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 10/45",
+    "strategy": "V5_GC_P004",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 10,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GC DC 12/30",
+    "strategy": "V5_GC_P005",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 12,
+      "DC_LONG": 30
+    }
+  },
+  {
+    "name": "GC DC 12/35",
+    "strategy": "V5_GC_P006",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 12,
+      "DC_LONG": 35
+    }
+  },
+  {
+    "name": "GC DC 12/40",
+    "strategy": "V5_GC_P007",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 12,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 12/45",
+    "strategy": "V5_GC_P008",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 12,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GC DC 14/30",
+    "strategy": "V5_GC_P009",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 14,
+      "DC_LONG": 30
+    }
+  },
+  {
+    "name": "GC DC 14/35",
+    "strategy": "V5_GC_P010",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 14,
+      "DC_LONG": 35
+    }
+  },
+  {
+    "name": "GC DC 14/40",
+    "strategy": "V5_GC_P011",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 14,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 14/45",
+    "strategy": "V5_GC_P012",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 14,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GC DC 16/35",
+    "strategy": "V5_GC_P013",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 16,
+      "DC_LONG": 35
+    }
+  },
+  {
+    "name": "GC DC 16/40",
+    "strategy": "V5_GC_P014",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 16,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 16/45",
+    "strategy": "V5_GC_P015",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 16,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GC DC 18/35",
+    "strategy": "V5_GC_P016",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 18,
+      "DC_LONG": 35
+    }
+  },
+  {
+    "name": "GC DC 18/40",
+    "strategy": "V5_GC_P017",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 18,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 18/45",
+    "strategy": "V5_GC_P018",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 18,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GC DC 20/40",
+    "strategy": "V5_GC_P019",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 20,
+      "DC_LONG": 40
+    }
+  },
+  {
+    "name": "GC DC 20/45",
+    "strategy": "V5_GC_P020",
+    "group": "group_c_dc_grid",
+    "params": {
+      "DC_SHORT": 20,
+      "DC_LONG": 45
+    }
+  },
+  {
+    "name": "GD1 CryptoV11 baseline",
+    "strategy": "V5_GD1_P001",
+    "group": "group_d1_baseline_v11",
+    "params": {
+      "variant": "v11_baseline"
+    }
+  },
+  {
+    "name": "GD2 CryptoV10 baseline",
+    "strategy": "V5_GD2_P001",
+    "group": "group_d2_baseline_v10",
+    "params": {
+      "variant": "v10_baseline"
+    }
+  },
+  {
+    "name": "GD3 No G6 fixed DC20 + MACD",
+    "strategy": "V5_GD3_P001",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_g6"
+    }
+  },
+  {
+    "name": "GD3 No G2 MACD filter",
+    "strategy": "V5_GD3_P002",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_g2"
+    }
+  },
+  {
+    "name": "GD3 No stair S5",
+    "strategy": "V5_GD3_P003",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_stair"
+    }
+  },
+  {
+    "name": "GD3 COOLDOWN_BARS=0",
+    "strategy": "V5_GD3_P004",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_cooldown"
+    }
+  },
+  {
+    "name": "GD3 DAILY_MAX_LOSSES=999",
+    "strategy": "V5_GD3_P005",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_daily_max"
+    }
+  },
+  {
+    "name": "GD3 ATR_MULT=0",
+    "strategy": "V5_GD3_P006",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_atr_filter"
+    }
+  },
+  {
+    "name": "GD3 No 4H EMA confirm",
+    "strategy": "V5_GD3_P007",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_4h_ema"
+    }
+  },
+  {
+    "name": "GD3 No ADX rising",
+    "strategy": "V5_GD3_P008",
+    "group": "group_d3_ablation",
+    "params": {
+      "ablation": "no_adx_rising"
+    }
+  }
+]

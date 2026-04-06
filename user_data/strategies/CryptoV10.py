@@ -4,14 +4,33 @@ CryptoV10 Strategy - 15m Donchian 趋势突破 Long-Only
 核心配置：
   - 品种：BTC/USDT + ETH/USDT + SOL/USDT + ADA/USDT
   - 15m 时间框架 + 4H 多时间框架确认
-  - Donchian 20 突破入场 + 11 个过滤条件（含 ATR 突破强度）
-  - trailing stop 0.10/0.30（利润跑到 30% 才开始追踪）
-  - 硬止损 -10%，5x 杠杆
+  - Donchian 20 突破入场 + 8 个过滤条件（消融实验精简后）
+  - trailing stop 0.03/0.30（利润跑到 30% 才开始追踪，3% 追踪距离）
+  - 硬止损 -10% + 阶梯止损（20bars后亏>-6%离场，40bars后亏>-4%离场）
+  - 5x 杠杆
   - 复利模式：40% tradable_balance_ratio
 
-回测（$1,300 本金，2020-2026）：
-  $1,300 → $5,615（+332%），CAGR 26.4%，Sharpe 0.70，PF 1.19
-  最大回撤：17.1%  |  6 年中 5 年盈利
+入场条件（精简后 8 个）：
+  1. 价格突破 Donchian 20 上轨
+  2. ATR 突破强度：(close - dc_upper) > atr * 0.6
+  3. ADX > 28 且 ADX 上升
+  4. +DI > -DI
+  5. EMA21 > EMA55 > EMA200（多头排列）
+  6. 4H EMA21 > 4H EMA55（多时间框架确认）
+
+消融实验移除的冗余条件（2026-04-02 验证）：
+  - DI 差值 > 5：与 +DI > -DI 完全重叠，移除后结果不变
+  - EMA200 斜率 > 0：与三线排列完全重叠，移除后结果不变
+  - OBV > OBV_EMA：完全冗余，移除后结果不变
+
+回测（$1,000 本金，2020-2026）：
+  $1,000 → $14,024（+1302%），CAGR ~53%，PF 1.46，Sortino 3.66
+  最大回撤：13.1%  |  Walk-Forward 3窗口全部优于无阶梯基线
+
+优化历史（2026-04-03 验证，530+ 实验）：
+  - trailing_stop_positive: 0.10 → 0.03（Sharpe +0.23，影响最大的单一参数）
+  - ATR 突破倍数: 0.5 → 0.6（PF 1.33→1.37，回撤 17.4%→15.3%）
+  - 阶梯止损 S5: 20bars/-0.06 + 40bars/-0.04（PF 1.37→1.46，回撤 15.3%→13.1%）
 """
 
 from freqtrade.strategy import IStrategy, informative
@@ -97,7 +116,7 @@ class CryptoV10(IStrategy):
     use_custom_stoploss = False
 
     trailing_stop = True
-    trailing_stop_positive = 0.10
+    trailing_stop_positive = 0.03
     trailing_stop_positive_offset = 0.30
     trailing_only_offset_is_reached = True
 
@@ -130,19 +149,13 @@ class CryptoV10(IStrategy):
         dataframe['ema21']  = ta.EMA(dataframe, timeperiod=21)
         dataframe['ema55']  = ta.EMA(dataframe, timeperiod=55)
         dataframe['ema200'] = ta.EMA(dataframe, timeperiod=200)
-        dataframe['ema200_slope'] = (dataframe['ema200'] - dataframe['ema200'].shift(5)) / dataframe['ema200'].shift(5) * 100
 
         dataframe['adx'] = ta.ADX(dataframe, timeperiod=14)
         dataframe['plus_di'] = ta.PLUS_DI(dataframe, timeperiod=14)
         dataframe['minus_di'] = ta.MINUS_DI(dataframe, timeperiod=14)
         dataframe['adx_rising'] = dataframe['adx'] > dataframe['adx'].shift(2)
-        dataframe['adx_prev2'] = dataframe['adx'].shift(2)
-        dataframe['di_diff'] = abs(dataframe['plus_di'] - dataframe['minus_di'])
 
         dataframe['dc_upper'] = dataframe['high'].rolling(20).max().shift(1)
-
-        dataframe['obv'] = ta.OBV(dataframe)
-        dataframe['obv_ema'] = ta.EMA(dataframe['obv'], timeperiod=21)
 
         dataframe['atr'] = ta.ATR(dataframe, timeperiod=14)
 
@@ -168,16 +181,13 @@ class CryptoV10(IStrategy):
 
         long_conditions = (
             (dataframe['close'] > dataframe['dc_upper']) &
-            ((dataframe['close'] - dataframe['dc_upper']) > (dataframe['atr'] * 0.5)) &
+            ((dataframe['close'] - dataframe['dc_upper']) > (dataframe['atr'] * 0.6)) &
             (dataframe['adx'] > self.ADX_MIN) &
             (dataframe['adx_rising']) &
             (dataframe['plus_di'] > dataframe['minus_di']) &
-            (dataframe['di_diff'] > 5) &
             (dataframe['ema21'] > dataframe['ema55']) &
             (dataframe['ema55'] > dataframe['ema200']) &
-            (dataframe['ema200_slope'] > 0) &
-            (dataframe['ema21_4h'] > dataframe['ema55_4h']) &
-            (dataframe['obv'] > dataframe['obv_ema'])
+            (dataframe['ema21_4h'] > dataframe['ema55_4h'])
         )
 
         dataframe.loc[long_conditions,  'enter_long']  = 1
@@ -196,6 +206,11 @@ class CryptoV10(IStrategy):
 
         if current_profit >= 0.40:
             return "tp_big"
+
+        if bars_held >= 40 and current_profit < -0.04:
+            return "stair_late"
+        if bars_held >= 20 and current_profit < -0.06:
+            return "stair_mid"
 
         dataframe, _ = self.dp.get_analyzed_dataframe(pair, self.timeframe)
         if len(dataframe) < 1:
@@ -253,10 +268,7 @@ class CryptoV10(IStrategy):
                 'adx': round(float(last['adx']), 2),
                 'plus_di': round(float(last['plus_di']), 2),
                 'minus_di': round(float(last['minus_di']), 2),
-                'di_diff': round(float(last['di_diff']), 2),
                 'atr': round(float(last['atr']), 4),
-                'ema200_slope': round(float(last['ema200_slope']), 4),
-                'obv_ratio': round(float(last['obv'] / last['obv_ema']), 4) if last['obv_ema'] != 0 else 0,
             }
             snap_path = "/freqtrade/user_data/factor_snapshots.json"
             snapshots = []

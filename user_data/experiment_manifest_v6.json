@@ -1,0 +1,1808 @@
+[
+  {
+    "name": "E1 mirror ADX=24",
+    "strategy": "V6_E1_P001",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "mirror",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 mirror ADX=28",
+    "strategy": "V6_E1_P002",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "mirror",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E1 mirror ADX=32",
+    "strategy": "V6_E1_P003",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "mirror",
+      "adx": 32
+    }
+  },
+  {
+    "name": "E1 relaxed_ema ADX=24",
+    "strategy": "V6_E1_P004",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "relaxed_ema",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 relaxed_ema ADX=28",
+    "strategy": "V6_E1_P005",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "relaxed_ema",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E1 relaxed_ema ADX=32",
+    "strategy": "V6_E1_P006",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "relaxed_ema",
+      "adx": 32
+    }
+  },
+  {
+    "name": "E1 no_macd ADX=24",
+    "strategy": "V6_E1_P007",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "no_macd",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 no_macd ADX=28",
+    "strategy": "V6_E1_P008",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "no_macd",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E1 no_macd ADX=32",
+    "strategy": "V6_E1_P009",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "no_macd",
+      "adx": 32
+    }
+  },
+  {
+    "name": "E1 adx_only ADX=24",
+    "strategy": "V6_E1_P010",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "adx_only",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 adx_only ADX=28",
+    "strategy": "V6_E1_P011",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "adx_only",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E1 adx_only ADX=32",
+    "strategy": "V6_E1_P012",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "adx_only",
+      "adx": 32
+    }
+  },
+  {
+    "name": "E1 short-only mirror ADX=24",
+    "strategy": "V6_E1_P013",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "short_only_mirror",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 short-only mirror ADX=28",
+    "strategy": "V6_E1_P014",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "short_only_mirror",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E1 short-only relaxed_ema ADX=24",
+    "strategy": "V6_E1_P015",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "short_only_relaxed_ema",
+      "adx": 24
+    }
+  },
+  {
+    "name": "E1 short-only relaxed_ema ADX=28",
+    "strategy": "V6_E1_P016",
+    "group": "group_e1_short",
+    "params": {
+      "mode": "short_only_relaxed_ema",
+      "adx": 28
+    }
+  },
+  {
+    "name": "E2 ADX=22",
+    "strategy": "V6_E2_P001",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 22
+    }
+  },
+  {
+    "name": "E2 ADX=24",
+    "strategy": "V6_E2_P002",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 24
+    }
+  },
+  {
+    "name": "E2 ADX=26",
+    "strategy": "V6_E2_P003",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 26
+    }
+  },
+  {
+    "name": "E2 ADX=28",
+    "strategy": "V6_E2_P004",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 28
+    }
+  },
+  {
+    "name": "E2 ADX=30",
+    "strategy": "V6_E2_P005",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 30
+    }
+  },
+  {
+    "name": "E2 ADX=32",
+    "strategy": "V6_E2_P006",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 32
+    }
+  },
+  {
+    "name": "E2 ADX=34",
+    "strategy": "V6_E2_P007",
+    "group": "group_e2_adx",
+    "params": {
+      "ADX_MIN": 34
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.3 macd=True",
+    "strategy": "V6_E3_P001",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.3,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.3 macd=False",
+    "strategy": "V6_E3_P002",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.3,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.5 macd=True",
+    "strategy": "V6_E3_P003",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.5,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.5 macd=False",
+    "strategy": "V6_E3_P004",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.5,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.8 macd=True",
+    "strategy": "V6_E3_P005",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.8,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=3 prox=0.8 macd=False",
+    "strategy": "V6_E3_P006",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 3,
+      "proximity": 0.8,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.3 macd=True",
+    "strategy": "V6_E3_P007",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.3,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.3 macd=False",
+    "strategy": "V6_E3_P008",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.3,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.5 macd=True",
+    "strategy": "V6_E3_P009",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.5,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.5 macd=False",
+    "strategy": "V6_E3_P010",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.5,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.8 macd=True",
+    "strategy": "V6_E3_P011",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.8,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=5 prox=0.8 macd=False",
+    "strategy": "V6_E3_P012",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 5,
+      "proximity": 0.8,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.3 macd=True",
+    "strategy": "V6_E3_P013",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.3,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.3 macd=False",
+    "strategy": "V6_E3_P014",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.3,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.5 macd=True",
+    "strategy": "V6_E3_P015",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.5,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.5 macd=False",
+    "strategy": "V6_E3_P016",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.5,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.8 macd=True",
+    "strategy": "V6_E3_P017",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.8,
+      "require_macd": true
+    }
+  },
+  {
+    "name": "E3 pull lb=8 prox=0.8 macd=False",
+    "strategy": "V6_E3_P018",
+    "group": "group_e3_pullback",
+    "params": {
+      "lookback": 8,
+      "proximity": 0.8,
+      "require_macd": false
+    }
+  },
+  {
+    "name": "E4a DI exit bars=8 profit=-0.02",
+    "strategy": "V6_E4_P001",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 8,
+      "min_profit": -0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=8 profit=0.0",
+    "strategy": "V6_E4_P002",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 8,
+      "min_profit": 0.0
+    }
+  },
+  {
+    "name": "E4a DI exit bars=8 profit=0.02",
+    "strategy": "V6_E4_P003",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 8,
+      "min_profit": 0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=12 profit=-0.02",
+    "strategy": "V6_E4_P004",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 12,
+      "min_profit": -0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=12 profit=0.0",
+    "strategy": "V6_E4_P005",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 12,
+      "min_profit": 0.0
+    }
+  },
+  {
+    "name": "E4a DI exit bars=12 profit=0.02",
+    "strategy": "V6_E4_P006",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 12,
+      "min_profit": 0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=16 profit=-0.02",
+    "strategy": "V6_E4_P007",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 16,
+      "min_profit": -0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=16 profit=0.0",
+    "strategy": "V6_E4_P008",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 16,
+      "min_profit": 0.0
+    }
+  },
+  {
+    "name": "E4a DI exit bars=16 profit=0.02",
+    "strategy": "V6_E4_P009",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 16,
+      "min_profit": 0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=20 profit=-0.02",
+    "strategy": "V6_E4_P010",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 20,
+      "min_profit": -0.02
+    }
+  },
+  {
+    "name": "E4a DI exit bars=20 profit=0.0",
+    "strategy": "V6_E4_P011",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 20,
+      "min_profit": 0.0
+    }
+  },
+  {
+    "name": "E4a DI exit bars=20 profit=0.02",
+    "strategy": "V6_E4_P012",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "di_cross",
+      "min_bars": 20,
+      "min_profit": 0.02
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=3 profit=0.01",
+    "strategy": "V6_E4_P013",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 3,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=3 profit=0.03",
+    "strategy": "V6_E4_P014",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 3,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=5 profit=0.01",
+    "strategy": "V6_E4_P015",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 5,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=5 profit=0.03",
+    "strategy": "V6_E4_P016",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 5,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=8 profit=0.01",
+    "strategy": "V6_E4_P017",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 8,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E4b ADX decay drop=8 profit=0.03",
+    "strategy": "V6_E4_P018",
+    "group": "group_e4_exit",
+    "params": {
+      "type": "adx_decay",
+      "drop_bars": 8,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=3 th=0.5",
+    "strategy": "V6_E5_P001",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 3,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=3 th=0.7",
+    "strategy": "V6_E5_P002",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 3,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=3 th=0.8",
+    "strategy": "V6_E5_P003",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 3,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=3 th=0.5",
+    "strategy": "V6_E5_P004",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 3,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=3 th=0.7",
+    "strategy": "V6_E5_P005",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 3,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=3 th=0.8",
+    "strategy": "V6_E5_P006",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 3,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E5 lev low=5 high=3 th=0.5",
+    "strategy": "V6_E5_P007",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 5,
+      "high_vol_lev": 3,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E5 lev low=5 high=3 th=0.7",
+    "strategy": "V6_E5_P008",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 5,
+      "high_vol_lev": 3,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E5 lev low=5 high=3 th=0.8",
+    "strategy": "V6_E5_P009",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 5,
+      "high_vol_lev": 3,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=4 th=0.5",
+    "strategy": "V6_E5_P010",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 4,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=4 th=0.7",
+    "strategy": "V6_E5_P011",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 4,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E5 lev low=7 high=4 th=0.8",
+    "strategy": "V6_E5_P012",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 7,
+      "high_vol_lev": 4,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=4 th=0.5",
+    "strategy": "V6_E5_P013",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 4,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=4 th=0.7",
+    "strategy": "V6_E5_P014",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 4,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E5 lev low=6 high=4 th=0.8",
+    "strategy": "V6_E5_P015",
+    "group": "group_e5_leverage",
+    "params": {
+      "low_vol_lev": 6,
+      "high_vol_lev": 4,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E6 4H-DC=10 brk=True atr=0.0",
+    "strategy": "V6_E6_P001",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 10,
+      "require_breakout": true,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=10 brk=True atr=0.3",
+    "strategy": "V6_E6_P002",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 10,
+      "require_breakout": true,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=10 brk=False atr=0.0",
+    "strategy": "V6_E6_P003",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 10,
+      "require_breakout": false,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=10 brk=False atr=0.3",
+    "strategy": "V6_E6_P004",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 10,
+      "require_breakout": false,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=14 brk=True atr=0.0",
+    "strategy": "V6_E6_P005",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 14,
+      "require_breakout": true,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=14 brk=True atr=0.3",
+    "strategy": "V6_E6_P006",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 14,
+      "require_breakout": true,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=14 brk=False atr=0.0",
+    "strategy": "V6_E6_P007",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 14,
+      "require_breakout": false,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=14 brk=False atr=0.3",
+    "strategy": "V6_E6_P008",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 14,
+      "require_breakout": false,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=20 brk=True atr=0.0",
+    "strategy": "V6_E6_P009",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 20,
+      "require_breakout": true,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=20 brk=True atr=0.3",
+    "strategy": "V6_E6_P010",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 20,
+      "require_breakout": true,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=20 brk=False atr=0.0",
+    "strategy": "V6_E6_P011",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 20,
+      "require_breakout": false,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=20 brk=False atr=0.3",
+    "strategy": "V6_E6_P012",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 20,
+      "require_breakout": false,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=30 brk=True atr=0.0",
+    "strategy": "V6_E6_P013",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 30,
+      "require_breakout": true,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=30 brk=True atr=0.3",
+    "strategy": "V6_E6_P014",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 30,
+      "require_breakout": true,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E6 4H-DC=30 brk=False atr=0.0",
+    "strategy": "V6_E6_P015",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 30,
+      "require_breakout": false,
+      "atr_mult_4h": 0.0
+    }
+  },
+  {
+    "name": "E6 4H-DC=30 brk=False atr=0.3",
+    "strategy": "V6_E6_P016",
+    "group": "group_e6_mtf_dc",
+    "params": {
+      "dc_4h": 30,
+      "require_breakout": false,
+      "atr_mult_4h": 0.3
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=0.8 th=0.5",
+    "strategy": "V6_E7_P001",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 0.8,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=0.8 th=0.6",
+    "strategy": "V6_E7_P002",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 0.8,
+      "threshold": 0.6
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=0.8 th=0.7",
+    "strategy": "V6_E7_P003",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 0.8,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=0.8 th=0.8",
+    "strategy": "V6_E7_P004",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 0.8,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.4 high=0.8 th=0.5",
+    "strategy": "V6_E7_P005",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.4,
+      "high_mult": 0.8,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.4 high=0.8 th=0.6",
+    "strategy": "V6_E7_P006",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.4,
+      "high_mult": 0.8,
+      "threshold": 0.6
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.4 high=0.8 th=0.7",
+    "strategy": "V6_E7_P007",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.4,
+      "high_mult": 0.8,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.4 high=0.8 th=0.8",
+    "strategy": "V6_E7_P008",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.4,
+      "high_mult": 0.8,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=1.0 th=0.5",
+    "strategy": "V6_E7_P009",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 1.0,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=1.0 th=0.6",
+    "strategy": "V6_E7_P010",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 1.0,
+      "threshold": 0.6
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=1.0 th=0.7",
+    "strategy": "V6_E7_P011",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 1.0,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.3 high=1.0 th=0.8",
+    "strategy": "V6_E7_P012",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.3,
+      "high_mult": 1.0,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.5 high=1.0 th=0.5",
+    "strategy": "V6_E7_P013",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.5,
+      "high_mult": 1.0,
+      "threshold": 0.5
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.5 high=1.0 th=0.6",
+    "strategy": "V6_E7_P014",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.5,
+      "high_mult": 1.0,
+      "threshold": 0.6
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.5 high=1.0 th=0.7",
+    "strategy": "V6_E7_P015",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.5,
+      "high_mult": 1.0,
+      "threshold": 0.7
+    }
+  },
+  {
+    "name": "E7 dynATR low=0.5 high=1.0 th=0.8",
+    "strategy": "V6_E7_P016",
+    "group": "group_e7_dyn_atr",
+    "params": {
+      "low_mult": 0.5,
+      "high_mult": 1.0,
+      "threshold": 0.8
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.01 bars=24",
+    "strategy": "V6_E8_P001",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.01,
+      "transition_bars": 24
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.01 bars=40",
+    "strategy": "V6_E8_P002",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.01,
+      "transition_bars": 40
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.01 bars=56",
+    "strategy": "V6_E8_P003",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.01,
+      "transition_bars": 56
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.01 bars=80",
+    "strategy": "V6_E8_P004",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.01,
+      "transition_bars": 80
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.015 bars=24",
+    "strategy": "V6_E8_P005",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.015,
+      "transition_bars": 24
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.015 bars=40",
+    "strategy": "V6_E8_P006",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.015,
+      "transition_bars": 40
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.015 bars=56",
+    "strategy": "V6_E8_P007",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.015,
+      "transition_bars": 56
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.015 bars=80",
+    "strategy": "V6_E8_P008",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.015,
+      "transition_bars": 80
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.02 bars=24",
+    "strategy": "V6_E8_P009",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.02,
+      "transition_bars": 24
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.02 bars=40",
+    "strategy": "V6_E8_P010",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.02,
+      "transition_bars": 40
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.02 bars=56",
+    "strategy": "V6_E8_P011",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.02,
+      "transition_bars": 56
+    }
+  },
+  {
+    "name": "E8 trail base=0.03 tight=0.02 bars=80",
+    "strategy": "V6_E8_P012",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.03,
+      "tight_trail": 0.02,
+      "transition_bars": 80
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.01 bars=24",
+    "strategy": "V6_E8_P013",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.01,
+      "transition_bars": 24
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.01 bars=40",
+    "strategy": "V6_E8_P014",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.01,
+      "transition_bars": 40
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.01 bars=56",
+    "strategy": "V6_E8_P015",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.01,
+      "transition_bars": 56
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.01 bars=80",
+    "strategy": "V6_E8_P016",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.01,
+      "transition_bars": 80
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.015 bars=24",
+    "strategy": "V6_E8_P017",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.015,
+      "transition_bars": 24
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.015 bars=40",
+    "strategy": "V6_E8_P018",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.015,
+      "transition_bars": 40
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.015 bars=56",
+    "strategy": "V6_E8_P019",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.015,
+      "transition_bars": 56
+    }
+  },
+  {
+    "name": "E8 trail base=0.04 tight=0.015 bars=80",
+    "strategy": "V6_E8_P020",
+    "group": "group_e8_adaptive_trail",
+    "params": {
+      "base_trail": 0.04,
+      "tight_trail": 0.015,
+      "transition_bars": 80
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=30 adx=25",
+    "strategy": "V6_E9_P001",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 30,
+      "adx_threshold": 25
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=30 adx=30",
+    "strategy": "V6_E9_P002",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 30,
+      "adx_threshold": 30
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=30 adx=35",
+    "strategy": "V6_E9_P003",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 30,
+      "adx_threshold": 35
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=30 adx=40",
+    "strategy": "V6_E9_P004",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 30,
+      "adx_threshold": 40
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=12 w=35 adx=25",
+    "strategy": "V6_E9_P005",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 12,
+      "dc_weak": 35,
+      "adx_threshold": 25
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=12 w=35 adx=30",
+    "strategy": "V6_E9_P006",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 12,
+      "dc_weak": 35,
+      "adx_threshold": 30
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=12 w=35 adx=35",
+    "strategy": "V6_E9_P007",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 12,
+      "dc_weak": 35,
+      "adx_threshold": 35
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=12 w=35 adx=40",
+    "strategy": "V6_E9_P008",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 12,
+      "dc_weak": 35,
+      "adx_threshold": 40
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=14 w=40 adx=25",
+    "strategy": "V6_E9_P009",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 14,
+      "dc_weak": 40,
+      "adx_threshold": 25
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=14 w=40 adx=30",
+    "strategy": "V6_E9_P010",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 14,
+      "dc_weak": 40,
+      "adx_threshold": 30
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=14 w=40 adx=35",
+    "strategy": "V6_E9_P011",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 14,
+      "dc_weak": 40,
+      "adx_threshold": 35
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=14 w=40 adx=40",
+    "strategy": "V6_E9_P012",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 14,
+      "dc_weak": 40,
+      "adx_threshold": 40
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=40 adx=25",
+    "strategy": "V6_E9_P013",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 40,
+      "adx_threshold": 25
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=40 adx=30",
+    "strategy": "V6_E9_P014",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 40,
+      "adx_threshold": 30
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=40 adx=35",
+    "strategy": "V6_E9_P015",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 40,
+      "adx_threshold": 35
+    }
+  },
+  {
+    "name": "E9 ADX-DC s=10 w=40 adx=40",
+    "strategy": "V6_E9_P016",
+    "group": "group_e9_adx_dc",
+    "params": {
+      "dc_strong": 10,
+      "dc_weak": 40,
+      "adx_threshold": 40
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.15/0.08 TP3=0.3",
+    "strategy": "V6_E10_P001",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.15/0.08 TP3=0.4",
+    "strategy": "V6_E10_P002",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.2/0.1 TP3=0.3",
+    "strategy": "V6_E10_P003",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.2/0.1 TP3=0.4",
+    "strategy": "V6_E10_P004",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.2/0.12 TP3=0.3",
+    "strategy": "V6_E10_P005",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.05/0.02 TP2=0.2/0.12 TP3=0.4",
+    "strategy": "V6_E10_P006",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.05,
+        0.02
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.15/0.08 TP3=0.3",
+    "strategy": "V6_E10_P007",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.15/0.08 TP3=0.4",
+    "strategy": "V6_E10_P008",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.2/0.1 TP3=0.3",
+    "strategy": "V6_E10_P009",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.2/0.1 TP3=0.4",
+    "strategy": "V6_E10_P010",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.2/0.12 TP3=0.3",
+    "strategy": "V6_E10_P011",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.08/0.03 TP2=0.2/0.12 TP3=0.4",
+    "strategy": "V6_E10_P012",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.08,
+        0.03
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.15/0.08 TP3=0.3",
+    "strategy": "V6_E10_P013",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.15/0.08 TP3=0.4",
+    "strategy": "V6_E10_P014",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.15,
+        0.08
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.2/0.1 TP3=0.3",
+    "strategy": "V6_E10_P015",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.2/0.1 TP3=0.4",
+    "strategy": "V6_E10_P016",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.2,
+        0.1
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.2/0.12 TP3=0.3",
+    "strategy": "V6_E10_P017",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.3
+    }
+  },
+  {
+    "name": "E10 TP1=0.1/0.04 TP2=0.2/0.12 TP3=0.4",
+    "strategy": "V6_E10_P018",
+    "group": "group_e10_stair_tp",
+    "params": {
+      "tp1": [
+        0.1,
+        0.04
+      ],
+      "tp2": [
+        0.2,
+        0.12
+      ],
+      "tp3": 0.4
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=8 profit=-0.03",
+    "strategy": "V6_E11_P001",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 8,
+      "min_profit": -0.03
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=8 profit=-0.01",
+    "strategy": "V6_E11_P002",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 8,
+      "min_profit": -0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=8 profit=0.01",
+    "strategy": "V6_E11_P003",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 8,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=8 profit=0.03",
+    "strategy": "V6_E11_P004",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 8,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=16 profit=-0.03",
+    "strategy": "V6_E11_P005",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 16,
+      "min_profit": -0.03
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=16 profit=-0.01",
+    "strategy": "V6_E11_P006",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 16,
+      "min_profit": -0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=16 profit=0.01",
+    "strategy": "V6_E11_P007",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 16,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=16 profit=0.03",
+    "strategy": "V6_E11_P008",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 16,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=24 profit=-0.03",
+    "strategy": "V6_E11_P009",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 24,
+      "min_profit": -0.03
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=24 profit=-0.01",
+    "strategy": "V6_E11_P010",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 24,
+      "min_profit": -0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=24 profit=0.01",
+    "strategy": "V6_E11_P011",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 24,
+      "min_profit": 0.01
+    }
+  },
+  {
+    "name": "E11 EMA exit bars=24 profit=0.03",
+    "strategy": "V6_E11_P012",
+    "group": "group_e11_ema_exit",
+    "params": {
+      "type": "ema_cross",
+      "min_bars": 24,
+      "min_profit": 0.03
+    }
+  },
+  {
+    "name": "F1 CryptoV11 baseline",
+    "strategy": "V6_F1_P001",
+    "group": "group_f1_baseline",
+    "params": {
+      "variant": "v11_baseline"
+    }
+  }
+]

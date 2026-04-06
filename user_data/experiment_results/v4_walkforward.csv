@@ -1,0 +1,1320 @@
+﻿strategy,group,name,window,phase,timerange,trades,tot_profit_pct,sharpe,profit_factor,max_drawdown_pct,cagr,sortino
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,5,49.37,4.63
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,12.85,49.37,4.63
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W1,test,20230101-20240101,204,91.94,1.60,1.52,8,91.94,9.57
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W1,test,20230101-20240101,204,91.94,1.60,1.52,15.98,91.94,9.57
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W2,train,20210101-20240101,576,292.71,1.16,1.40,2,57.77,5.65
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W2,train,20210101-20240101,576,292.71,1.16,1.40,15.92,57.77,5.65
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W2,test,20240101-20250101,161,39.34,1.33,1.51,2,39.22,6.57
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W2,test,20240101-20250101,161,39.34,1.33,1.51,9.52,39.22,6.57
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W3,train,20220101-20250101,481,177.55,1.10,1.44,7,40.49,5.44
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W3,train,20220101-20250101,481,177.55,1.10,1.44,15.97,40.49,5.44
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P001,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,0,57.59,4.56
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,13.30,57.59,4.56
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W1,test,20230101-20240101,203,72.09,1.29,1.39,7,72.09,7.82
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W1,test,20230101-20240101,203,72.09,1.29,1.39,19.27,72.09,7.82
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W2,train,20210101-20240101,568,272.12,1.04,1.34,2,54.96,4.84
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W2,train,20210101-20240101,568,272.12,1.04,1.34,19.32,54.96,4.84
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W2,test,20240101-20250101,160,34.35,1.10,1.38,1,34.24,4.80
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W2,test,20240101-20250101,160,34.35,1.10,1.38,10.51,34.24,4.80
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W3,train,20220101-20250101,475,151.98,0.92,1.34,5,36.04,4.22
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W3,train,20220101-20250101,475,151.98,0.92,1.34,19.35,36.04,4.22
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,14.85,33.94,3.81
+V4_G2_P002,group2_macd,"G2 MACD f8s21sig5 hist_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,5,33.94,3.81
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,5,49.37,4.63
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,12.85,49.37,4.63
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W1,test,20230101-20240101,203,80.36,1.47,1.47,4,80.36,8.75
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W1,test,20230101-20240101,203,80.36,1.47,1.47,17.74,80.36,8.75
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W2,train,20210101-20240101,575,269.17,1.11,1.37,17.69,54.55,5.44
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W2,train,20210101-20240101,575,269.17,1.11,1.37,9,54.55,5.44
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W2,test,20240101-20250101,160,40.06,1.35,1.52,2,39.93,6.64
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W2,test,20240101-20250101,160,40.06,1.35,1.52,9.52,39.93,6.64
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W3,train,20220101-20250101,479,161.61,1.05,1.42,3,37.75,5.28
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W3,train,20220101-20250101,479,161.61,1.05,1.42,17.73,37.75,5.28
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W3,test,20250101-20260401,176,54.91,1.26,1.55,12.92,42.07,5.30
+V4_G2_P003,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=True",W3,test,20250101-20260401,176,54.91,1.26,1.55,2,42.07,5.30
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,13.30,57.59,4.56
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,0,57.59,4.56
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W1,test,20230101-20240101,202,61.75,1.16,1.34,8,61.75,6.91
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W1,test,20230101-20240101,202,61.75,1.16,1.34,21.88,61.75,6.91
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W2,train,20210101-20240101,567,249.75,0.99,1.32,6,51.79,4.63
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W2,train,20210101-20240101,567,249.75,0.99,1.32,21.96,51.79,4.63
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W2,test,20240101-20250101,159,35.77,1.14,1.41,1,35.66,5.00
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W2,test,20240101-20250101,159,35.77,1.14,1.41,10.51,35.66,5.00
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W3,train,20220101-20250101,473,139.45,0.89,1.33,21.97,33.75,4.12
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W3,train,20220101-20250101,473,139.45,0.89,1.33,7,33.75,4.12
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W3,test,20250101-20260401,174,45.80,1.05,1.44,5,35.32,3.99
+V4_G2_P004,group2_macd,"G2 MACD f8s21sig5 hist_rise stair=False",W3,test,20250101-20260401,174,45.80,1.05,1.44,14.85,35.32,3.99
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G2_P005,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,0,59.87,4.55
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,13.30,59.87,4.55
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,0,69.67,7.60
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,20.40,69.67,7.60
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,0,57.02,4.87
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,20.40,57.02,4.87
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,4,35.15,4.15
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,20.34,35.15,4.15
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,5,33.94,3.81
+V4_G2_P006,group2_macd,"G2 MACD f8s21sig5 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,14.85,33.94,3.81
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,12.85,49.37,4.63
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W1,train,20200101-20230101,567,231.81,0.98,1.30,5,49.37,4.63
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W1,test,20230101-20240101,204,91.94,1.60,1.52,8,91.94,9.57
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W1,test,20230101-20240101,204,91.94,1.60,1.52,15.98,91.94,9.57
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W2,train,20210101-20240101,576,292.71,1.16,1.40,2,57.77,5.65
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W2,train,20210101-20240101,576,292.71,1.16,1.40,15.92,57.77,5.65
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W2,test,20240101-20250101,161,39.34,1.33,1.51,2,39.22,6.57
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W2,test,20240101-20250101,161,39.34,1.33,1.51,9.52,39.22,6.57
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W3,train,20220101-20250101,481,177.55,1.10,1.44,7,40.49,5.44
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W3,train,20220101-20250101,481,177.55,1.10,1.44,15.97,40.49,5.44
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P007,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,0,57.59,4.56
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W1,train,20200101-20230101,559,289.46,1.05,1.33,13.30,57.59,4.56
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W1,test,20230101-20240101,203,72.09,1.29,1.39,7,72.09,7.82
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W1,test,20230101-20240101,203,72.09,1.29,1.39,19.27,72.09,7.82
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W2,train,20210101-20240101,568,272.12,1.04,1.34,2,54.96,4.84
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W2,train,20210101-20240101,568,272.12,1.04,1.34,19.32,54.96,4.84
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W2,test,20240101-20250101,160,34.35,1.10,1.38,10.51,34.24,4.80
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W2,test,20240101-20250101,160,34.35,1.10,1.38,1,34.24,4.80
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W3,train,20220101-20250101,475,151.98,0.92,1.34,5,36.04,4.22
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W3,train,20220101-20250101,475,151.98,0.92,1.34,19.35,36.04,4.22
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,14.85,33.94,3.81
+V4_G2_P008,group2_macd,"G2 MACD f8s21sig5 macd_sig_hist stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,5,33.94,3.81
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,11.93,51.64,4.70
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,3,51.64,4.70
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,15.80,88.89,9.31
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,0,88.89,9.31
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W2,train,20210101-20240101,566,321.08,1.18,1.42,15.80,61.48,5.65
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W2,train,20210101-20240101,566,321.08,1.18,1.42,0,61.48,5.65
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,9.52,33.61,5.72
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,2,33.61,5.72
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,15.79,37.76,5.03
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,9,37.76,5.03
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,11.96,42.39,5.29
+V4_G2_P011,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,6,42.39,5.29
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W1,train,20200101-20230101,548,311.32,1.09,1.36,8,60.50,4.60
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W1,train,20200101-20230101,548,311.32,1.09,1.36,12.38,60.50,4.60
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W1,test,20230101-20240101,201,68.86,1.24,1.37,19.31,68.86,7.49
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W1,test,20230101-20240101,201,68.86,1.24,1.37,1,68.86,7.49
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W2,train,20210101-20240101,558,299.49,1.06,1.36,19.32,58.67,4.81
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W2,train,20210101-20240101,558,299.49,1.06,1.36,2,58.67,4.81
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W2,test,20240101-20250101,159,29.25,0.95,1.33,10.49,29.16,4.17
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W2,test,20240101-20250101,159,29.25,0.95,1.33,9,29.16,4.17
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W3,train,20220101-20250101,468,138.38,0.85,1.32,19.30,33.55,3.91
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W3,train,20220101-20250101,468,138.38,0.85,1.32,0,33.55,3.91
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,14.09,35.34,3.92
+V4_G2_P012,group2_macd,"G2 MACD f12s26sig9 hist_rise stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,9,35.34,3.92
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P013,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,13.30,59.87,4.55
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,0,59.87,4.55
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,20.40,69.67,7.60
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,0,69.67,7.60
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,20.40,57.02,4.87
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,0,57.02,4.87
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,4,35.15,4.15
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,20.34,35.15,4.15
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,5,33.94,3.81
+V4_G2_P014,group2_macd,"G2 MACD f12s26sig9 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,14.85,33.94,3.81
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,3,51.64,4.70
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,11.93,51.64,4.70
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,0,88.89,9.31
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,15.80,88.89,9.31
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W2,train,20210101-20240101,566,321.08,1.18,1.42,15.80,61.48,5.65
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,9.52,33.61,5.72
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,2,33.61,5.72
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,15.79,37.76,5.03
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,9,37.76,5.03
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,11.96,42.39,5.29
+V4_G2_P009,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,6,42.39,5.29
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W1,train,20200101-20230101,548,311.32,1.09,1.36,8,60.50,4.60
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W1,train,20200101-20230101,548,311.32,1.09,1.36,12.38,60.50,4.60
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W1,test,20230101-20240101,201,68.86,1.24,1.37,19.31,68.86,7.49
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W1,test,20230101-20240101,201,68.86,1.24,1.37,1,68.86,7.49
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W2,train,20210101-20240101,558,299.49,1.06,1.36,2,58.67,4.81
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W2,train,20210101-20240101,558,299.49,1.06,1.36,19.32,58.67,4.81
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W2,test,20240101-20250101,159,29.25,0.95,1.33,9,29.16,4.17
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W2,test,20240101-20250101,159,29.25,0.95,1.33,10.49,29.16,4.17
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W3,train,20220101-20250101,468,138.38,0.85,1.32,19.30,33.55,3.91
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W3,train,20220101-20250101,468,138.38,0.85,1.32,0,33.55,3.91
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,14.09,35.34,3.92
+V4_G2_P010,group2_macd,"G2 MACD f12s26sig9 hist_pos stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,9,35.34,3.92
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G2_P021,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,13.30,59.87,4.55
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W1,train,20200101-20230101,562,306.50,1.07,1.34,0,59.87,4.55
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,0,69.67,7.60
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W1,test,20230101-20240101,205,69.67,1.26,1.38,20.40,69.67,7.60
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,0,57.02,4.87
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W2,train,20210101-20240101,572,287.17,1.05,1.34,20.40,57.02,4.87
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,20.34,35.15,4.15
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W3,train,20220101-20250101,478,147.06,0.91,1.34,4,35.15,4.15
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,5,33.94,3.81
+V4_G2_P022,group2_macd,"G2 MACD f8s17sig9 macd_pos stair=False",W3,test,20250101-20260401,176,43.94,1.01,1.41,14.85,33.94,3.81
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,3,51.64,4.70
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W1,train,20200101-20230101,556,247.08,1.02,1.33,11.93,51.64,4.70
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,0,88.89,9.31
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W1,test,20230101-20240101,202,88.89,1.55,1.51,15.80,88.89,9.31
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W2,train,20210101-20240101,566,321.08,1.18,1.42,15.80,61.48,5.65
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W2,train,20210101-20240101,566,321.08,1.18,1.42,0,61.48,5.65
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,2,33.61,5.72
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W2,test,20240101-20250101,160,33.72,1.17,1.43,9.52,33.61,5.72
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,15.79,37.76,5.03
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W3,train,20220101-20250101,474,161.66,1.02,1.40,9,37.76,5.03
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,6,42.39,5.29
+V4_G2_P015,group2_macd,"G2 MACD f12s26sig9 macd_sig_hist stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,11.96,42.39,5.29
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W1,train,20200101-20230101,550,283.54,1.05,1.34,9,56.79,4.57
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W1,train,20200101-20230101,550,283.54,1.05,1.34,13.29,56.79,4.57
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W1,test,20230101-20240101,200,69.40,1.24,1.38,5,69.40,7.57
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W1,test,20230101-20240101,200,69.40,1.24,1.38,18.25,69.40,7.57
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W2,train,20210101-20240101,559,269.89,1.02,1.34,2,54.65,4.69
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W2,train,20210101-20240101,559,269.89,1.02,1.34,18.22,54.65,4.69
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W2,test,20240101-20250101,161,38.67,1.20,1.43,10.51,38.54,5.26
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W2,test,20240101-20250101,161,38.67,1.20,1.43,1,38.54,5.26
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W3,train,20220101-20250101,473,156.38,0.94,1.36,18.11,36.83,4.34
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W3,train,20220101-20250101,473,156.38,0.94,1.36,1,36.83,4.34
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,14.09,35.34,3.92
+V4_G2_P024,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,9,35.34,3.92
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W1,train,20200101-20230101,558,225.75,0.97,1.31,12.86,48.45,4.61
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W1,train,20200101-20230101,558,225.75,0.97,1.31,6,48.45,4.61
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W1,test,20230101-20240101,201,88.28,1.53,1.50,15.18,88.28,9.25
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W1,test,20230101-20240101,201,88.28,1.53,1.50,8,88.28,9.25
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W2,train,20210101-20240101,567,287.86,1.14,1.40,7,57.12,5.47
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W2,train,20210101-20240101,567,287.86,1.14,1.40,15.17,57.12,5.47
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W2,test,20240101-20250101,162,43.44,1.43,1.55,9.52,43.30,7.12
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W2,test,20240101-20250101,162,43.44,1.43,1.55,2,43.30,7.12
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W3,train,20220101-20250101,479,180.26,1.11,1.45,15.19,40.95,5.56
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W3,train,20220101-20250101,479,180.26,1.11,1.45,9,40.95,5.56
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,11.96,42.39,5.29
+V4_G2_P017,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,6,42.39,5.29
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W1,train,20200101-20230101,550,283.54,1.05,1.34,13.29,56.79,4.57
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W1,train,20200101-20230101,550,283.54,1.05,1.34,9,56.79,4.57
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W1,test,20230101-20240101,200,69.40,1.24,1.38,18.25,69.40,7.57
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W1,test,20230101-20240101,200,69.40,1.24,1.38,5,69.40,7.57
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W2,train,20210101-20240101,559,269.89,1.02,1.34,2,54.65,4.69
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W2,train,20210101-20240101,559,269.89,1.02,1.34,18.22,54.65,4.69
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W2,test,20240101-20250101,161,38.67,1.20,1.43,10.51,38.54,5.26
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W2,test,20240101-20250101,161,38.67,1.20,1.43,1,38.54,5.26
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W3,train,20220101-20250101,473,156.38,0.94,1.36,1,36.83,4.34
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W3,train,20220101-20250101,473,156.38,0.94,1.36,18.11,36.83,4.34
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,9,35.34,3.92
+V4_G2_P018,group2_macd,"G2 MACD f8s17sig9 hist_pos stair=False",W3,test,20250101-20260401,174,45.82,1.04,1.44,14.09,35.34,3.92
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W1,train,20200101-20230101,557,229.43,0.98,1.31,12.84,49.01,4.61
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W1,train,20200101-20230101,557,229.43,0.98,1.31,4,49.01,4.61
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W1,test,20230101-20240101,200,77.13,1.40,1.45,6,77.13,8.45
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W1,test,20230101-20240101,200,77.13,1.40,1.45,16.96,77.13,8.45
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W2,train,20210101-20240101,566,264.37,1.08,1.37,5,53.88,5.26
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W2,train,20210101-20240101,566,264.37,1.08,1.37,16.95,53.88,5.26
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W2,test,20240101-20250101,161,44.71,1.47,1.58,2,44.56,7.28
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W2,test,20240101-20250101,161,44.71,1.47,1.58,9.52,44.56,7.28
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W3,train,20220101-20250101,477,165.25,1.07,1.43,7,38.39,5.42
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W3,train,20220101-20250101,477,165.25,1.07,1.43,16.97,38.39,5.42
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W3,test,20250101-20260401,175,55.64,1.26,1.56,11.95,42.60,5.34
+V4_G2_P019,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=True",W3,test,20250101-20260401,175,55.64,1.26,1.56,5,42.60,5.34
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W1,train,20200101-20230101,560,303.94,1.07,1.34,9,59.53,4.56
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W1,train,20200101-20230101,560,303.94,1.07,1.34,13.29,59.53,4.56
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W1,test,20230101-20240101,201,70.08,1.26,1.38,19.31,70.08,7.63
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W1,test,20230101-20240101,201,70.08,1.26,1.38,1,70.08,7.63
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W2,train,20210101-20240101,568,287.66,1.05,1.35,4,57.09,4.87
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W2,train,20210101-20240101,568,287.66,1.05,1.35,19.34,57.09,4.87
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W3,train,20220101-20250101,474,147.10,0.90,1.34,9,35.16,4.14
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W3,train,20220101-20250101,474,147.10,0.90,1.34,19.29,35.16,4.14
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W3,test,20250101-20260401,175,37.65,0.88,1.36,14.89,29.22,3.37
+V4_G3_P003,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=False",W3,test,20250101-20260401,175,37.65,0.88,1.36,9,29.22,3.37
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W1,train,20200101-20230101,546,244.54,1.01,1.33,5,51.26,4.78
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W1,train,20200101-20230101,546,244.54,1.01,1.33,12.85,51.26,4.78
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W1,test,20230101-20240101,185,84.96,1.47,1.53,15.05,84.96,9.34
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W1,test,20230101-20240101,185,84.96,1.47,1.53,5,84.96,9.34
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W2,train,20210101-20240101,545,317.15,1.16,1.42,6,60.98,5.71
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W2,train,20210101-20240101,545,317.15,1.16,1.42,15.06,60.98,5.71
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W2,test,20240101-20250101,155,19.32,0.71,1.25,4,19.26,3.41
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W2,test,20240101-20250101,155,19.32,0.71,1.25,11.74,19.26,3.41
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W3,train,20220101-20250101,448,132.31,0.84,1.35,2,32.41,4.28
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W3,train,20220101-20250101,448,132.31,0.84,1.35,15.12,32.41,4.28
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W3,test,20250101-20260401,155,40.85,0.93,1.44,12.89,31.63,4.23
+V4_G3_P004,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=True",W3,test,20250101-20260401,155,40.85,0.93,1.44,9,31.63,4.23
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W1,train,20200101-20230101,549,286.93,1.05,1.34,9,57.25,4.57
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W1,train,20200101-20230101,549,286.93,1.05,1.34,13.29,57.25,4.57
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W1,test,20230101-20240101,199,59.14,1.10,1.33,2,59.14,6.67
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W1,test,20230101-20240101,199,59.14,1.10,1.33,20.92,59.14,6.67
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W2,train,20210101-20240101,558,247.93,0.97,1.32,9,51.53,4.49
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W2,train,20210101-20240101,558,247.93,0.97,1.32,20.89,51.53,4.49
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W2,test,20240101-20250101,160,40.35,1.25,1.45,10.51,40.22,5.49
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W2,test,20240101-20250101,160,40.35,1.25,1.45,1,40.22,5.49
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W3,train,20220101-20250101,471,142.81,0.90,1.34,20.78,34.37,4.21
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W3,train,20220101-20250101,471,142.81,0.90,1.34,8,34.37,4.21
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W3,test,20250101-20260401,173,46.12,1.05,1.44,9,35.56,3.96
+V4_G2_P020,group2_macd,"G2 MACD f8s17sig9 hist_rise stair=False",W3,test,20250101-20260401,173,46.12,1.05,1.44,14.09,35.56,3.96
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W1,train,20200101-20230101,507,186.22,0.84,1.29,16.90,42.17,4.18
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W1,train,20200101-20230101,507,186.22,0.84,1.29,0,42.17,4.18
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W1,test,20230101-20240101,155,70.89,1.30,1.56,7,70.89,8.44
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W1,test,20230101-20240101,155,70.89,1.30,1.56,12.47,70.89,8.44
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W2,train,20210101-20240101,497,243.15,1.03,1.40,9,50.83,5.55
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W2,train,20210101-20240101,497,243.15,1.03,1.40,16.89,50.83,5.55
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W2,test,20240101-20250101,136,17.55,0.64,1.26,10.97,17.50,3.04
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W2,test,20240101-20250101,136,17.55,0.64,1.26,7,17.50,3.04
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W3,train,20220101-20250101,392,95.07,0.69,1.32,16.85,24.92,3.67
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W3,train,20220101-20250101,392,95.07,0.69,1.32,5,24.92,3.67
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W3,test,20250101-20260401,117,48.08,0.98,1.65,12.45,37.01,4.86
+V4_G3_P006,group3_ema_slope,"G3 EMA slope p=3 th=0.003 stair=True",W3,test,20250101-20260401,117,48.08,0.98,1.65,5,37.01,4.86
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G3_P007,group3_ema_slope,"G3 EMA slope p=5 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W1,train,20200101-20230101,558,225.75,0.97,1.31,12.86,48.45,4.61
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W1,train,20200101-20230101,558,225.75,0.97,1.31,6,48.45,4.61
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W1,test,20230101-20240101,201,88.28,1.53,1.50,8,88.28,9.25
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W1,test,20230101-20240101,201,88.28,1.53,1.50,15.18,88.28,9.25
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W2,train,20210101-20240101,567,287.86,1.14,1.40,15.17,57.12,5.47
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W2,train,20210101-20240101,567,287.86,1.14,1.40,7,57.12,5.47
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W2,test,20240101-20250101,162,43.44,1.43,1.55,2,43.30,7.12
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W2,test,20240101-20250101,162,43.44,1.43,1.55,9.52,43.30,7.12
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W3,train,20220101-20250101,479,180.26,1.11,1.45,9,40.95,5.56
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W3,train,20220101-20250101,479,180.26,1.11,1.45,15.19,40.95,5.56
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,6,42.39,5.29
+V4_G2_P023,group2_macd,"G2 MACD f8s17sig9 macd_sig_hist stair=True",W3,test,20250101-20260401,176,55.35,1.26,1.56,11.96,42.39,5.29
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G3_P001,group3_ema_slope,"G3 EMA slope p=3 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W1,train,20200101-20230101,560,304.34,1.07,1.34,9,59.58,4.56
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W1,train,20200101-20230101,560,304.34,1.07,1.34,13.29,59.58,4.56
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W1,test,20230101-20240101,203,72.53,1.30,1.39,6,72.53,7.81
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W1,test,20230101-20240101,203,72.53,1.30,1.39,19.86,72.53,7.81
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W2,train,20210101-20240101,570,294.17,1.07,1.35,6,57.96,4.93
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W2,train,20210101-20240101,570,294.17,1.07,1.35,19.86,57.96,4.93
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W2,test,20240101-20250101,160,33.45,1.07,1.37,1,33.34,4.66
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W2,test,20240101-20250101,160,33.45,1.07,1.37,10.51,33.34,4.66
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W3,train,20220101-20250101,476,151.04,0.92,1.34,2,35.87,4.18
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W3,train,20220101-20250101,476,151.04,0.92,1.34,19.82,35.87,4.18
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W3,test,20250101-20260401,175,42.17,0.98,1.40,8,32.61,3.69
+V4_G3_P009,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=False",W3,test,20250101-20260401,175,42.17,0.98,1.40,14.88,32.61,3.69
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W1,train,20200101-20230101,560,246.29,1.00,1.32,3,51.52,4.63
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W1,train,20200101-20230101,560,246.29,1.00,1.32,12.93,51.52,4.63
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W1,test,20230101-20240101,196,82.18,1.46,1.50,0,82.18,8.93
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W1,test,20230101-20240101,196,82.18,1.46,1.50,15.20,82.18,8.93
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W2,train,20210101-20240101,565,294.43,1.13,1.39,4,58.00,5.62
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W2,train,20210101-20240101,565,294.43,1.13,1.39,15.34,58.00,5.62
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W2,test,20240101-20250101,157,30.59,1.09,1.41,0,30.50,5.37
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W2,test,20240101-20250101,157,30.59,1.09,1.41,11.50,30.50,5.37
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W3,train,20220101-20250101,466,143.61,0.95,1.38,6,34.52,4.87
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W3,train,20220101-20250101,466,143.61,0.95,1.38,15.36,34.52,4.87
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W3,test,20250101-20260401,167,48.89,1.11,1.50,1,37.62,4.92
+V4_G3_P010,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=True",W3,test,20250101-20260401,167,48.89,1.11,1.50,11.91,37.62,4.92
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W1,train,20200101-20230101,568,244.85,1.00,1.31,5,51.31,4.64
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W1,train,20200101-20230101,568,244.85,1.00,1.31,12.85,51.31,4.64
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W1,test,20230101-20240101,202,89.28,1.55,1.51,4,89.28,9.48
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W1,test,20230101-20240101,202,89.28,1.55,1.51,16.24,89.28,9.48
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W2,train,20210101-20240101,576,307.33,1.17,1.40,7,59.70,5.71
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W2,train,20210101-20240101,576,307.33,1.17,1.40,16.27,59.70,5.71
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W2,test,20240101-20250101,161,38.96,1.32,1.50,2,38.83,6.52
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W2,test,20240101-20250101,161,38.96,1.32,1.50,9.52,38.83,6.52
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W3,train,20220101-20250101,480,170.38,1.07,1.43,2,39.27,5.36
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W3,train,20220101-20250101,480,170.38,1.07,1.43,16.22,39.27,5.36
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W3,test,20250101-20260401,178,46.69,1.10,1.46,9,35.98,4.76
+V4_G3_P002,group3_ema_slope,"G3 EMA slope p=3 th=0.001 stair=True",W3,test,20250101-20260401,178,46.69,1.10,1.46,12.59,35.98,4.76
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W1,train,20200101-20230101,553,301.93,1.05,1.33,0,59.27,4.46
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W1,train,20200101-20230101,553,301.93,1.05,1.33,13.30,59.27,4.46
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W1,test,20230101-20240101,195,69.00,1.24,1.39,6,69.00,7.70
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W1,test,20230101-20240101,195,69.00,1.24,1.39,18.26,69.00,7.70
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W2,train,20210101-20240101,558,281.38,1.04,1.35,5,56.24,4.91
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W2,train,20210101-20240101,558,281.38,1.04,1.35,18.35,56.24,4.91
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W2,test,20240101-20250101,156,25.59,0.87,1.30,5,25.52,3.80
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W2,test,20240101-20250101,156,25.59,0.87,1.30,13.75,25.52,3.80
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W3,train,20220101-20250101,461,127.10,0.81,1.31,0,31.41,3.85
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W3,train,20220101-20250101,461,127.10,0.81,1.31,18.40,31.41,3.85
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W3,test,20250101-20260401,164,46.20,1.03,1.46,9,35.62,4.13
+V4_G3_P011,group3_ema_slope,"G3 EMA slope p=5 th=0.002 stair=False",W3,test,20250101-20260401,164,46.20,1.03,1.46,14.19,35.62,4.13
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W1,train,20200101-20230101,539,299.30,1.06,1.35,9,58.92,4.62
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W1,train,20200101-20230101,539,299.30,1.06,1.35,13.29,58.92,4.62
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W1,test,20230101-20240101,184,73.27,1.28,1.43,7,73.27,8.45
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W1,test,20230101-20240101,184,73.27,1.28,1.43,18.37,73.27,8.45
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W2,train,20210101-20240101,538,306.33,1.08,1.38,3,59.57,5.11
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W2,train,20210101-20240101,538,306.33,1.08,1.38,18.33,59.57,5.11
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W2,test,20240101-20250101,153,18.13,0.63,1.21,5,18.08,2.74
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W2,test,20240101-20250101,153,18.13,0.63,1.21,13.65,18.08,2.74
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W3,train,20220101-20250101,442,123.14,0.76,1.30,6,30.64,3.62
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W3,train,20220101-20250101,442,123.14,0.76,1.30,18.36,30.64,3.62
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W3,test,20250101-20260401,152,39.95,0.88,1.41,14.06,30.95,3.59
+V4_G3_P005,group3_ema_slope,"G3 EMA slope p=3 th=0.002 stair=False",W3,test,20250101-20260401,152,39.95,0.88,1.41,6,30.95,3.59
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W1,train,20200101-20230101,569,249.94,1.02,1.32,12.86,52.05,4.72
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W1,train,20200101-20230101,569,249.94,1.02,1.32,6,52.05,4.72
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W2,train,20210101-20240101,579,312.90,1.18,1.41,2,60.43,5.71
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W2,train,20210101-20240101,579,312.90,1.18,1.41,17.02,60.43,5.71
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W3,train,20220101-20250101,483,173.52,1.08,1.43,17.02,39.81,5.36
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W3,train,20220101-20250101,483,173.52,1.08,1.43,2,39.81,5.36
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G3_P013,group3_ema_slope,"G3 EMA slope p=8 th=0.0005 stair=True",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W1,train,20200101-20230101,568,246.10,1.01,1.32,5,51.49,4.71
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W1,train,20200101-20230101,568,246.10,1.01,1.32,12.85,51.49,4.71
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W1,test,20230101-20240101,205,91.58,1.60,1.52,3,91.58,9.56
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W1,test,20230101-20240101,205,91.58,1.60,1.52,17.03,91.58,9.56
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W2,train,20210101-20240101,578,317.54,1.20,1.41,2,61.03,5.76
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W2,train,20210101-20240101,578,317.54,1.20,1.41,17.02,61.03,5.76
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W2,test,20240101-20250101,161,37.55,1.29,1.48,9.52,37.43,6.31
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W2,test,20240101-20250101,161,37.55,1.29,1.48,2,37.43,6.31
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W3,train,20220101-20250101,482,175.61,1.09,1.43,17.02,40.16,5.37
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W3,train,20220101-20250101,482,175.61,1.09,1.43,2,40.16,5.37
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W3,test,20250101-20260401,176,54.27,1.23,1.54,1,41.59,5.16
+V4_G3_P014,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=True",W3,test,20250101-20260401,176,54.27,1.23,1.54,12.91,41.59,5.16
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W1,train,20200101-20230101,560,307.25,1.08,1.34,0,59.97,4.62
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W1,train,20200101-20230101,560,307.25,1.08,1.34,13.30,59.97,4.62
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W1,test,20230101-20240101,204,71.48,1.29,1.39,0,71.48,7.73
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W1,test,20230101-20240101,204,71.48,1.29,1.39,20.40,71.48,7.73
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W2,train,20210101-20240101,570,295.66,1.07,1.35,0,58.16,4.91
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W2,train,20210101-20240101,570,295.66,1.07,1.35,20.40,58.16,4.91
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W2,test,20240101-20250101,160,33.45,1.07,1.37,1,33.34,4.66
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W2,test,20240101-20250101,160,33.45,1.07,1.37,10.51,33.34,4.66
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W3,train,20220101-20250101,476,151.83,0.92,1.34,5,36.01,4.17
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W3,train,20220101-20250101,476,151.83,0.92,1.34,20.45,36.01,4.17
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W3,test,20250101-20260401,174,46.25,1.05,1.44,4,35.65,3.97
+V4_G3_P015,group3_ema_slope,"G3 EMA slope p=8 th=0.001 stair=False",W3,test,20250101-20260401,174,46.25,1.05,1.44,14.84,35.65,3.97
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W1,train,20200101-20230101,568,245.18,1.00,1.31,5,51.36,4.64
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W1,train,20200101-20230101,568,245.18,1.00,1.31,12.85,51.36,4.64
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W1,test,20230101-20240101,204,92.36,1.61,1.52,3,92.36,9.61
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W1,test,20230101-20240101,204,92.36,1.61,1.52,16.63,92.36,9.61
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W2,train,20210101-20240101,578,314.74,1.19,1.41,16.68,60.67,5.76
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W2,train,20210101-20240101,578,314.74,1.19,1.41,8,60.67,5.76
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W2,test,20240101-20250101,161,37.55,1.29,1.48,9.52,37.43,6.31
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W2,test,20240101-20250101,161,37.55,1.29,1.48,2,37.43,6.31
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W3,train,20220101-20250101,482,173.14,1.08,1.43,2,39.74,5.35
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W3,train,20220101-20250101,482,173.14,1.08,1.43,16.72,39.74,5.35
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W3,test,20250101-20260401,177,51.28,1.19,1.51,3,39.38,5.01
+V4_G3_P008,group3_ema_slope,"G3 EMA slope p=5 th=0.001 stair=True",W3,test,20250101-20260401,177,51.28,1.19,1.51,12.73,39.38,5.01
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W1,train,20200101-20230101,565,251.98,1.02,1.32,12.86,52.35,4.76
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W1,train,20200101-20230101,565,251.98,1.02,1.32,6,52.35,4.76
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W1,test,20230101-20240101,202,90.83,1.58,1.52,7,90.83,9.41
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W1,test,20230101-20240101,202,90.83,1.58,1.52,15.37,90.83,9.41
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W2,train,20210101-20240101,574,317.76,1.19,1.41,15.37,61.06,5.72
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W2,train,20210101-20240101,574,317.76,1.19,1.41,7,61.06,5.72
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W2,test,20240101-20250101,160,33.23,1.17,1.43,9.52,33.12,5.73
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W2,test,20240101-20250101,160,33.23,1.17,1.43,2,33.12,5.73
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W3,train,20220101-20250101,477,167.38,1.04,1.41,15.39,38.75,5.16
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W3,train,20220101-20250101,477,167.38,1.04,1.41,9,38.75,5.16
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W3,test,20250101-20260401,176,48.80,1.14,1.49,0,37.55,4.93
+V4_G3_P016,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=True",W3,test,20250101-20260401,176,48.80,1.14,1.49,12.00,37.55,4.93
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W1,train,20200101-20230101,557,314.07,1.09,1.35,0,60.86,4.67
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W1,train,20200101-20230101,557,314.07,1.09,1.35,13.30,60.86,4.67
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W1,test,20230101-20240101,201,71.48,1.28,1.39,3,71.48,7.56
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W1,test,20230101-20240101,201,71.48,1.28,1.39,18.53,71.48,7.56
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W2,train,20210101-20240101,566,297.28,1.07,1.36,1,58.38,4.87
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W2,train,20210101-20240101,566,297.28,1.07,1.36,18.51,58.38,4.87
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W2,test,20240101-20250101,159,28.90,0.95,1.33,1,28.81,4.15
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W2,test,20240101-20250101,159,28.90,0.95,1.33,10.51,28.81,4.15
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W3,train,20220101-20250101,471,145.65,0.88,1.33,2,34.89,4.00
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W3,train,20220101-20250101,471,145.65,0.88,1.33,18.52,34.89,4.00
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W3,test,20250101-20260401,172,43.62,1.00,1.42,1,33.69,3.82
+V4_G3_P017,group3_ema_slope,"G3 EMA slope p=8 th=0.002 stair=False",W3,test,20250101-20260401,172,43.62,1.00,1.42,13.81,33.69,3.82
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W1,train,20200101-20230101,551,231.20,0.97,1.31,3,49.28,4.61
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W1,train,20200101-20230101,551,231.20,0.97,1.31,13.23,49.28,4.61
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W1,test,20230101-20240101,190,85.88,1.49,1.52,14.87,85.88,9.11
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W1,test,20230101-20240101,190,85.88,1.49,1.52,7,85.88,9.11
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W2,train,20210101-20240101,556,305.51,1.15,1.41,8,59.47,5.67
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W2,train,20210101-20240101,556,305.51,1.15,1.41,14.88,59.47,5.67
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W2,test,20240101-20250101,153,29.14,1.04,1.39,11.50,29.05,5.08
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W2,test,20240101-20250101,153,29.14,1.04,1.39,0,29.05,5.08
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W3,train,20220101-20250101,454,146.45,0.95,1.39,14.89,35.04,4.78
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W3,train,20220101-20250101,454,146.45,0.95,1.39,9,35.04,4.78
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W3,test,20250101-20260401,162,44.65,1.03,1.47,11.61,34.46,4.67
+V4_G3_P018,group3_ema_slope,"G3 EMA slope p=8 th=0.003 stair=True",W3,test,20250101-20260401,162,44.65,1.03,1.47,1,34.46,4.67
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,train,20200101-20230101,567,229.36,0.99,1.31,4,49.00,4.64
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,train,20200101-20230101,567,229.36,0.99,1.31,12.84,49.00,4.64
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,test,20230101-20240101,206,88.93,1.56,1.50,3,88.93,9.48
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,test,20230101-20240101,206,88.93,1.56,1.50,17.03,88.93,9.48
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,train,20210101-20240101,579,305.97,1.17,1.40,5,59.53,5.69
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,train,20210101-20240101,579,305.97,1.17,1.40,17.05,59.53,5.69
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,9.41,37.40,6.35
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,1,37.40,6.35
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,train,20220101-20250101,484,177.79,1.08,1.43,2,40.53,5.44
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,train,20220101-20250101,484,177.79,1.08,1.43,17.12,40.53,5.44
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,test,20250101-20260401,180,51.50,1.19,1.50,5,39.55,5.03
+V4_G6_P001,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,test,20250101-20260401,180,51.50,1.19,1.50,12.45,39.55,5.03
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W1,train,20200101-20230101,570,223.17,0.95,1.29,7,48.06,4.55
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W1,train,20200101-20230101,570,223.17,0.95,1.29,12.47,48.06,4.55
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W1,test,20230101-20240101,206,96.04,1.62,1.52,6,96.04,9.69
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W1,test,20230101-20240101,206,96.04,1.62,1.52,13.46,96.04,9.69
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W2,train,20210101-20240101,581,300.97,1.17,1.40,5,58.87,5.65
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W2,train,20210101-20240101,581,300.97,1.17,1.40,13.45,58.87,5.65
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W2,test,20240101-20250101,163,41.64,1.40,1.53,1,41.51,6.99
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W2,test,20240101-20250101,163,41.64,1.40,1.53,9.41,41.51,6.99
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W3,train,20220101-20250101,484,194.60,1.14,1.45,13.40,43.31,5.68
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W3,train,20220101-20250101,484,194.60,1.14,1.45,0,43.31,5.68
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W3,test,20250101-20260401,179,51.45,1.18,1.50,9,39.51,4.96
+V4_G6_P002,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.5",W3,test,20250101-20260401,179,51.45,1.18,1.50,11.89,39.51,4.96
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,train,20200101-20230101,570,256.75,1.06,1.33,11.00,53.04,4.96
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,train,20200101-20230101,570,256.75,1.06,1.33,0,53.04,4.96
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,test,20230101-20240101,207,87.81,1.54,1.49,16.02,87.81,9.23
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,test,20230101-20240101,207,87.81,1.54,1.49,2,87.81,9.23
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,train,20210101-20240101,580,319.94,1.19,1.41,15.98,61.34,5.63
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,train,20210101-20240101,580,319.94,1.19,1.41,8,61.34,5.63
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,train,20220101-20250101,484,190.26,1.13,1.45,16.03,42.60,5.62
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,train,20220101-20250101,484,190.26,1.13,1.45,3,42.60,5.62
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,test,20250101-20260401,177,52.54,1.20,1.51,11.96,40.32,4.98
+V4_G6_P003,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,test,20250101-20260401,177,52.54,1.20,1.51,6,40.32,4.98
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W1,train,20200101-20230101,567,221.47,0.95,1.30,14.31,47.80,4.44
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W1,train,20200101-20230101,567,221.47,0.95,1.30,1,47.80,4.44
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W1,test,20230101-20240101,204,92.25,1.61,1.53,16.87,92.25,9.64
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W1,test,20230101-20240101,204,92.25,1.61,1.53,7,92.25,9.64
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W2,train,20210101-20240101,578,306.20,1.18,1.40,16.86,59.56,5.77
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W2,train,20210101-20240101,578,306.20,1.18,1.40,6,59.56,5.77
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,9.41,37.40,6.35
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,1,37.40,6.35
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W3,train,20220101-20250101,483,167.91,1.07,1.42,16.91,38.85,5.32
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W3,train,20220101-20250101,483,167.91,1.07,1.42,1,38.85,5.32
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W3,test,20250101-20260401,177,53.62,1.21,1.53,13.25,41.12,5.10
+V4_G6_P004,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.3",W3,test,20250101-20260401,177,53.62,1.21,1.53,5,41.12,5.10
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W1,train,20200101-20230101,562,248.02,1.04,1.33,11.94,51.77,4.86
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W1,train,20200101-20230101,562,248.02,1.04,1.33,4,51.77,4.86
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W1,test,20230101-20240101,201,99.91,1.69,1.57,16.08,99.91,10.15
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W1,test,20230101-20240101,201,99.91,1.69,1.57,8,99.91,10.15
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W2,train,20210101-20240101,571,353.40,1.26,1.45,16.02,65.51,5.97
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W2,train,20210101-20240101,571,353.40,1.26,1.45,2,65.51,5.97
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W3,train,20220101-20250101,477,206.43,1.18,1.48,16.00,45.20,5.77
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W3,train,20220101-20250101,477,206.43,1.18,1.48,0,45.20,5.77
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W3,test,20250101-20260401,177,51.98,1.19,1.51,13.15,39.90,4.95
+V4_G6_P005,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=35 th=0.5",W3,test,20250101-20260401,177,51.98,1.19,1.51,5,39.90,4.95
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,train,20200101-20230101,568,229.31,0.97,1.30,14.30,48.99,4.52
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,train,20200101-20230101,568,229.31,0.97,1.30,0,48.99,4.52
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,test,20230101-20240101,205,91.06,1.59,1.52,7,91.06,9.56
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,test,20230101-20240101,205,91.06,1.59,1.52,16.87,91.06,9.56
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,train,20210101-20240101,580,310.27,1.18,1.40,4,60.09,5.76
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,train,20210101-20240101,580,310.27,1.18,1.40,16.84,60.09,5.76
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,train,20220101-20250101,485,181.52,1.12,1.44,4,41.16,5.61
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,train,20220101-20250101,485,181.52,1.12,1.44,16.84,41.16,5.61
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,test,20250101-20260401,179,50.76,1.17,1.49,9,39.00,4.91
+V4_G6_P006,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,test,20250101-20260401,179,50.76,1.17,1.49,13.19,39.00,4.91
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W1,train,20200101-20230101,573,247.89,1.03,1.32,5,51.75,4.78
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W1,test,20230101-20240101,207,88.52,1.56,1.50,17.03,88.52,9.39
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W1,test,20230101-20240101,207,88.52,1.56,1.50,3,88.52,9.39
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W2,train,20210101-20240101,582,315.00,1.18,1.40,17.09,60.70,5.70
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W3,train,20220101-20250101,486,184.01,1.12,1.44,17.14,41.57,5.58
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W3,test,20250101-20260401,179,50.99,1.17,1.49,2,39.17,4.88
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W3,test,20250101-20260401,179,50.99,1.17,1.49,12.52,39.17,4.88
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W1,train,20200101-20230101,560,242.82,1.02,1.32,11.95,51.01,4.75
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W1,train,20200101-20230101,560,242.82,1.02,1.32,5,51.01,4.75
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W1,test,20230101-20240101,201,99.77,1.68,1.57,9,99.77,10.07
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W1,test,20230101-20240101,201,99.77,1.68,1.57,14.99,99.77,10.07
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W2,train,20210101-20240101,570,339.24,1.24,1.44,1,63.77,5.89
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W2,train,20210101-20240101,570,339.24,1.24,1.44,15.11,63.77,5.89
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W2,test,20240101-20250101,162,39.08,1.32,1.50,9.41,38.96,6.60
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W2,test,20240101-20250101,162,39.08,1.32,1.50,1,38.96,6.60
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W3,train,20220101-20250101,476,191.55,1.13,1.46,0,42.81,5.53
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W3,train,20220101-20250101,476,191.55,1.13,1.46,15.10,42.81,5.53
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W3,test,20250101-20260401,175,54.31,1.23,1.54,12.70,41.62,5.12
+V4_G6_P008,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=40 th=0.3",W3,test,20250101-20260401,175,54.31,1.23,1.54,0,41.62,5.12
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,train,20200101-20230101,567,229.36,0.99,1.31,12.84,49.00,4.64
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,train,20200101-20230101,567,229.36,0.99,1.31,4,49.00,4.64
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,test,20230101-20240101,206,88.93,1.56,1.50,3,88.93,9.48
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W1,test,20230101-20240101,206,88.93,1.56,1.50,17.03,88.93,9.48
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,train,20210101-20240101,579,305.97,1.17,1.40,5,59.53,5.69
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,9.41,37.40,6.35
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,1,37.40,6.35
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,train,20220101-20250101,484,177.79,1.08,1.43,2,40.53,5.44
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,train,20220101-20250101,484,177.79,1.08,1.43,17.12,40.53,5.44
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,test,20250101-20260401,180,51.50,1.19,1.50,5,39.55,5.03
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W3,test,20250101-20260401,180,51.50,1.19,1.50,12.45,39.55,5.03
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W1,train,20200101-20230101,573,247.89,1.03,1.32,12.85,51.75,4.78
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W2,train,20210101-20240101,582,315.00,1.18,1.40,9,60.70,5.70
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W1,train,20200101-20230101,569,236.19,1.00,1.31,12.48,50.03,4.74
+V4_G6_P007,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=25 th=0.7",W3,train,20220101-20250101,486,184.01,1.12,1.44,4,41.57,5.58
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W1,test,20230101-20240101,206,98.25,1.66,1.54,14.02,98.25,10.02
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W1,train,20200101-20230101,569,236.19,1.00,1.31,8,50.03,4.74
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W2,train,20210101-20240101,580,328.36,1.22,1.42,13.94,62.41,5.81
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W1,test,20230101-20240101,206,98.25,1.66,1.54,2,98.25,10.02
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W2,test,20240101-20250101,163,41.64,1.40,1.53,9.41,41.51,6.99
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W2,train,20210101-20240101,580,328.36,1.22,1.42,4,62.41,5.81
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W2,test,20240101-20250101,163,41.64,1.40,1.53,1,41.51,6.99
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W3,train,20220101-20250101,483,201.68,1.16,1.47,13.97,44.45,5.76
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W3,test,20250101-20260401,181,55.84,1.27,1.54,12.05,42.74,5.28
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W3,train,20220101-20250101,483,201.68,1.16,1.47,7,44.45,5.76
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W1,train,20200101-20230101,560,233.08,0.99,1.31,11.95,49.56,4.74
+V4_G6_P010,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.7",W3,test,20250101-20260401,181,55.84,1.27,1.54,5,42.74,5.28
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W1,test,20230101-20240101,203,96.29,1.64,1.54,14.99,96.29,9.86
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W1,train,20200101-20230101,560,233.08,0.99,1.31,5,49.56,4.74
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W2,train,20210101-20240101,572,316.58,1.20,1.42,15.10,60.90,5.79
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W1,test,20230101-20240101,203,96.29,1.64,1.54,9,96.29,9.86
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W2,test,20240101-20250101,161,39.88,1.34,1.52,9.41,39.75,6.67
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W2,train,20210101-20240101,572,316.58,1.20,1.42,0,60.90,5.79
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W3,train,20220101-20250101,477,195.61,1.13,1.46,15.02,43.47,5.61
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W2,test,20240101-20250101,161,39.88,1.34,1.52,1,39.75,6.67
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W3,test,20250101-20260401,177,54.49,1.24,1.54,11.95,41.75,5.26
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W3,train,20220101-20250101,477,195.61,1.13,1.46,2,43.47,5.61
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W1,train,20200101-20230101,566,235.25,1.00,1.31,13.78,49.89,4.64
+V4_G6_P011,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=40 th=0.3",W3,test,20250101-20260401,177,54.49,1.24,1.54,5,41.75,5.26
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W1,test,20230101-20240101,204,92.25,1.61,1.53,16.87,92.25,9.64
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W1,train,20200101-20230101,566,235.25,1.00,1.31,8,49.89,4.64
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W2,train,20210101-20240101,577,321.98,1.20,1.41,16.90,61.60,5.79
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W1,test,20230101-20240101,204,92.25,1.61,1.53,7,92.25,9.64
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W2,train,20210101-20240101,577,321.98,1.20,1.41,0,61.60,5.79
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W3,train,20220101-20250101,483,185.09,1.12,1.45,16.90,41.75,5.61
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W3,test,20250101-20260401,177,51.98,1.19,1.51,13.15,39.90,4.95
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W3,train,20220101-20250101,483,185.09,1.12,1.45,0,41.75,5.61
+V4_G6_P009,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=25 th=0.3",W2,train,20210101-20240101,579,305.97,1.17,1.40,17.05,59.53,5.69
+V4_G6_P012,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.5",W3,test,20250101-20260401,177,51.98,1.19,1.51,5,39.90,4.95
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W1,train,20200101-20230101,573,218.50,0.93,1.29,14.29,47.34,4.41
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W1,train,20200101-20230101,573,218.50,0.93,1.29,9,47.34,4.41
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W1,test,20230101-20240101,207,94.93,1.63,1.52,13.94,94.93,9.77
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W1,test,20230101-20240101,207,94.93,1.63,1.52,4,94.93,9.77
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W2,train,20210101-20240101,584,295.87,1.17,1.39,14.00,58.19,5.73
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W2,train,20210101-20240101,584,295.87,1.17,1.39,0,58.19,5.73
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,41.64,1.40,1.53,9.41,41.51,6.99
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,41.64,1.40,1.53,1,41.51,6.99
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W3,train,20220101-20250101,487,186.58,1.13,1.44,13.98,42.00,5.65
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W3,train,20220101-20250101,487,186.58,1.13,1.44,8,42.00,5.65
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W3,test,20250101-20260401,180,50.50,1.16,1.49,12.45,38.81,4.89
+V4_G6_P013,group6_dynamic_dc,"G6 dynDC lb=50 s=14 L=30 th=0.5",W3,test,20250101-20260401,180,50.50,1.16,1.49,5,38.81,4.89
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W1,train,20200101-20230101,561,239.31,1.00,1.32,12.48,50.49,4.67
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W1,train,20200101-20230101,561,239.31,1.00,1.32,8,50.49,4.67
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W1,test,20230101-20240101,201,99.77,1.68,1.57,14.99,99.77,10.07
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W1,test,20230101-20240101,201,99.77,1.68,1.57,9,99.77,10.07
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W2,train,20210101-20240101,571,334.31,1.23,1.43,15.10,63.15,5.89
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W2,train,20210101-20240101,571,334.31,1.23,1.43,0,63.15,5.89
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W2,test,20240101-20250101,162,39.08,1.32,1.50,9.41,38.96,6.60
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W2,test,20240101-20250101,162,39.08,1.32,1.50,1,38.96,6.60
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W3,train,20220101-20250101,477,188.22,1.12,1.46,15.02,42.27,5.51
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W3,train,20220101-20250101,477,188.22,1.12,1.46,2,42.27,5.51
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W3,test,20250101-20260401,176,54.59,1.23,1.54,12.70,41.83,5.16
+V4_G6_P014,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=40 th=0.3",W3,test,20250101-20260401,176,54.59,1.23,1.54,0,41.83,5.16
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W1,train,20200101-20230101,567,235.83,0.99,1.31,11.94,49.97,4.69
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W1,train,20200101-20230101,567,235.83,0.99,1.31,4,49.97,4.69
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W1,test,20230101-20240101,205,91.04,1.58,1.51,16.91,91.04,9.53
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W1,test,20230101-20240101,205,91.04,1.58,1.51,1,91.04,9.53
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W2,train,20210101-20240101,578,303.48,1.17,1.40,16.90,59.20,5.69
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W2,train,20210101-20240101,578,303.48,1.17,1.40,0,59.20,5.69
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W3,train,20220101-20250101,482,188.31,1.12,1.45,16.85,42.28,5.63
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W3,train,20220101-20250101,482,188.31,1.12,1.45,5,42.28,5.63
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W3,test,20250101-20260401,178,51.60,1.18,1.50,12.52,39.62,4.92
+V4_G6_P015,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.5",W3,test,20250101-20260401,178,51.60,1.18,1.50,2,39.62,4.92
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,train,20200101-20230101,568,229.31,0.97,1.30,14.30,48.99,4.52
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,train,20200101-20230101,568,229.31,0.97,1.30,0,48.99,4.52
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,test,20230101-20240101,205,91.06,1.59,1.52,7,91.06,9.56
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W1,test,20230101-20240101,205,91.06,1.59,1.52,16.87,91.06,9.56
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,train,20210101-20240101,580,310.27,1.18,1.40,16.84,60.09,5.76
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,train,20210101-20240101,580,310.27,1.18,1.40,4,60.09,5.76
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,train,20220101-20250101,485,181.52,1.12,1.44,4,41.16,5.61
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,train,20220101-20250101,485,181.52,1.12,1.44,16.84,41.16,5.61
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,test,20250101-20260401,179,50.76,1.17,1.49,13.19,39.00,4.91
+V4_G6_P016,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=30 th=0.5",W3,test,20250101-20260401,179,50.76,1.17,1.49,9,39.00,4.91
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,train,20200101-20230101,570,256.75,1.06,1.33,0,53.04,4.96
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,train,20200101-20230101,570,256.75,1.06,1.33,11.00,53.04,4.96
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,test,20230101-20240101,207,87.81,1.54,1.49,16.02,87.81,9.23
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W1,test,20230101-20240101,207,87.81,1.54,1.49,2,87.81,9.23
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,train,20210101-20240101,580,319.94,1.19,1.41,8,61.34,5.63
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,train,20210101-20240101,580,319.94,1.19,1.41,15.98,61.34,5.63
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,train,20220101-20250101,484,190.26,1.13,1.45,16.03,42.60,5.62
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,train,20220101-20250101,484,190.26,1.13,1.45,3,42.60,5.62
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,test,20250101-20260401,177,52.54,1.20,1.51,6,40.32,4.98
+V4_G6_P017,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=40 th=0.7",W3,test,20250101-20260401,177,52.54,1.20,1.51,11.96,40.32,4.98
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W1,train,20200101-20230101,561,233.05,0.99,1.31,11.94,49.56,4.73
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W1,train,20200101-20230101,561,233.05,0.99,1.31,4,49.56,4.73
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W1,test,20230101-20240101,203,96.81,1.65,1.55,8,96.81,9.98
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W1,test,20230101-20240101,203,96.81,1.65,1.55,16.08,96.81,9.98
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W2,train,20210101-20240101,572,321.05,1.21,1.43,16.00,61.48,5.86
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W2,train,20210101-20240101,572,321.05,1.21,1.43,0,61.48,5.86
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,1,37.40,6.35
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W2,test,20240101-20250101,162,37.52,1.29,1.48,9.41,37.40,6.35
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W3,train,20220101-20250101,478,192.88,1.13,1.45,8,43.03,5.57
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W3,train,20220101-20250101,478,192.88,1.13,1.45,16.08,43.03,5.57
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W3,test,20250101-20260401,176,54.51,1.24,1.54,3,41.77,5.19
+V4_G6_P019,group6_dynamic_dc,"G6 dynDC lb=50 s=16 L=35 th=0.3",W3,test,20250101-20260401,176,54.51,1.24,1.54,12.63,41.77,5.19
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W1,train,20200101-20230101,573,232.29,0.99,1.31,6,49.44,4.63
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W1,train,20200101-20230101,573,232.29,0.99,1.31,12.86,49.44,4.63
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W1,test,20230101-20240101,208,92.21,1.59,1.50,14.11,92.21,9.62
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W1,test,20230101-20240101,208,92.21,1.59,1.50,1,92.21,9.62
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W2,train,20210101-20240101,585,313.40,1.18,1.40,9,60.49,5.65
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W2,train,20210101-20240101,585,313.40,1.18,1.40,14.19,60.49,5.65
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W2,test,20240101-20250101,163,41.64,1.40,1.53,1,41.51,6.99
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W2,test,20240101-20250101,163,41.64,1.40,1.53,9.41,41.51,6.99
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W3,train,20220101-20250101,488,188.56,1.13,1.44,14.19,42.32,5.65
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W3,test,20250101-20260401,183,53.29,1.22,1.50,12.63,40.87,5.09
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W3,test,20250101-20260401,183,53.29,1.22,1.50,3,40.87,5.09
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W1,train,20200101-20230101,569,237.17,1.00,1.31,8,50.17,4.64
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W1,train,20200101-20230101,569,237.17,1.00,1.31,13.78,50.17,4.64
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W1,test,20230101-20240101,206,89.30,1.57,1.50,7,89.30,9.47
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W1,test,20230101-20240101,206,89.30,1.57,1.50,16.87,89.30,9.47
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W2,train,20210101-20240101,581,308.13,1.17,1.40,0,59.81,5.70
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W2,train,20210101-20240101,581,308.13,1.17,1.40,16.90,59.81,5.70
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,1,40.85,6.90
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W2,test,20240101-20250101,163,40.98,1.38,1.52,9.41,40.85,6.90
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W3,train,20220101-20250101,485,181.29,1.11,1.44,16.90,41.12,5.60
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W3,train,20220101-20250101,485,181.29,1.11,1.44,0,41.12,5.60
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W3,test,20250101-20260401,178,55.10,1.24,1.54,5,42.20,5.13
+V4_G6_P018,group6_dynamic_dc,"G6 dynDC lb=100 s=16 L=30 th=0.7",W3,test,20250101-20260401,178,55.10,1.24,1.54,12.65,42.20,5.13
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W1,train,20200101-20230101,576,204.34,0.92,1.29,12.85,45.11,4.45
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W1,test,20230101-20240101,208,78.93,1.54,1.49,14.51,78.93,8.72
+V4_G6_P020,group6_dynamic_dc,"G6 dynDC lb=100 s=14 L=25 th=0.7",W3,train,20220101-20250101,488,188.56,1.13,1.44,9,42.32,5.65
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W2,train,20210101-20240101,588,246.01,1.12,1.37,14.43,51.25,5.66
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W1,train,20200101-20230101,576,204.34,0.92,1.29,5,45.11,4.45
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W2,test,20240101-20250101,166,24.83,0.92,1.32,10.63,24.75,4.31
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W1,test,20230101-20240101,208,78.93,1.54,1.49,1,78.93,8.72
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W3,train,20220101-20250101,493,129.58,0.92,1.35,14.38,31.89,4.48
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W2,train,20210101-20240101,588,246.01,1.12,1.37,3,51.25,5.66
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,44.51,1.13,1.49,13.63,34.36,4.82
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W2,test,20240101-20250101,166,24.83,0.92,1.32,3,24.75,4.31
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W1,train,20200101-20230101,575,214.08,0.95,1.29,11.37,46.65,4.73
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W3,train,20220101-20250101,493,129.58,0.92,1.35,8,31.89,4.48
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W1,test,20230101-20240101,208,79.18,1.51,1.48,16.77,79.18,9.27
+V4_G8_P001,group8_stair_grid,"G8 stair 16b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,44.51,1.13,1.49,3,34.36,4.82
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W2,train,20210101-20240101,587,250.07,1.11,1.37,16.85,51.84,5.78
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W1,train,20200101-20230101,575,214.08,0.95,1.29,7,46.65,4.73
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W2,test,20240101-20250101,165,26.38,0.96,1.33,10.63,26.29,4.68
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W1,test,20230101-20240101,208,79.18,1.51,1.48,7,79.18,9.27
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W3,train,20220101-20250101,491,140.75,0.95,1.36,16.82,33.99,4.77
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W2,train,20210101-20240101,587,250.07,1.11,1.37,5,51.84,5.78
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W3,test,20250101-20260401,179,42.75,1.07,1.46,13.81,33.05,4.76
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W2,test,20240101-20250101,165,26.38,0.96,1.33,3,26.29,4.68
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W1,train,20200101-20230101,575,219.15,0.95,1.29,11.49,47.44,4.73
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W3,train,20220101-20250101,491,140.75,0.95,1.36,2,33.99,4.77
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W1,test,20230101-20240101,208,76.87,1.47,1.46,17.03,76.87,9.13
+V4_G8_P002,group8_stair_grid,"G8 stair 16b/-0.05 40b/-0.04",W3,test,20250101-20260401,179,42.75,1.07,1.46,1,33.05,4.76
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W2,train,20210101-20240101,587,241.16,1.09,1.36,17.07,50.54,5.70
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W1,train,20200101-20230101,575,219.15,0.95,1.29,9,47.44,4.73
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W2,test,20240101-20250101,165,26.01,0.95,1.33,10.61,25.93,4.65
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W1,test,20230101-20240101,208,76.87,1.47,1.46,3,76.87,9.13
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W3,train,20220101-20250101,491,134.49,0.92,1.34,17.10,32.82,4.69
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W2,train,20210101-20240101,587,241.16,1.09,1.36,7,50.54,5.70
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W3,test,20250101-20260401,179,41.32,1.04,1.44,14.02,31.98,4.65
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W2,test,20240101-20250101,165,26.01,0.95,1.33,1,25.93,4.65
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W1,train,20200101-20230101,573,206.85,0.93,1.29,13.32,45.51,4.36
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W3,train,20220101-20250101,491,134.49,0.92,1.34,0,32.82,4.69
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W1,test,20230101-20240101,208,75.07,1.47,1.46,14.70,75.07,8.24
+V4_G8_P003,group8_stair_grid,"G8 stair 16b/-0.05 44b/-0.05",W3,test,20250101-20260401,179,41.32,1.04,1.44,2,31.98,4.65
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W2,train,20210101-20240101,585,247.60,1.10,1.36,14.66,51.48,5.43
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W1,train,20200101-20230101,573,206.85,0.93,1.29,2,45.51,4.36
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W2,test,20240101-20250101,162,34.83,1.21,1.45,9.28,34.72,5.68
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W1,test,20230101-20240101,208,75.07,1.47,1.46,0,75.07,8.24
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W3,train,20220101-20250101,488,139.26,0.98,1.38,14.69,33.71,4.77
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W2,train,20210101-20240101,585,247.60,1.10,1.36,6,51.48,5.43
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W3,test,20250101-20260401,180,48.33,1.17,1.51,14.50,37.20,4.95
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W2,test,20240101-20250101,162,34.83,1.21,1.45,8,34.72,5.68
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W1,train,20200101-20230101,571,240.08,1.01,1.31,12.14,50.61,4.79
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W1,test,20230101-20240101,208,87.05,1.54,1.49,17.10,87.05,9.58
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W3,train,20220101-20250101,488,139.26,0.98,1.38,9,33.71,4.77
+V4_G8_P004,group8_stair_grid,"G8 stair 16b/-0.06 36b/-0.03",W3,test,20250101-20260401,180,48.33,1.17,1.51,0,37.20,4.95
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W2,train,20210101-20240101,583,291.65,1.15,1.39,17.15,57.63,5.68
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W2,test,20240101-20250101,161,37.22,1.27,1.48,9.52,37.10,6.28
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W1,train,20200101-20230101,571,240.08,1.01,1.31,4,50.61,4.79
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W1,test,20230101-20240101,208,87.05,1.54,1.49,0,87.05,9.58
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W3,train,20220101-20250101,486,167.72,1.06,1.41,17.09,38.81,5.30
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W3,test,20250101-20260401,178,55.96,1.29,1.57,11.97,42.83,5.61
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W2,train,20210101-20240101,583,291.65,1.15,1.39,5,57.63,5.68
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W2,test,20240101-20250101,161,37.22,1.27,1.48,2,37.10,6.28
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W1,train,20200101-20230101,571,257.01,1.02,1.32,12.22,53.07,4.81
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W1,test,20230101-20240101,208,82.98,1.48,1.46,18.13,82.98,9.47
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W3,train,20220101-20250101,486,167.72,1.06,1.41,9,38.81,5.30
+V4_G8_P005,group8_stair_grid,"G8 stair 16b/-0.06 40b/-0.04",W3,test,20250101-20260401,178,55.96,1.29,1.57,7,42.83,5.61
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W2,train,20210101-20240101,583,290.17,1.13,1.38,18.10,57.43,5.65
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W2,test,20240101-20250101,161,34.52,1.20,1.44,9.71,34.41,6.04
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W1,train,20200101-20230101,571,257.01,1.02,1.32,2,53.07,4.81
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W1,test,20230101-20240101,208,82.98,1.48,1.46,3,82.98,9.47
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W3,train,20220101-20250101,486,157.65,1.01,1.39,18.12,37.05,5.21
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W3,test,20250101-20260401,178,53.23,1.23,1.53,12.53,40.83,5.45
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W2,train,20210101-20240101,583,290.17,1.13,1.38,0,57.43,5.65
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W2,test,20240101-20250101,161,34.52,1.20,1.44,1,34.41,6.04
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W1,train,20200101-20230101,570,263.57,1.02,1.32,13.26,54.01,4.56
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W1,test,20230101-20240101,205,70.42,1.40,1.44,15.96,70.42,7.76
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W3,train,20220101-20250101,486,157.65,1.01,1.39,2,37.05,5.21
+V4_G8_P006,group8_stair_grid,"G8 stair 16b/-0.06 48b/-0.05",W3,test,20250101-20260401,178,53.23,1.23,1.53,3,40.83,5.45
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W2,train,20210101-20240101,579,261.78,1.10,1.36,15.95,53.51,5.32
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W2,test,20240101-20250101,162,37.86,1.26,1.47,9.56,37.74,5.66
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W1,train,20200101-20230101,570,263.57,1.02,1.32,6,54.01,4.56
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W1,test,20230101-20240101,205,70.42,1.40,1.44,6,70.42,7.76
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W3,train,20220101-20250101,482,143.32,0.99,1.38,15.96,34.47,4.59
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W3,test,20250101-20260401,179,46.98,1.13,1.48,12.31,36.20,4.71
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W2,train,20210101-20240101,579,261.78,1.10,1.36,5,53.51,5.32
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W2,test,20240101-20250101,162,37.86,1.26,1.47,6,37.74,5.66
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W1,train,20200101-20230101,569,308.58,1.10,1.35,11.66,60.14,4.95
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W1,test,20230101-20240101,205,82.66,1.49,1.47,18.08,82.66,9.08
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W3,train,20220101-20250101,482,143.32,0.99,1.38,6,34.47,4.59
+V4_G8_P007,group8_stair_grid,"G8 stair 16b/-0.07 40b/-0.03",W3,test,20250101-20260401,179,46.98,1.13,1.48,1,36.20,4.71
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W2,train,20210101-20240101,578,316.29,1.17,1.39,18.05,60.87,5.58
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W2,test,20240101-20250101,161,38.95,1.27,1.47,9.63,38.82,6.06
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W1,train,20200101-20230101,569,308.58,1.10,1.35,6,60.14,4.95
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W1,test,20230101-20240101,205,82.66,1.49,1.47,8,82.66,9.08
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W3,train,20220101-20250101,481,173.29,1.06,1.41,18.06,39.77,5.09
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W3,test,20250101-20260401,178,51.91,1.20,1.51,12.31,39.85,5.18
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W2,train,20210101-20240101,578,316.29,1.17,1.39,5,60.87,5.58
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W2,test,20240101-20250101,161,38.95,1.27,1.47,3,38.82,6.06
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W1,train,20200101-20230101,575,205.82,0.93,1.29,13.90,45.35,4.31
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W1,test,20230101-20240101,208,76.63,1.50,1.47,14.53,76.63,8.28
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W3,train,20220101-20250101,481,173.29,1.06,1.41,6,39.77,5.09
+V4_G8_P008,group8_stair_grid,"G8 stair 16b/-0.07 44b/-0.04",W3,test,20250101-20260401,178,51.91,1.20,1.51,1,39.85,5.18
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W2,train,20210101-20240101,587,248.74,1.10,1.36,14.43,51.65,5.44
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W2,test,20240101-20250101,164,29.86,1.05,1.38,8.94,29.77,5.00
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W1,train,20200101-20230101,575,205.82,0.93,1.29,0,45.35,4.31
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W1,test,20230101-20240101,208,76.63,1.50,1.47,3,76.63,8.28
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W3,train,20220101-20250101,491,129.67,0.93,1.35,14.54,31.90,4.49
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,42.13,1.07,1.45,14.32,32.58,4.46
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W2,train,20210101-20240101,587,248.74,1.10,1.36,3,51.65,5.44
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W2,test,20240101-20250101,164,29.86,1.05,1.38,4,29.77,5.00
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W1,train,20200101-20230101,574,216.74,0.95,1.29,12.66,47.07,4.58
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W3,train,20220101-20250101,491,129.67,0.93,1.35,4,31.90,4.49
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W1,test,20230101-20240101,208,74.00,1.42,1.44,17.26,74.00,8.73
+V4_G8_P009,group8_stair_grid,"G8 stair 18b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,42.13,1.07,1.45,2,32.58,4.46
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W2,train,20210101-20240101,586,241.57,1.07,1.35,17.30,50.60,5.48
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W2,test,20240101-20250101,163,30.25,1.06,1.38,9.05,30.15,5.25
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W1,train,20200101-20230101,574,216.74,0.95,1.29,6,47.07,4.58
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W1,test,20230101-20240101,208,74.00,1.42,1.44,6,74.00,8.73
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W3,train,20220101-20250101,489,133.30,0.92,1.35,17.22,32.59,4.73
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W3,test,20250101-20260401,179,39.05,0.98,1.41,14.68,30.28,4.31
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W2,train,20210101-20240101,586,241.57,1.07,1.35,0,50.60,5.48
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W2,test,20240101-20250101,163,30.25,1.06,1.38,5,30.15,5.25
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W1,train,20200101-20230101,571,232.70,1.00,1.31,12.69,49.51,4.66
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W1,test,20230101-20240101,208,77.12,1.47,1.46,16.31,77.12,8.66
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W3,train,20220101-20250101,489,133.30,0.92,1.35,2,32.59,4.73
+V4_G8_P010,group8_stair_grid,"G8 stair 18b/-0.05 40b/-0.05",W3,test,20250101-20260401,179,39.05,0.98,1.41,8,30.28,4.31
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W2,train,20210101-20240101,583,283.18,1.14,1.38,16.30,56.48,5.66
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W2,test,20240101-20250101,161,37.16,1.27,1.48,9.46,37.04,6.22
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W1,train,20200101-20230101,571,232.70,1.00,1.31,9,49.51,4.66
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W1,test,20230101-20240101,208,77.12,1.47,1.46,1,77.12,8.66
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W3,train,20220101-20250101,486,152.66,1.02,1.40,16.32,36.16,5.12
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W3,test,20250101-20260401,178,52.79,1.22,1.53,13.45,40.50,5.24
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W2,train,20210101-20240101,583,283.18,1.14,1.38,0,56.48,5.66
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W2,test,20240101-20250101,161,37.16,1.27,1.48,6,37.04,6.22
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W1,train,20200101-20230101,572,226.16,0.94,1.29,14.03,48.52,4.34
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W1,test,20230101-20240101,208,81.50,1.49,1.47,16.59,81.50,8.80
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W3,train,20220101-20250101,486,152.66,1.02,1.40,2,36.16,5.12
+V4_G8_P011,group8_stair_grid,"G8 stair 18b/-0.06 36b/-0.04",W3,test,20250101-20260401,178,52.79,1.22,1.53,5,40.50,5.24
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W2,train,20210101-20240101,584,259.28,1.09,1.36,16.64,53.16,5.40
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W2,test,20240101-20250101,162,37.94,1.30,1.49,9.41,37.82,6.24
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W1,train,20200101-20230101,572,226.16,0.94,1.29,3,48.52,4.34
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W1,test,20230101-20240101,208,81.50,1.49,1.47,9,81.50,8.80
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W3,train,20220101-20250101,487,152.58,1.02,1.40,16.59,36.15,5.08
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W3,test,20250101-20260401,179,47.00,1.13,1.48,12.43,36.21,4.81
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W2,train,20210101-20240101,584,259.28,1.09,1.36,4,53.16,5.40
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W2,test,20240101-20250101,162,37.94,1.30,1.49,1,37.82,6.24
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W1,train,20200101-20230101,569,290.63,1.08,1.34,12.24,57.75,4.85
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W1,test,20230101-20240101,205,84.14,1.51,1.48,17.48,84.14,9.05
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W3,train,20220101-20250101,487,152.58,1.02,1.40,9,36.15,5.08
+V4_G8_P012,group8_stair_grid,"G8 stair 18b/-0.06 44b/-0.03",W3,test,20250101-20260401,179,47.00,1.13,1.48,3,36.21,4.81
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W2,train,20210101-20240101,578,315.77,1.17,1.40,17.46,60.80,5.60
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W2,test,20240101-20250101,161,36.28,1.22,1.45,9.57,36.17,5.62
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W1,train,20200101-20230101,569,290.63,1.08,1.34,4,57.75,4.85
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W1,test,20230101-20240101,205,84.14,1.51,1.48,8,84.14,9.05
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W3,train,20220101-20250101,481,170.45,1.05,1.41,17.41,39.28,5.00
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W3,test,20250101-20260401,178,50.92,1.17,1.50,12.67,39.12,4.97
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W2,train,20210101-20240101,578,315.77,1.17,1.40,6,60.80,5.60
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W2,test,20240101-20250101,161,36.28,1.22,1.45,7,36.17,5.62
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W1,train,20200101-20230101,568,300.96,1.07,1.34,12.31,59.14,4.82
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W1,test,20230101-20240101,205,77.95,1.41,1.44,18.94,77.95,8.91
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W3,train,20220101-20250101,481,170.45,1.05,1.41,1,39.28,5.00
+V4_G8_P013,group8_stair_grid,"G8 stair 18b/-0.07 40b/-0.04",W3,test,20250101-20260401,178,50.92,1.17,1.50,7,39.12,4.97
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W2,train,20210101-20240101,577,300.49,1.12,1.37,18.91,58.81,5.49
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W2,test,20240101-20250101,160,40.80,1.31,1.49,9.79,40.67,6.22
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W1,train,20200101-20230101,568,300.96,1.07,1.34,1,59.14,4.82
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W1,test,20230101-20240101,205,77.95,1.41,1.44,4,77.95,8.91
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W3,train,20220101-20250101,479,168.56,1.04,1.40,18.84,38.96,5.09
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W3,test,20250101-20260401,178,48.57,1.12,1.47,13.12,37.38,4.87
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W2,train,20210101-20240101,577,300.49,1.12,1.37,1,58.81,5.49
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W2,test,20240101-20250101,160,40.80,1.31,1.49,9,40.67,6.22
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W1,train,20200101-20230101,574,216.72,0.94,1.29,14.23,47.06,4.31
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W1,test,20230101-20240101,207,78.02,1.52,1.49,14.54,78.02,8.34
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W3,train,20220101-20250101,479,168.56,1.04,1.40,4,38.96,5.09
+V4_G8_P014,group8_stair_grid,"G8 stair 18b/-0.07 48b/-0.05",W3,test,20250101-20260401,178,48.57,1.12,1.47,2,37.38,4.87
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W2,train,20210101-20240101,585,260.93,1.13,1.37,14.47,53.39,5.50
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W2,test,20240101-20250101,164,30.59,1.08,1.39,8.75,30.49,5.12
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W1,train,20200101-20230101,574,216.72,0.94,1.29,3,47.06,4.31
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W1,test,20230101-20240101,207,78.02,1.52,1.49,4,78.02,8.34
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W3,train,20220101-20250101,490,132.12,0.94,1.36,14.54,32.37,4.55
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,46.42,1.12,1.48,15.02,35.78,4.59
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W2,train,20210101-20240101,585,260.93,1.13,1.37,7,53.39,5.50
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W2,test,20240101-20250101,164,30.59,1.08,1.39,5,30.49,5.12
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W1,train,20200101-20230101,573,222.36,0.96,1.30,12.67,47.93,4.57
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W1,test,20230101-20240101,207,77.78,1.48,1.47,16.89,77.78,8.85
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W3,train,20220101-20250101,490,132.12,0.94,1.36,4,32.37,4.55
+V4_G8_P015,group8_stair_grid,"G8 stair 20b/-0.05 36b/-0.03",W3,test,20250101-20260401,180,46.42,1.12,1.48,2,35.78,4.59
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W2,train,20210101-20240101,584,264.90,1.12,1.37,16.87,53.95,5.66
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W2,test,20240101-20250101,163,30.88,1.08,1.39,8.73,30.78,5.36
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W1,train,20200101-20230101,573,222.36,0.96,1.30,7,47.93,4.57
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W1,test,20230101-20240101,207,77.78,1.48,1.47,9,77.78,8.85
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W3,train,20220101-20250101,488,141.01,0.96,1.36,16.89,34.04,4.82
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W3,test,20250101-20260401,179,45.01,1.07,1.45,15.20,34.73,4.60
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W2,train,20210101-20240101,584,264.90,1.12,1.37,7,53.95,5.66
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W2,test,20240101-20250101,163,30.88,1.08,1.39,3,30.78,5.36
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W1,train,20200101-20230101,573,227.25,0.96,1.30,12.79,48.68,4.58
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W1,test,20230101-20240101,207,75.29,1.44,1.45,17.27,75.29,8.76
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W3,train,20220101-20250101,488,141.01,0.96,1.36,9,34.04,4.82
+V4_G8_P016,group8_stair_grid,"G8 stair 20b/-0.05 40b/-0.04",W3,test,20250101-20260401,179,45.01,1.07,1.45,0,34.73,4.60
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W2,train,20210101-20240101,584,254.13,1.09,1.36,17.30,52.42,5.57
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W2,test,20240101-20250101,163,30.36,1.06,1.38,8.84,30.27,5.31
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W1,train,20200101-20230101,573,227.25,0.96,1.30,9,48.68,4.58
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W1,test,20230101-20240101,207,75.29,1.44,1.45,7,75.29,8.76
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W3,train,20220101-20250101,488,135.38,0.93,1.35,17.24,32.99,4.75
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W3,test,20250101-20260401,179,43.63,1.04,1.44,15.37,33.70,4.51
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W2,train,20210101-20240101,584,254.13,1.09,1.36,0,52.42,5.57
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W1,train,20200101-20230101,572,208.91,0.92,1.28,14.08,45.84,4.23
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W2,test,20240101-20250101,163,30.36,1.06,1.38,4,30.27,5.31
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W1,test,20230101-20240101,206,77.73,1.51,1.48,14.40,77.73,8.16
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W3,train,20220101-20250101,488,135.38,0.93,1.35,4,32.99,4.75
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W2,train,20210101-20240101,582,258.52,1.11,1.37,14.48,53.05,5.43
+V4_G8_P017,group8_stair_grid,"G8 stair 20b/-0.05 48b/-0.05",W3,test,20250101-20260401,179,43.63,1.04,1.44,7,33.70,4.51
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W2,test,20240101-20250101,162,37.61,1.29,1.49,8.77,37.49,6.05
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W1,train,20200101-20230101,572,208.91,0.92,1.28,8,45.84,4.23
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W3,train,20220101-20250101,486,143.38,1.01,1.39,14.42,34.48,4.84
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W1,test,20230101-20240101,206,77.73,1.51,1.48,0,77.73,8.16
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W3,test,20250101-20260401,180,45.58,1.10,1.47,15.32,35.15,4.46
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W2,train,20210101-20240101,582,258.52,1.11,1.37,8,53.05,5.43
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W1,train,20200101-20230101,570,246.28,1.00,1.31,12.86,51.52,4.64
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W2,test,20240101-20250101,162,37.61,1.29,1.49,7,37.49,6.05
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W1,test,20230101-20240101,206,89.65,1.58,1.51,17.03,89.65,9.45
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W3,train,20220101-20250101,486,143.38,1.01,1.39,2,34.48,4.84
+V4_G8_P018,group8_stair_grid,"G8 stair 20b/-0.06 36b/-0.03",W3,test,20250101-20260401,180,45.58,1.10,1.47,2,35.15,4.46
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W2,train,20210101-20240101,580,308.62,1.18,1.40,17.07,59.87,5.71
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W1,train,20200101-20230101,570,246.28,1.00,1.31,6,51.52,4.64
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W1,test,20230101-20240101,206,89.65,1.58,1.51,3,89.65,9.45
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W3,train,20220101-20250101,484,170.57,1.08,1.42,17.11,39.30,5.35
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W3,test,20250101-20260401,178,52.91,1.21,1.52,12.93,40.59,5.07
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W2,train,20210101-20240101,580,308.62,1.18,1.40,7,59.87,5.71
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W1,train,20200101-20230101,570,263.65,1.02,1.32,12.93,54.02,4.67
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W1,test,20230101-20240101,206,85.19,1.51,1.48,17.91,85.19,9.30
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W3,train,20220101-20250101,484,170.57,1.08,1.42,1,39.30,5.35
+V4_G8_P019,group8_stair_grid,"G8 stair 20b/-0.06 40b/-0.04",W3,test,20250101-20260401,178,52.91,1.21,1.52,3,40.59,5.07
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W2,train,20210101-20240101,580,308.04,1.15,1.39,17.91,59.80,5.68
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W2,test,20240101-20250101,161,36.19,1.24,1.46,9.71,36.07,6.29
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W1,train,20200101-20230101,570,263.65,1.02,1.32,3,54.02,4.67
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W1,test,20230101-20240101,206,85.19,1.51,1.48,1,85.19,9.30
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W3,train,20220101-20250101,484,159.53,1.03,1.40,17.86,37.38,5.23
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W3,test,20250101-20260401,178,50.85,1.17,1.50,13.16,39.07,5.00
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W2,train,20210101-20240101,580,308.04,1.15,1.39,1,59.80,5.68
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W2,test,20240101-20250101,161,36.19,1.24,1.46,1,36.07,6.29
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W1,train,20200101-20230101,568,273.30,1.07,1.34,12.46,55.38,4.81
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W1,test,20230101-20240101,205,74.94,1.44,1.46,16.41,74.94,8.39
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W3,train,20220101-20250101,484,159.53,1.03,1.40,6,37.38,5.23
+V4_G8_P020,group8_stair_grid,"G8 stair 20b/-0.06 44b/-0.05",W3,test,20250101-20260401,178,50.85,1.17,1.50,6,39.07,5.00
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W2,train,20210101-20240101,577,301.97,1.16,1.39,16.49,59.00,5.62
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W2,test,20240101-20250101,161,37.36,1.26,1.47,9.75,37.24,5.76
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W1,train,20200101-20230101,568,273.30,1.07,1.34,6,55.38,4.81
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W1,test,20230101-20240101,205,74.94,1.44,1.46,1,74.94,8.39
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W3,train,20220101-20250101,481,159.19,1.03,1.40,16.39,37.32,4.93
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W3,test,20250101-20260401,178,48.78,1.13,1.48,14.15,37.53,4.72
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W2,train,20210101-20240101,577,301.97,1.16,1.39,9,59.00,5.62
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W2,test,20240101-20250101,161,37.36,1.26,1.47,5,37.24,5.76
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W1,train,20200101-20230101,568,288.32,1.06,1.33,12.60,57.44,4.82
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W1,test,20230101-20240101,205,80.25,1.45,1.45,18.46,80.25,8.99
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W3,train,20220101-20250101,481,159.19,1.03,1.40,9,37.32,4.93
+V4_G8_P021,group8_stair_grid,"G8 stair 20b/-0.07 36b/-0.04",W3,test,20250101-20260401,178,48.78,1.13,1.48,5,37.53,4.72
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W2,train,20210101-20240101,577,295.34,1.13,1.38,18.42,58.12,5.51
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W2,test,20240101-20250101,161,35.09,1.19,1.43,9.84,34.98,5.64
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W1,train,20200101-20230101,568,288.32,1.06,1.33,0,57.44,4.82
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W1,test,20230101-20240101,205,80.25,1.45,1.45,6,80.25,8.99
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W3,train,20220101-20250101,481,158.55,1.00,1.38,18.41,37.21,4.91
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W3,test,20250101-20260401,178,48.51,1.12,1.47,13.45,37.33,4.77
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W2,train,20210101-20240101,577,295.34,1.13,1.38,2,58.12,5.51
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W2,test,20240101-20250101,161,35.09,1.19,1.43,4,34.98,5.64
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W1,train,20200101-20230101,569,297.19,1.06,1.34,13.67,58.64,4.60
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W1,test,20230101-20240101,205,76.09,1.42,1.44,17.74,76.09,8.28
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W3,train,20220101-20250101,481,158.55,1.00,1.38,1,37.21,4.91
+V4_G8_P022,group8_stair_grid,"G8 stair 20b/-0.07 40b/-0.05",W3,test,20250101-20260401,178,48.51,1.12,1.47,5,37.33,4.77
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W2,train,20210101-20240101,578,298.23,1.13,1.37,17.74,58.51,5.33
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W2,test,20240101-20250101,161,42.76,1.37,1.52,9.73,42.62,6.25
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W1,train,20200101-20230101,569,297.19,1.06,1.34,7,58.64,4.60
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W1,test,20230101-20240101,205,76.09,1.42,1.44,4,76.09,8.28
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W3,train,20220101-20250101,481,160.67,1.04,1.40,17.81,37.58,4.88
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W3,test,20250101-20260401,178,46.97,1.10,1.46,13.60,36.19,4.55
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W2,train,20210101-20240101,578,298.23,1.13,1.37,4,58.51,5.33
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W2,test,20240101-20250101,161,42.76,1.37,1.52,3,42.62,6.25
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W1,train,20200101-20230101,571,212.47,0.95,1.30,15.02,46.40,4.42
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W1,test,20230101-20240101,207,73.06,1.44,1.45,15.83,73.06,8.09
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W3,train,20220101-20250101,481,160.67,1.04,1.40,1,37.58,4.88
+V4_G8_P023,group8_stair_grid,"G8 stair 20b/-0.07 48b/-0.03",W3,test,20250101-20260401,178,46.97,1.10,1.46,0,36.19,4.55
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W2,train,20210101-20240101,582,250.40,1.09,1.36,15.85,51.89,5.35
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W2,test,20240101-20250101,164,32.57,1.14,1.42,9.06,32.46,5.52
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W1,train,20200101-20230101,571,212.47,0.95,1.30,2,46.40,4.42
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W1,test,20230101-20240101,207,73.06,1.44,1.45,3,73.06,8.09
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W3,train,20220101-20250101,488,140.67,0.97,1.37,15.87,33.98,4.73
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W3,test,20250101-20260401,180,42.55,1.03,1.43,15.41,32.90,4.21
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W2,train,20210101-20240101,582,250.40,1.09,1.36,5,51.89,5.35
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W2,test,20240101-20250101,164,32.57,1.14,1.42,6,32.46,5.52
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W1,train,20200101-20230101,571,235.77,1.00,1.31,13.21,49.97,4.73
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W1,test,20230101-20240101,207,75.62,1.45,1.46,17.41,75.62,8.64
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W3,train,20220101-20250101,488,140.67,0.97,1.37,7,33.98,4.73
+V4_G8_P024,group8_stair_grid,"G8 stair 22b/-0.05 40b/-0.03",W3,test,20250101-20260401,180,42.55,1.03,1.43,1,32.90,4.21
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W2,train,20210101-20240101,582,262.88,1.11,1.37,17.41,53.67,5.56
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W2,test,20240101-20250101,163,29.63,1.05,1.37,9.42,29.53,5.22
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W1,train,20200101-20230101,571,235.77,1.00,1.31,1,49.97,4.73
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W1,test,20230101-20240101,207,75.62,1.45,1.46,1,75.62,8.64
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W3,train,20220101-20250101,487,145.95,0.96,1.37,17.38,34.95,4.81
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W3,test,20250101-20260401,179,44.00,1.05,1.44,15.25,33.98,4.43
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W2,train,20210101-20240101,582,262.88,1.11,1.37,1,53.67,5.56
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W2,test,20240101-20250101,163,29.63,1.05,1.37,2,29.53,5.22
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W1,train,20200101-20230101,568,235.92,1.00,1.31,13.41,49.99,4.75
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W1,test,20230101-20240101,206,72.85,1.40,1.44,18.08,72.85,8.51
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W3,train,20220101-20250101,487,145.95,0.96,1.37,8,34.95,4.81
+V4_G8_P025,group8_stair_grid,"G8 stair 22b/-0.05 44b/-0.04",W3,test,20250101-20260401,179,44.00,1.05,1.44,5,33.98,4.43
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W2,train,20210101-20240101,578,266.84,1.10,1.36,18.11,54.23,5.52
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W2,test,20240101-20250101,161,35.46,1.23,1.45,9.64,35.35,6.19
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W1,train,20200101-20230101,568,235.92,1.00,1.31,1,49.99,4.75
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W1,test,20230101-20240101,206,72.85,1.40,1.44,8,72.85,8.51
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W3,train,20220101-20250101,483,151.37,1.00,1.39,18.18,35.93,5.14
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W3,test,20250101-20260401,178,48.05,1.11,1.47,14.52,36.99,4.68
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W2,train,20210101-20240101,578,266.84,1.10,1.36,1,54.23,5.52
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W2,test,20240101-20250101,161,35.46,1.23,1.45,4,35.35,6.19
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W1,train,20200101-20230101,569,214.27,0.94,1.29,14.51,46.68,4.35
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W1,test,20230101-20240101,206,74.06,1.45,1.46,15.71,74.06,8.01
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W3,train,20220101-20250101,483,151.37,1.00,1.39,8,35.93,5.14
+V4_G8_P026,group8_stair_grid,"G8 stair 22b/-0.06 36b/-0.05",W3,test,20250101-20260401,178,48.05,1.11,1.47,2,36.99,4.68
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W2,train,20210101-20240101,579,246.74,1.09,1.36,15.65,51.36,5.33
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W2,test,20240101-20250101,162,39.85,1.35,1.52,9.15,39.72,6.43
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W1,train,20200101-20230101,569,214.27,0.94,1.29,1,46.68,4.35
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W1,test,20230101-20240101,206,74.06,1.45,1.46,1,74.06,8.01
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W3,train,20220101-20250101,484,153.91,1.05,1.41,15.66,36.39,5.06
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W3,test,20250101-20260401,179,46.73,1.12,1.47,13.04,36.01,4.48
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W2,train,20210101-20240101,579,246.74,1.09,1.36,5,51.36,5.33
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W2,test,20240101-20250101,162,39.85,1.35,1.52,5,39.72,6.43
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W1,train,20200101-20230101,568,268.37,1.05,1.33,13.26,54.69,4.80
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W1,test,20230101-20240101,206,85.00,1.51,1.48,18.41,85.00,9.26
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W3,train,20220101-20250101,484,153.91,1.05,1.41,6,36.39,5.06
+V4_G8_P027,group8_stair_grid,"G8 stair 22b/-0.06 40b/-0.03",W3,test,20250101-20260401,179,46.73,1.12,1.47,4,36.01,4.48
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W2,train,20210101-20240101,578,312.11,1.16,1.39,18.38,60.33,5.63
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W2,test,20240101-20250101,161,36.78,1.26,1.47,9.69,36.66,6.35
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W1,train,20200101-20230101,568,268.37,1.05,1.33,6,54.69,4.80
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W1,test,20230101-20240101,206,85.00,1.51,1.48,1,85.00,9.26
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W3,train,20220101-20250101,483,171.80,1.06,1.41,18.43,39.51,5.31
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W3,test,20250101-20260401,178,50.24,1.15,1.49,13.42,38.62,4.79
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W2,train,20210101-20240101,578,312.11,1.16,1.39,8,60.33,5.63
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W2,test,20240101-20250101,161,36.78,1.26,1.47,9,36.66,6.35
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W1,train,20200101-20230101,569,224.29,0.95,1.30,14.03,48.23,4.24
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W1,test,20230101-20240101,205,70.52,1.40,1.44,15.19,70.52,7.49
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W3,train,20220101-20250101,483,171.80,1.06,1.41,3,39.51,5.31
+V4_G8_P028,group8_stair_grid,"G8 stair 22b/-0.06 48b/-0.04",W3,test,20250101-20260401,178,50.24,1.15,1.49,2,38.62,4.79
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W2,train,20210101-20240101,578,251.75,1.08,1.35,15.16,52.08,5.17
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W2,test,20240101-20250101,162,36.24,1.24,1.46,9.55,36.13,5.38
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W1,train,20200101-20230101,569,224.29,0.95,1.30,3,48.23,4.24
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W1,test,20230101-20240101,205,70.52,1.40,1.44,9,70.52,7.49
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W3,train,20220101-20250101,483,140.66,0.98,1.38,15.14,33.97,4.49
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W2,train,20210101-20240101,578,251.75,1.08,1.35,6,52.08,5.17
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W3,test,20250101-20260401,180,42.22,1.03,1.43,15.48,32.65,4.06
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W2,test,20240101-20250101,162,36.24,1.24,1.46,5,36.13,5.38
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W1,train,20200101-20230101,567,274.32,1.02,1.32,13.02,55.52,4.70
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W1,test,20230101-20240101,205,78.58,1.42,1.44,19.24,78.58,8.81
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W3,train,20220101-20250101,483,140.66,0.98,1.38,4,33.97,4.49
+V4_G8_P029,group8_stair_grid,"G8 stair 22b/-0.07 36b/-0.03",W3,test,20250101-20260401,180,42.22,1.03,1.43,8,32.65,4.06
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W2,train,20210101-20240101,576,277.13,1.09,1.36,19.25,55.65,5.42
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W2,test,20240101-20250101,161,35.17,1.19,1.43,9.84,35.06,5.65
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W1,train,20200101-20230101,567,274.32,1.02,1.32,2,55.52,4.70
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W1,test,20230101-20240101,205,78.58,1.42,1.44,4,78.58,8.81
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W3,train,20220101-20250101,481,156.54,0.99,1.38,19.26,36.85,4.91
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W3,test,20250101-20260401,178,48.07,1.11,1.46,13.52,37.01,4.68
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W2,train,20210101-20240101,576,277.13,1.09,1.36,5,55.65,5.42
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W2,test,20240101-20250101,161,35.17,1.19,1.43,4,35.06,5.65
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W1,train,20200101-20230101,571,222.82,0.96,1.29,13.44,48.00,4.57
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W1,test,20230101-20240101,207,74.77,1.43,1.45,17.25,74.77,8.34
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W3,train,20220101-20250101,481,156.54,0.99,1.38,6,36.85,4.91
+V4_G8_P030,group8_stair_grid,"G8 stair 22b/-0.07 40b/-0.05",W3,test,20250101-20260401,178,48.07,1.11,1.46,2,37.01,4.68
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W2,train,20210101-20240101,582,251.58,1.08,1.36,17.31,52.06,5.43
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W2,test,20240101-20250101,163,29.06,1.02,1.36,9.61,28.97,4.95
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W1,train,20200101-20230101,571,222.82,0.96,1.29,4,48.00,4.57
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W1,test,20230101-20240101,207,74.77,1.43,1.45,5,74.77,8.34
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W3,train,20220101-20250101,487,140.48,0.94,1.36,17.32,33.94,4.63
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W3,test,20250101-20260401,179,42.44,1.01,1.42,15.96,32.82,4.18
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W2,train,20210101-20240101,582,251.58,1.08,1.36,1,52.06,5.43
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W2,test,20240101-20250101,163,29.06,1.02,1.36,1,28.97,4.95
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W1,train,20200101-20230101,571,225.47,0.95,1.29,15.22,48.41,4.40
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W1,test,20230101-20240101,207,67.80,1.35,1.41,17.29,67.80,7.76
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W3,train,20220101-20250101,487,140.48,0.94,1.36,2,33.94,4.63
+V4_G8_P031,group8_stair_grid,"G8 stair 24b/-0.05 36b/-0.04",W3,test,20250101-20260401,179,42.44,1.01,1.42,6,32.82,4.18
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W2,train,20210101-20240101,582,232.78,1.04,1.33,17.30,49.30,5.17
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W2,test,20240101-20250101,164,29.45,1.04,1.37,9.32,29.35,4.96
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W1,train,20200101-20230101,571,225.47,0.95,1.29,2,48.41,4.40
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W1,test,20230101-20240101,207,67.80,1.35,1.41,9,67.80,7.76
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W3,train,20220101-20250101,488,124.92,0.89,1.33,17.30,30.99,4.37
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W3,test,20250101-20260401,180,39.01,0.95,1.39,16.44,30.24,3.87
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W2,train,20210101-20240101,582,232.78,1.04,1.33,0,49.30,5.17
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W2,test,20240101-20250101,164,29.45,1.04,1.37,2,29.35,4.96
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W1,train,20200101-20230101,569,270.14,1.02,1.32,14.40,54.93,4.52
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W1,test,20230101-20240101,206,78.71,1.44,1.45,17.69,78.71,8.35
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W3,train,20220101-20250101,488,124.92,0.89,1.33,0,30.99,4.37
+V4_G8_P032,group8_stair_grid,"G8 stair 24b/-0.05 44b/-0.03",W3,test,20250101-20260401,180,39.01,0.95,1.39,4,30.24,3.87
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W2,train,20210101-20240101,579,280.47,1.11,1.37,17.76,56.11,5.30
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W2,test,20240101-20250101,162,34.80,1.20,1.44,9.32,34.69,5.63
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W1,train,20200101-20230101,569,270.14,1.02,1.32,0,54.93,4.52
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W1,test,20230101-20240101,206,78.71,1.44,1.45,9,78.71,8.35
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W3,train,20220101-20250101,484,150.30,0.99,1.38,17.76,35.74,4.77
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W3,test,20250101-20260401,178,46.86,1.09,1.45,13.89,36.11,4.42
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W2,train,20210101-20240101,579,280.47,1.11,1.37,6,56.11,5.30
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W2,test,20240101-20250101,162,34.80,1.20,1.44,2,34.69,5.63
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W1,train,20200101-20230101,567,257.20,1.03,1.32,13.05,53.10,4.63
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W1,test,20230101-20240101,205,71.24,1.38,1.43,17.62,71.24,7.94
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W3,train,20220101-20250101,484,150.30,0.99,1.38,6,35.74,4.77
+V4_G8_P034,group8_stair_grid,"G8 stair 24b/-0.06 48b/-0.03",W3,test,20250101-20260401,178,46.86,1.09,1.45,9,36.11,4.42
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W2,train,20210101-20240101,576,277.55,1.11,1.37,17.69,55.71,5.37
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W2,test,20240101-20250101,161,36.89,1.25,1.46,9.85,36.77,5.67
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W1,train,20200101-20230101,567,257.20,1.03,1.32,5,53.10,4.63
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W1,test,20230101-20240101,205,71.24,1.38,1.43,2,71.24,7.94
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W3,train,20220101-20250101,481,150.48,1.00,1.38,17.75,35.77,4.77
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W3,test,20250101-20260401,178,47.48,1.10,1.46,14.72,36.57,4.45
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W2,train,20210101-20240101,576,277.55,1.11,1.37,9,55.71,5.37
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W2,test,20240101-20250101,161,36.89,1.25,1.46,5,36.77,5.67
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W1,train,20200101-20230101,568,243.49,0.97,1.30,14.43,51.11,4.28
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W1,test,20230101-20240101,205,66.60,1.33,1.41,16.85,66.60,7.21
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W3,train,20220101-20250101,481,150.48,1.00,1.38,5,35.77,4.77
+V4_G8_P035,group8_stair_grid,"G8 stair 24b/-0.07 36b/-0.04",W3,test,20250101-20260401,178,47.48,1.10,1.46,2,36.57,4.45
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W2,train,20210101-20240101,577,237.29,1.04,1.33,16.87,49.97,4.99
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W2,test,20240101-20250101,162,39.00,1.30,1.49,9.41,38.88,5.69
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W1,train,20200101-20230101,568,243.49,0.97,1.30,3,51.11,4.28
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W1,test,20230101-20240101,205,66.60,1.33,1.41,5,66.60,7.21
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W3,train,20220101-20250101,482,139.57,0.98,1.37,16.99,33.77,4.53
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W3,test,20250101-20260401,179,44.21,1.06,1.44,13.58,34.14,4.20
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W2,train,20210101-20240101,577,237.29,1.04,1.33,7,49.97,4.99
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W2,test,20240101-20250101,162,39.00,1.30,1.49,1,38.88,5.69
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W1,train,20200101-20230101,568,262.18,1.01,1.31,13.57,53.81,4.71
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W1,test,20230101-20240101,206,81.99,1.46,1.46,18.60,81.99,8.94
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W3,train,20220101-20250101,482,139.57,0.98,1.37,9,33.77,4.53
+V4_G8_P036,group8_stair_grid,"G8 stair 24b/-0.07 40b/-0.03",W3,test,20250101-20260401,179,44.21,1.06,1.44,8,34.14,4.20
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W2,train,20210101-20240101,578,275.62,1.10,1.37,18.60,55.45,5.42
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W2,test,20240101-20250101,161,34.43,1.18,1.43,9.82,34.32,5.75
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W1,train,20200101-20230101,568,262.18,1.01,1.31,7,53.81,4.71
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W1,test,20230101-20240101,206,81.99,1.46,1.46,0,81.99,8.94
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W3,train,20220101-20250101,483,159.75,1.00,1.39,18.57,37.42,5.01
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W3,test,20250101-20260401,178,48.52,1.11,1.47,13.85,37.35,4.60
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W2,train,20210101-20240101,578,275.62,1.10,1.37,0,55.45,5.42
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W2,test,20240101-20250101,161,34.43,1.18,1.43,2,34.32,5.75
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W1,train,20200101-20230101,563,220.94,0.98,1.31,12.85,47.72,4.60
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W1,test,20230101-20240101,198,56.01,1.20,1.39,16.23,56.01,7.10
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W3,train,20220101-20250101,483,159.75,1.00,1.39,7,37.42,5.01
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W2,train,20210101-20240101,567,240.66,1.04,1.34,16.16,50.47,5.41
+V4_G8_P033,group8_stair_grid,"G8 stair 24b/-0.06 40b/-0.05",W3,test,20250101-20260401,178,48.52,1.11,1.47,5,37.35,4.60
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W2,test,20240101-20250101,160,40.01,1.35,1.52,9.52,39.88,6.65
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W1,train,20200101-20230101,563,220.94,0.98,1.31,5,47.72,4.60
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W3,train,20220101-20250101,471,126.09,0.94,1.37,16.14,31.22,4.85
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W1,test,20230101-20240101,198,56.01,1.20,1.39,3,56.01,7.10
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W3,test,20250101-20260401,173,54.42,1.23,1.55,13.30,41.70,5.09
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W2,train,20210101-20240101,567,240.66,1.04,1.34,6,50.47,5.41
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W1,train,20200101-20230101,555,279.60,1.06,1.34,13.29,56.25,4.55
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W2,test,20240101-20250101,160,40.01,1.35,1.52,2,39.88,6.65
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W1,test,20230101-20240101,197,40.73,0.90,1.27,19.56,40.73,5.39
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W3,train,20220101-20250101,471,126.09,0.94,1.37,4,31.22,4.85
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W2,train,20210101-20240101,559,226.90,0.94,1.30,19.47,48.41,4.69
+V4_G10_P001,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=True",W3,test,20250101-20260401,173,54.42,1.23,1.55,0,41.70,5.09
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W2,test,20240101-20250101,159,35.23,1.12,1.40,9.55,35.12,4.87
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W1,train,20200101-20230101,555,279.60,1.06,1.34,9,56.25,4.55
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W3,train,20220101-20250101,465,108.12,0.78,1.29,19.59,27.65,3.74
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W1,test,20230101-20240101,197,40.73,0.90,1.27,6,40.73,5.39
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W3,test,20250101-20260401,171,45.99,1.03,1.44,15.78,35.46,3.84
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W2,train,20210101-20240101,559,226.90,0.94,1.30,7,48.41,4.69
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W1,train,20200101-20230101,563,220.94,0.98,1.31,12.85,47.72,4.60
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W2,test,20240101-20250101,159,35.23,1.12,1.40,5,35.12,4.87
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W1,test,20230101-20240101,198,56.01,1.20,1.39,16.23,56.01,7.10
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W3,train,20220101-20250101,465,108.12,0.78,1.29,9,27.65,3.74
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W2,train,20210101-20240101,567,240.66,1.04,1.34,16.16,50.47,5.41
+V4_G10_P002,group10_stoch,"G10 Stoch K=9 D=3 th>60 stair=False",W3,test,20250101-20260401,171,45.99,1.03,1.44,8,35.46,3.84
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W2,test,20240101-20250101,160,40.01,1.35,1.52,9.52,39.88,6.65
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W1,train,20200101-20230101,563,220.94,0.98,1.31,5,47.72,4.60
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W3,train,20220101-20250101,471,126.09,0.94,1.37,16.14,31.22,4.85
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W1,test,20230101-20240101,198,56.01,1.20,1.39,3,56.01,7.10
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W3,test,20250101-20260401,173,54.42,1.23,1.55,13.30,41.70,5.09
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W2,train,20210101-20240101,567,240.66,1.04,1.34,6,50.47,5.41
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W1,train,20200101-20230101,555,279.60,1.06,1.34,13.29,56.25,4.55
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W2,test,20240101-20250101,160,40.01,1.35,1.52,2,39.88,6.65
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W1,test,20230101-20240101,197,40.73,0.90,1.27,19.56,40.73,5.39
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W3,train,20220101-20250101,471,126.09,0.94,1.37,4,31.22,4.85
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W2,train,20210101-20240101,559,226.90,0.94,1.30,19.47,48.41,4.69
+V4_G10_P005,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=True",W3,test,20250101-20260401,173,54.42,1.23,1.55,0,41.70,5.09
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W2,test,20240101-20250101,159,35.23,1.12,1.40,9.55,35.12,4.87
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W1,train,20200101-20230101,555,279.60,1.06,1.34,9,56.25,4.55
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W3,train,20220101-20250101,465,108.12,0.78,1.29,19.59,27.65,3.74
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W1,test,20230101-20240101,197,40.73,0.90,1.27,6,40.73,5.39
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W3,test,20250101-20260401,171,45.99,1.03,1.44,15.78,35.46,3.84
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W2,train,20210101-20240101,559,226.90,0.94,1.30,7,48.41,4.69
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W1,train,20200101-20230101,566,244.33,1.02,1.32,11.92,51.23,4.78
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W2,test,20240101-20250101,159,35.23,1.12,1.40,5,35.12,4.87
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W1,test,20230101-20240101,201,53.67,1.15,1.36,17.08,53.67,6.80
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W3,train,20220101-20250101,465,108.12,0.78,1.29,9,27.65,3.74
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W2,train,20210101-20240101,571,236.47,1.02,1.33,17.01,49.85,5.28
+V4_G10_P006,group10_stoch,"G10 Stoch K=9 D=5 th>60 stair=False",W3,test,20250101-20260401,171,45.99,1.03,1.44,8,35.46,3.84
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W1,train,20200101-20230101,566,244.33,1.02,1.32,2,51.23,4.78
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W3,train,20220101-20250101,475,122.61,0.92,1.35,17.06,30.54,4.74
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W1,test,20230101-20240101,201,53.67,1.15,1.36,8,53.67,6.80
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,12.88,42.26,5.19
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W2,train,20210101-20240101,571,236.47,1.02,1.33,1,49.85,5.28
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W1,train,20200101-20230101,558,306.82,1.10,1.35,12.37,59.91,4.70
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W1,test,20230101-20240101,200,38.14,0.84,1.24,21.05,38.14,4.93
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W3,train,20220101-20250101,475,122.61,0.92,1.35,6,30.54,4.74
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W2,train,20210101-20240101,563,222.78,0.92,1.29,21.01,47.79,4.51
+V4_G10_P009,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,8,42.26,5.19
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W1,train,20200101-20230101,558,306.82,1.10,1.35,7,59.91,4.70
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W3,train,20220101-20250101,469,105.98,0.77,1.28,20.98,27.21,3.65
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W1,test,20230101-20240101,200,38.14,0.84,1.24,5,38.14,4.93
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,15.12,35.18,3.83
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W2,train,20210101-20240101,563,222.78,0.92,1.29,1,47.79,4.51
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W1,train,20200101-20230101,566,244.33,1.02,1.32,11.92,51.23,4.78
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W1,test,20230101-20240101,201,53.67,1.15,1.36,17.08,53.67,6.80
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W3,train,20220101-20250101,469,105.98,0.77,1.28,8,27.21,3.65
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W2,train,20210101-20240101,571,236.47,1.02,1.33,17.01,49.85,5.28
+V4_G10_P010,group10_stoch,"G10 Stoch K=14 D=3 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,2,35.18,3.83
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W1,train,20200101-20230101,566,244.33,1.02,1.32,2,51.23,4.78
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W3,train,20220101-20250101,475,122.61,0.92,1.35,17.06,30.54,4.74
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W1,test,20230101-20240101,201,53.67,1.15,1.36,8,53.67,6.80
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,12.88,42.26,5.19
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W2,train,20210101-20240101,571,236.47,1.02,1.33,1,49.85,5.28
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W1,train,20200101-20230101,558,306.82,1.10,1.35,12.37,59.91,4.70
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W1,test,20230101-20240101,200,38.14,0.84,1.24,21.05,38.14,4.93
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W3,train,20220101-20250101,475,122.61,0.92,1.35,6,30.54,4.74
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W2,train,20210101-20240101,563,222.78,0.92,1.29,21.01,47.79,4.51
+V4_G10_P013,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,8,42.26,5.19
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W1,train,20200101-20230101,558,306.82,1.10,1.35,7,59.91,4.70
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W3,train,20220101-20250101,469,105.98,0.77,1.28,20.98,27.21,3.65
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W1,test,20230101-20240101,200,38.14,0.84,1.24,5,38.14,4.93
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,15.12,35.18,3.83
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W2,train,20210101-20240101,563,222.78,0.92,1.29,1,47.79,4.51
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W1,train,20200101-20230101,566,257.58,1.04,1.33,12.86,53.16,4.79
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W1,test,20230101-20240101,203,69.99,1.39,1.44,17.05,69.99,8.30
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W3,train,20220101-20250101,469,105.98,0.77,1.28,8,27.21,3.65
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W2,train,20210101-20240101,573,279.49,1.12,1.38,17.07,55.98,5.65
+V4_G10_P014,group10_stoch,"G10 Stoch K=14 D=5 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,2,35.18,3.83
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W1,train,20200101-20230101,566,257.58,1.04,1.33,6,53.16,4.79
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W3,train,20220101-20250101,478,147.11,1.01,1.40,17.11,35.16,5.13
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W1,test,20230101-20240101,203,69.99,1.39,1.44,5,69.99,8.30
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,12.88,42.26,5.19
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W2,train,20210101-20240101,573,279.49,1.12,1.38,7,55.98,5.65
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W1,train,20200101-20230101,558,319.00,1.11,1.35,13.30,61.50,4.68
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W1,test,20230101-20240101,202,52.55,1.07,1.32,20.39,52.55,6.49
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W3,train,20220101-20250101,478,147.11,1.01,1.40,1,35.16,5.13
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W2,train,20210101-20240101,565,258.69,1.00,1.32,20.45,53.08,4.84
+V4_G10_P017,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,8,42.26,5.19
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W1,train,20200101-20230101,558,319.00,1.11,1.35,0,61.50,4.68
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W3,train,20220101-20250101,472,126.79,0.85,1.31,20.44,31.35,4.00
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W1,test,20230101-20240101,202,52.55,1.07,1.32,9,52.55,6.49
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,15.12,35.18,3.83
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W2,train,20210101-20240101,565,258.69,1.00,1.32,5,53.08,4.84
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W1,train,20200101-20230101,528,191.62,0.94,1.31,11.14,43.06,4.68
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W1,test,20230101-20240101,168,33.82,0.79,1.29,12.73,33.82,4.84
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W3,train,20220101-20250101,472,126.79,0.85,1.31,4,31.35,4.00
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W2,train,20210101-20240101,513,184.43,0.87,1.31,12.78,41.69,4.80
+V4_G10_P018,group10_stoch,"G10 Stoch K=21 D=3 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,2,35.18,3.83
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W2,test,20240101-20250101,157,25.85,0.92,1.33,9.52,25.77,4.62
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W1,train,20200101-20230101,528,191.62,0.94,1.31,4,43.06,4.68
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W3,train,20220101-20250101,421,83.88,0.67,1.28,12.75,22.49,3.64
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W1,test,20230101-20240101,168,33.82,0.79,1.29,3,33.82,4.84
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W3,test,20250101-20260401,158,44.35,1.02,1.48,13.96,34.24,4.35
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W2,train,20210101-20240101,513,184.43,0.87,1.31,8,41.69,4.80
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W1,train,20200101-20230101,566,257.58,1.04,1.33,12.86,53.16,4.79
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W1,test,20230101-20240101,203,69.99,1.39,1.44,17.05,69.99,8.30
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W3,train,20220101-20250101,421,83.88,0.67,1.28,5,22.49,3.64
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W3,test,20250101-20260401,158,44.35,1.02,1.48,6,34.24,4.35
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W2,train,20210101-20240101,573,279.49,1.12,1.38,17.07,55.98,5.65
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,9.52,38.81,6.52
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W1,train,20200101-20230101,566,257.58,1.04,1.33,6,53.16,4.79
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W1,test,20230101-20240101,203,69.99,1.39,1.44,5,69.99,8.30
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W3,train,20220101-20250101,478,147.11,1.01,1.40,17.11,35.16,5.13
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,12.88,42.26,5.19
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W2,train,20210101-20240101,573,279.49,1.12,1.38,7,55.98,5.65
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W1,train,20200101-20230101,558,319.00,1.11,1.35,13.30,61.50,4.68
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W2,test,20240101-20250101,161,38.93,1.32,1.50,2,38.81,6.52
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W1,test,20230101-20240101,202,52.55,1.07,1.32,20.39,52.55,6.49
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W3,train,20220101-20250101,478,147.11,1.01,1.40,1,35.16,5.13
+V4_G10_P021,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=True",W3,test,20250101-20260401,176,55.18,1.24,1.55,8,42.26,5.19
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W2,train,20210101-20240101,565,258.69,1.00,1.32,20.45,53.08,4.84
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,10.51,33.83,4.75
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W1,train,20200101-20230101,558,319.00,1.11,1.35,0,61.50,4.68
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W1,test,20230101-20240101,202,52.55,1.07,1.32,9,52.55,6.49
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W3,train,20220101-20250101,472,126.79,0.85,1.31,20.44,31.35,4.00
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,15.12,35.18,3.83
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W2,train,20210101-20240101,565,258.69,1.00,1.32,5,53.08,4.84
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W2,test,20240101-20250101,160,33.94,1.09,1.38,1,33.83,4.75
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W1,train,20200101-20230101,528,191.62,0.94,1.31,11.14,43.06,4.68
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W1,test,20230101-20240101,168,33.82,0.79,1.29,12.73,33.82,4.84
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W3,train,20220101-20250101,472,126.79,0.85,1.31,4,31.35,4.00
+V4_G10_P022,group10_stoch,"G10 Stoch K=21 D=5 th>60 stair=False",W3,test,20250101-20260401,174,45.62,1.03,1.43,2,35.18,3.83
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W2,train,20210101-20240101,513,184.43,0.87,1.31,12.78,41.69,4.80
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W2,test,20240101-20250101,157,25.85,0.92,1.33,9.52,25.77,4.62
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W1,train,20200101-20230101,528,191.62,0.94,1.31,4,43.06,4.68
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W1,test,20230101-20240101,168,33.82,0.79,1.29,3,33.82,4.84
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W3,train,20220101-20250101,421,83.88,0.67,1.28,12.75,22.49,3.64
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W3,test,20250101-20260401,158,44.35,1.02,1.48,13.96,34.24,4.35
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W2,train,20210101-20240101,513,184.43,0.87,1.31,8,41.69,4.80
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W2,test,20240101-20250101,157,25.85,0.92,1.33,2,25.77,4.62
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W3,train,20220101-20250101,421,83.88,0.67,1.28,5,22.49,3.64
+V4_G10_P023,group10_stoch,"G10 Stoch K=21 D=5 th>80 stair=True",W3,test,20250101-20260401,158,44.35,1.02,1.48,6,34.24,4.35
+V4_G10_P019,group10_stoch,"G10 Stoch K=21 D=3 th>80 stair=True",W2,test,20240101-20250101,157,25.85,0.92,1.33,2,25.77,4.62

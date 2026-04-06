@@ -1,0 +1,10 @@
+﻿V4 Pipeline Summary
+===================
+Started:  04/04/2026 02:29:01
+Ended:    04/04/2026 17:58:54
+Duration: 15:29:53
+
+Stage 1:   completed_new=264 failed=17 resume_skipped=0
+Stage 1.5: candidates=205
+Stage 2:   pass=205 fail=0 (if run)
+Stage 3:   pass=205 fail=0 (if run)

@@ -1,0 +1,15 @@
+﻿strategy,group,params,trades,tot_profit_pct,sharpe,pf,max_drawdown_pct,cagr,sortino
+Risk_Lev3,leverage,lev=3,994,443.71,N/A,1.33,14.94,31.18,2.51
+Risk_Lev4,leverage,lev=4,1055,657.34,N/A,1.31,16.94,38.34,2.70
+Risk_DML2,daily_max_losses,dml=2,1086,1228.73,N/A,1.38,15.29,51.39,3.04
+Risk_DML3,daily_max_losses,dml=3,1101,1248.75,N/A,1.37,15.30,51.75,3.03
+Risk_Stair_S1,stair_exit,mid=16b/-0.05;late=32b/-0.03;lev=5.0,1135,843.12,N/A,1.37,14.11,43.29,3.77
+Risk_Stair_S2,stair_exit,mid=16b/-0.06;late=32b/-0.04;lev=5.0,1122,1039.10,N/A,1.41,15.26,47.69,3.69
+Risk_Stair_S3,stair_exit,mid=16b/-0.04;late=32b/-0.02;lev=5.0,1146,943.44,N/A,1.42,11.42,45.63,3.91
+Risk_Stair_S4,stair_exit,mid=12b/-0.05;late=24b/-0.03;lev=5.0,1151,918.60,N/A,1.40,11.85,45.07,3.99
+Risk_Stair_S5,stair_exit,mid=20b/-0.06;late=40b/-0.04;lev=5.0,1115,1302.42,N/A,1.46,13.05,52.70,3.66
+Risk_Stair_S6,stair_exit,mid=16b/-0.07;late=32b/-0.05;lev=5.0,1116,1077.79,N/A,1.39,13.74,48.49,3.53
+Risk_Stair_S7_lev3,stair_exit,mid=16b/-0.05;late=32b/-0.03;lev=3.0,1026,359.98,N/A,1.35,12.24,27.71,3.38
+Risk_Combo_Lev3_DML2,combo,lev=3;dml=2,992,432.10,N/A,1.33,14.89,30.73,2.51
+Risk_Combo_Full,combo,lev=3;dml=2;stair=S1,1025,343.66,N/A,1.34,12.23,26.98,3.36
+Risk_Combo_Full_DML3,combo,lev=3;dml=3;stair=S1,1026,359.98,N/A,1.35,12.24,27.71,3.38

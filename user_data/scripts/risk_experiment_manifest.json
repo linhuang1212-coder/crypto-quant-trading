@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Risk_Lev3",
+    "group": "leverage",
+    "params": "lev=3"
+  },
+  {
+    "name": "Risk_Lev4",
+    "group": "leverage",
+    "params": "lev=4"
+  },
+  {
+    "name": "Risk_DML2",
+    "group": "daily_max_losses",
+    "params": "dml=2"
+  },
+  {
+    "name": "Risk_DML3",
+    "group": "daily_max_losses",
+    "params": "dml=3"
+  },
+  {
+    "name": "Risk_Stair_S1",
+    "group": "stair_exit",
+    "params": "mid=16b/-0.05,late=32b/-0.03,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S2",
+    "group": "stair_exit",
+    "params": "mid=16b/-0.06,late=32b/-0.04,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S3",
+    "group": "stair_exit",
+    "params": "mid=16b/-0.04,late=32b/-0.02,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S4",
+    "group": "stair_exit",
+    "params": "mid=12b/-0.05,late=24b/-0.03,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S5",
+    "group": "stair_exit",
+    "params": "mid=20b/-0.06,late=40b/-0.04,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S6",
+    "group": "stair_exit",
+    "params": "mid=16b/-0.07,late=32b/-0.05,lev=5.0"
+  },
+  {
+    "name": "Risk_Stair_S7_lev3",
+    "group": "stair_exit",
+    "params": "mid=16b/-0.05,late=32b/-0.03,lev=3.0"
+  },
+  {
+    "name": "Risk_Combo_Lev3_DML2",
+    "group": "combo",
+    "params": "lev=3,dml=2"
+  },
+  {
+    "name": "Risk_Combo_Full",
+    "group": "combo",
+    "params": "lev=3,dml=2,stair=S1"
+  },
+  {
+    "name": "Risk_Combo_Full_DML3",
+    "group": "combo",
+    "params": "lev=3,dml=3,stair=S1"
+  }
+]

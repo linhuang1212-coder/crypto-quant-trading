@@ -1,0 +1,3741 @@
+[
+  {
+    "name": "ADX=20",
+    "strategy": "Exp_ADX_20",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 20
+    }
+  },
+  {
+    "name": "ADX=22",
+    "strategy": "Exp_ADX_22",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 22
+    }
+  },
+  {
+    "name": "ADX=24",
+    "strategy": "Exp_ADX_24",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 24
+    }
+  },
+  {
+    "name": "ADX=26",
+    "strategy": "Exp_ADX_26",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 26
+    }
+  },
+  {
+    "name": "ADX=30",
+    "strategy": "Exp_ADX_30",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 30
+    }
+  },
+  {
+    "name": "ADX=32",
+    "strategy": "Exp_ADX_32",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 32
+    }
+  },
+  {
+    "name": "ADX=36",
+    "strategy": "Exp_ADX_36",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 36
+    }
+  },
+  {
+    "name": "DC=10",
+    "strategy": "Exp_DC_10",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 10
+    }
+  },
+  {
+    "name": "DC=14",
+    "strategy": "Exp_DC_14",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 14
+    }
+  },
+  {
+    "name": "DC=16",
+    "strategy": "Exp_DC_16",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 16
+    }
+  },
+  {
+    "name": "DC=18",
+    "strategy": "Exp_DC_18",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 18
+    }
+  },
+  {
+    "name": "DC=25",
+    "strategy": "Exp_DC_25",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 25
+    }
+  },
+  {
+    "name": "DC=30",
+    "strategy": "Exp_DC_30",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 30
+    }
+  },
+  {
+    "name": "DC=40",
+    "strategy": "Exp_DC_40",
+    "group": "param_scan",
+    "params": {
+      "dc_period": 40
+    }
+  },
+  {
+    "name": "ATR_MULT=0.0",
+    "strategy": "Exp_ATR_00",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "ATR_MULT=0.2",
+    "strategy": "Exp_ATR_02",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.2
+    }
+  },
+  {
+    "name": "ATR_MULT=0.3",
+    "strategy": "Exp_ATR_03",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "ATR_MULT=0.4",
+    "strategy": "Exp_ATR_04",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.4
+    }
+  },
+  {
+    "name": "ATR_MULT=0.6",
+    "strategy": "Exp_ATR_06",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.6
+    }
+  },
+  {
+    "name": "ATR_MULT=0.7",
+    "strategy": "Exp_ATR_07",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "ATR_MULT=0.8",
+    "strategy": "Exp_ATR_08",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 0.8
+    }
+  },
+  {
+    "name": "ATR_MULT=1.0",
+    "strategy": "Exp_ATR_10",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 1.0
+    }
+  },
+  {
+    "name": "ATR_MULT=1.2",
+    "strategy": "Exp_ATR_12",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 1.2
+    }
+  },
+  {
+    "name": "ATR_MULT=1.5",
+    "strategy": "Exp_ATR_15",
+    "group": "param_scan",
+    "params": {
+      "atr_mult": 1.5
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.15",
+    "strategy": "Exp_Trail_015",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.2",
+    "strategy": "Exp_Trail_02",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.25",
+    "strategy": "Exp_Trail_025",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.35",
+    "strategy": "Exp_Trail_035",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.4",
+    "strategy": "Exp_Trail_04",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.45",
+    "strategy": "Exp_Trail_045",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.45
+    }
+  },
+  {
+    "name": "TRAIL_OFF=0.5",
+    "strategy": "Exp_Trail_05",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.5
+    }
+  },
+  {
+    "name": "TRAIL_POS=0.03",
+    "strategy": "Exp_TrailPos_003",
+    "group": "param_scan",
+    "params": {
+      "trail_positive": 0.03
+    }
+  },
+  {
+    "name": "TRAIL_POS=0.05",
+    "strategy": "Exp_TrailPos_005",
+    "group": "param_scan",
+    "params": {
+      "trail_positive": 0.05
+    }
+  },
+  {
+    "name": "TRAIL_POS=0.08",
+    "strategy": "Exp_TrailPos_008",
+    "group": "param_scan",
+    "params": {
+      "trail_positive": 0.08
+    }
+  },
+  {
+    "name": "TRAIL_POS=0.12",
+    "strategy": "Exp_TrailPos_012",
+    "group": "param_scan",
+    "params": {
+      "trail_positive": 0.12
+    }
+  },
+  {
+    "name": "TRAIL_POS=0.15",
+    "strategy": "Exp_TrailPos_015",
+    "group": "param_scan",
+    "params": {
+      "trail_positive": 0.15
+    }
+  },
+  {
+    "name": "SL=-0.06",
+    "strategy": "Exp_SL_006",
+    "group": "param_scan",
+    "params": {
+      "stoploss": -0.06
+    }
+  },
+  {
+    "name": "SL=-0.08",
+    "strategy": "Exp_SL_008",
+    "group": "param_scan",
+    "params": {
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "SL=-0.12",
+    "strategy": "Exp_SL_012",
+    "group": "param_scan",
+    "params": {
+      "stoploss": -0.12
+    }
+  },
+  {
+    "name": "SL=-0.15",
+    "strategy": "Exp_SL_015",
+    "group": "param_scan",
+    "params": {
+      "stoploss": -0.15
+    }
+  },
+  {
+    "name": "SL=-0.2",
+    "strategy": "Exp_SL_02",
+    "group": "param_scan",
+    "params": {
+      "stoploss": -0.2
+    }
+  },
+  {
+    "name": "COOLDOWN=0",
+    "strategy": "Exp_CD_0",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 0
+    }
+  },
+  {
+    "name": "COOLDOWN=8",
+    "strategy": "Exp_CD_8",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 8
+    }
+  },
+  {
+    "name": "COOLDOWN=12",
+    "strategy": "Exp_CD_12",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 12
+    }
+  },
+  {
+    "name": "COOLDOWN=16",
+    "strategy": "Exp_CD_16",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 16
+    }
+  },
+  {
+    "name": "COOLDOWN=36",
+    "strategy": "Exp_CD_36",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 36
+    }
+  },
+  {
+    "name": "COOLDOWN=48",
+    "strategy": "Exp_CD_48",
+    "group": "param_scan",
+    "params": {
+      "cooldown_bars": 48
+    }
+  },
+  {
+    "name": "MAX_BARS=32",
+    "strategy": "Exp_MB_32",
+    "group": "param_scan",
+    "params": {
+      "max_bars": 32
+    }
+  },
+  {
+    "name": "MAX_BARS=48",
+    "strategy": "Exp_MB_48",
+    "group": "param_scan",
+    "params": {
+      "max_bars": 48
+    }
+  },
+  {
+    "name": "MAX_BARS=80",
+    "strategy": "Exp_MB_80",
+    "group": "param_scan",
+    "params": {
+      "max_bars": 80
+    }
+  },
+  {
+    "name": "MAX_BARS=96",
+    "strategy": "Exp_MB_96",
+    "group": "param_scan",
+    "params": {
+      "max_bars": 96
+    }
+  },
+  {
+    "name": "MAX_BARS=128",
+    "strategy": "Exp_MB_128",
+    "group": "param_scan",
+    "params": {
+      "max_bars": 128
+    }
+  },
+  {
+    "name": "TP_BIG=0.25",
+    "strategy": "Exp_TP_025",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.25
+    }
+  },
+  {
+    "name": "TP_BIG=0.3",
+    "strategy": "Exp_TP_03",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "TP_BIG=0.35",
+    "strategy": "Exp_TP_035",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.35
+    }
+  },
+  {
+    "name": "TP_BIG=0.5",
+    "strategy": "Exp_TP_05",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "TP_BIG=0.6",
+    "strategy": "Exp_TP_06",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "TP_BIG=0.8",
+    "strategy": "Exp_TP_08",
+    "group": "param_scan",
+    "params": {
+      "tp_big": 0.8
+    }
+  },
+  {
+    "name": "LEV=2.0",
+    "strategy": "Exp_Lev_2",
+    "group": "param_scan",
+    "params": {
+      "leverage": 2.0
+    }
+  },
+  {
+    "name": "LEV=3.0",
+    "strategy": "Exp_Lev_3",
+    "group": "param_scan",
+    "params": {
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "LEV=4.0",
+    "strategy": "Exp_Lev_4",
+    "group": "param_scan",
+    "params": {
+      "leverage": 4.0
+    }
+  },
+  {
+    "name": "LEV=6.0",
+    "strategy": "Exp_Lev_6",
+    "group": "param_scan",
+    "params": {
+      "leverage": 6.0
+    }
+  },
+  {
+    "name": "LEV=7.0",
+    "strategy": "Exp_Lev_7",
+    "group": "param_scan",
+    "params": {
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "LEV=8.0",
+    "strategy": "Exp_Lev_8",
+    "group": "param_scan",
+    "params": {
+      "leverage": 8.0
+    }
+  },
+  {
+    "name": "LEV=10.0",
+    "strategy": "Exp_Lev_10",
+    "group": "param_scan",
+    "params": {
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "ADX=24_ATR=0.3",
+    "strategy": "Exp_2D_ADX24_ATR03",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "ADX=24_ATR=0.7",
+    "strategy": "Exp_2D_ADX24_ATR07",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "ADX=26_ATR=0.3",
+    "strategy": "Exp_2D_ADX26_ATR03",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "ADX=26_ATR=0.5",
+    "strategy": "Exp_2D_ADX26_ATR05",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "ADX=30_ATR=0.3",
+    "strategy": "Exp_2D_ADX30_ATR03",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "ADX=30_ATR=0.7",
+    "strategy": "Exp_2D_ADX30_ATR07",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "ADX=32_ATR=0.5",
+    "strategy": "Exp_2D_ADX32_ATR05",
+    "group": "param_scan",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "TRAIL=0.25_SL=-0.08",
+    "strategy": "Exp_2D_Trail025_SL008",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.25,
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "TRAIL=0.25_SL=-0.12",
+    "strategy": "Exp_2D_Trail025_SL012",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.25,
+      "stoploss": -0.12
+    }
+  },
+  {
+    "name": "TRAIL=0.35_SL=-0.08",
+    "strategy": "Exp_2D_Trail035_SL008",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.35,
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "TRAIL=0.35_SL=-0.12",
+    "strategy": "Exp_2D_Trail035_SL012",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.35,
+      "stoploss": -0.12
+    }
+  },
+  {
+    "name": "TRAIL=0.4_SL=-0.08",
+    "strategy": "Exp_2D_Trail04_SL008",
+    "group": "param_scan",
+    "params": {
+      "trail_offset": 0.4,
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.0) RSI<30 SL=-0.1",
+    "strategy": "Exp_BB_20_20_RSI30_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.0,
+      "rsi_oversold": 30,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.0) RSI<25 SL=-0.1",
+    "strategy": "Exp_BB_20_20_RSI25_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.0,
+      "rsi_oversold": 25,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.5) RSI<30 SL=-0.1",
+    "strategy": "Exp_BB_20_25_RSI30_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.5,
+      "rsi_oversold": 30,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.0) RSI<35 SL=-0.08",
+    "strategy": "Exp_BB_20_20_RSI35_SL008",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.0,
+      "rsi_oversold": 35,
+      "stoploss": -0.08
+    }
+  },
+  {
+    "name": "BB(p=30,std=2.0) RSI<30 SL=-0.1",
+    "strategy": "Exp_BB_30_20_RSI30_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 30,
+      "bb_std": 2.0,
+      "rsi_oversold": 30,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=1.5) RSI<35 SL=-0.1",
+    "strategy": "Exp_BB_20_15_RSI35_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 1.5,
+      "rsi_oversold": 35,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.0) RSI<30 SL=-0.1",
+    "strategy": "Exp_BB_20_20_RSI30_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.0,
+      "rsi_oversold": 30,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "BB(p=20,std=2.0) RSI<30 SL=-0.06",
+    "strategy": "Exp_BB_20_20_RSI30_SL006",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 20,
+      "bb_std": 2.0,
+      "rsi_oversold": 30,
+      "stoploss": -0.06
+    }
+  },
+  {
+    "name": "BB(p=40,std=2.0) RSI<25 SL=-0.1",
+    "strategy": "Exp_BB_40_20_RSI25_SL01",
+    "group": "bollinger_band",
+    "params": {
+      "bb_period": 40,
+      "bb_std": 2.0,
+      "rsi_oversold": 25,
+      "stoploss": -0.1
+    }
+  },
+  {
+    "name": "MACD(8,21,5)",
+    "strategy": "Exp_MACD_8_21_5",
+    "group": "macd",
+    "params": {
+      "fast": 8,
+      "slow": 21,
+      "signal": 5
+    }
+  },
+  {
+    "name": "MACD(12,26,9)",
+    "strategy": "Exp_MACD_12_26_9",
+    "group": "macd",
+    "params": {
+      "fast": 12,
+      "slow": 26,
+      "signal": 9
+    }
+  },
+  {
+    "name": "MACD(8,17,9)",
+    "strategy": "Exp_MACD_8_17_9",
+    "group": "macd",
+    "params": {
+      "fast": 8,
+      "slow": 17,
+      "signal": 9
+    }
+  },
+  {
+    "name": "MACD(5,13,5)",
+    "strategy": "Exp_MACD_5_13_5",
+    "group": "macd",
+    "params": {
+      "fast": 5,
+      "slow": 13,
+      "signal": 5
+    }
+  },
+  {
+    "name": "MACD(12,26,5)",
+    "strategy": "Exp_MACD_12_26_5",
+    "group": "macd",
+    "params": {
+      "fast": 12,
+      "slow": 26,
+      "signal": 5
+    }
+  },
+  {
+    "name": "MACD(8,26,9)",
+    "strategy": "Exp_MACD_8_26_9",
+    "group": "macd",
+    "params": {
+      "fast": 8,
+      "slow": 26,
+      "signal": 9
+    }
+  },
+  {
+    "name": "Keltner(20, 1.5x ATR)",
+    "strategy": "Exp_KC_20_15",
+    "group": "keltner",
+    "params": {
+      "kc_period": 20,
+      "kc_mult": 1.5
+    }
+  },
+  {
+    "name": "Keltner(20, 2.0x ATR)",
+    "strategy": "Exp_KC_20_20",
+    "group": "keltner",
+    "params": {
+      "kc_period": 20,
+      "kc_mult": 2.0
+    }
+  },
+  {
+    "name": "Keltner(20, 2.5x ATR)",
+    "strategy": "Exp_KC_20_25",
+    "group": "keltner",
+    "params": {
+      "kc_period": 20,
+      "kc_mult": 2.5
+    }
+  },
+  {
+    "name": "Keltner(14, 1.5x ATR)",
+    "strategy": "Exp_KC_14_15",
+    "group": "keltner",
+    "params": {
+      "kc_period": 14,
+      "kc_mult": 1.5
+    }
+  },
+  {
+    "name": "Keltner(14, 2.0x ATR)",
+    "strategy": "Exp_KC_14_20",
+    "group": "keltner",
+    "params": {
+      "kc_period": 14,
+      "kc_mult": 2.0
+    }
+  },
+  {
+    "name": "Keltner(30, 2.0x ATR)",
+    "strategy": "Exp_KC_30_20",
+    "group": "keltner",
+    "params": {
+      "kc_period": 30,
+      "kc_mult": 2.0
+    }
+  },
+  {
+    "name": "Keltner(20, 3.0x ATR)",
+    "strategy": "Exp_KC_20_30",
+    "group": "keltner",
+    "params": {
+      "kc_period": 20,
+      "kc_mult": 3.0
+    }
+  },
+  {
+    "name": "EMA Cross(8/21)",
+    "strategy": "Exp_EMA_8_21",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 8,
+      "ema_slow": 21
+    }
+  },
+  {
+    "name": "EMA Cross(10/30)",
+    "strategy": "Exp_EMA_10_30",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 10,
+      "ema_slow": 30
+    }
+  },
+  {
+    "name": "EMA Cross(13/34)",
+    "strategy": "Exp_EMA_13_34",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 13,
+      "ema_slow": 34
+    }
+  },
+  {
+    "name": "EMA Cross(21/55)",
+    "strategy": "Exp_EMA_21_55",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 21,
+      "ema_slow": 55
+    }
+  },
+  {
+    "name": "EMA Cross(5/13)",
+    "strategy": "Exp_EMA_5_13",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 5,
+      "ema_slow": 13
+    }
+  },
+  {
+    "name": "EMA Cross(8/34)",
+    "strategy": "Exp_EMA_8_34",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 8,
+      "ema_slow": 34
+    }
+  },
+  {
+    "name": "EMA Cross(13/55)",
+    "strategy": "Exp_EMA_13_55",
+    "group": "ema_cross",
+    "params": {
+      "ema_fast": 13,
+      "ema_slow": 55
+    }
+  },
+  {
+    "name": "RSI(14) Entry<30 Exit>70",
+    "strategy": "Exp_RSI_14_30_70",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 14,
+      "rsi_entry": 30,
+      "rsi_exit": 70
+    }
+  },
+  {
+    "name": "RSI(14) Entry<25 Exit>75",
+    "strategy": "Exp_RSI_14_25_75",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 14,
+      "rsi_entry": 25,
+      "rsi_exit": 75
+    }
+  },
+  {
+    "name": "RSI(14) Entry<35 Exit>65",
+    "strategy": "Exp_RSI_14_35_65",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 14,
+      "rsi_entry": 35,
+      "rsi_exit": 65
+    }
+  },
+  {
+    "name": "RSI(21) Entry<30 Exit>70",
+    "strategy": "Exp_RSI_21_30_70",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 21,
+      "rsi_entry": 30,
+      "rsi_exit": 70
+    }
+  },
+  {
+    "name": "RSI(7) Entry<25 Exit>75",
+    "strategy": "Exp_RSI_7_25_75",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 7,
+      "rsi_entry": 25,
+      "rsi_exit": 75
+    }
+  },
+  {
+    "name": "RSI(14) Entry<30 Exit>60",
+    "strategy": "Exp_RSI_14_30_60",
+    "group": "rsi_trend",
+    "params": {
+      "rsi_period": 14,
+      "rsi_entry": 30,
+      "rsi_exit": 60
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.3 Trail=0.2",
+    "strategy": "Exp_3D_A24_T03_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.3,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.3 Trail=0.25",
+    "strategy": "Exp_3D_A24_T03_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.3,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.3 Trail=0.3",
+    "strategy": "Exp_3D_A24_T03_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.3,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.5 Trail=0.2",
+    "strategy": "Exp_3D_A24_T05_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.5,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.5 Trail=0.25",
+    "strategy": "Exp_3D_A24_T05_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.5,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.5 Trail=0.3",
+    "strategy": "Exp_3D_A24_T05_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.5,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.7 Trail=0.2",
+    "strategy": "Exp_3D_A24_T07_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.7,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.7 Trail=0.25",
+    "strategy": "Exp_3D_A24_T07_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.7,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=24 ATR=0.7 Trail=0.3",
+    "strategy": "Exp_3D_A24_T07_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 0.7,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=24 ATR=1.0 Trail=0.2",
+    "strategy": "Exp_3D_A24_T10_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 1.0,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=24 ATR=1.0 Trail=0.25",
+    "strategy": "Exp_3D_A24_T10_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 1.0,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=24 ATR=1.0 Trail=0.3",
+    "strategy": "Exp_3D_A24_T10_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 24,
+      "atr_mult": 1.0,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 Trail=0.2",
+    "strategy": "Exp_3D_A26_T03_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 Trail=0.25",
+    "strategy": "Exp_3D_A26_T03_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 Trail=0.3",
+    "strategy": "Exp_3D_A26_T03_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 Trail=0.2",
+    "strategy": "Exp_3D_A26_T05_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 Trail=0.25",
+    "strategy": "Exp_3D_A26_T05_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 Trail=0.3",
+    "strategy": "Exp_3D_A26_T05_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 Trail=0.2",
+    "strategy": "Exp_3D_A26_T07_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 Trail=0.25",
+    "strategy": "Exp_3D_A26_T07_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 Trail=0.3",
+    "strategy": "Exp_3D_A26_T07_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=1.0 Trail=0.2",
+    "strategy": "Exp_3D_A26_T10_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 1.0,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=26 ATR=1.0 Trail=0.25",
+    "strategy": "Exp_3D_A26_T10_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 1.0,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=1.0 Trail=0.3",
+    "strategy": "Exp_3D_A26_T10_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 1.0,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 Trail=0.2",
+    "strategy": "Exp_3D_A28_T03_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 Trail=0.25",
+    "strategy": "Exp_3D_A28_T03_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 Trail=0.3",
+    "strategy": "Exp_3D_A28_T03_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 Trail=0.2",
+    "strategy": "Exp_3D_A28_T05_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 Trail=0.25",
+    "strategy": "Exp_3D_A28_T05_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 Trail=0.3",
+    "strategy": "Exp_3D_A28_T05_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 Trail=0.2",
+    "strategy": "Exp_3D_A28_T07_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 Trail=0.25",
+    "strategy": "Exp_3D_A28_T07_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 Trail=0.3",
+    "strategy": "Exp_3D_A28_T07_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=1.0 Trail=0.2",
+    "strategy": "Exp_3D_A28_T10_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 1.0,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=28 ATR=1.0 Trail=0.25",
+    "strategy": "Exp_3D_A28_T10_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 1.0,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=1.0 Trail=0.3",
+    "strategy": "Exp_3D_A28_T10_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 1.0,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 Trail=0.2",
+    "strategy": "Exp_3D_A30_T03_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 Trail=0.25",
+    "strategy": "Exp_3D_A30_T03_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 Trail=0.3",
+    "strategy": "Exp_3D_A30_T03_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 Trail=0.2",
+    "strategy": "Exp_3D_A30_T05_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 Trail=0.25",
+    "strategy": "Exp_3D_A30_T05_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 Trail=0.3",
+    "strategy": "Exp_3D_A30_T05_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 Trail=0.2",
+    "strategy": "Exp_3D_A30_T07_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 Trail=0.25",
+    "strategy": "Exp_3D_A30_T07_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 Trail=0.3",
+    "strategy": "Exp_3D_A30_T07_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=1.0 Trail=0.2",
+    "strategy": "Exp_3D_A30_T10_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 1.0,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=30 ATR=1.0 Trail=0.25",
+    "strategy": "Exp_3D_A30_T10_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 1.0,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=1.0 Trail=0.3",
+    "strategy": "Exp_3D_A30_T10_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 1.0,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.3 Trail=0.2",
+    "strategy": "Exp_3D_A32_T03_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.3,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.3 Trail=0.25",
+    "strategy": "Exp_3D_A32_T03_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.3,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.3 Trail=0.3",
+    "strategy": "Exp_3D_A32_T03_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.3,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.5 Trail=0.2",
+    "strategy": "Exp_3D_A32_T05_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.5,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.5 Trail=0.25",
+    "strategy": "Exp_3D_A32_T05_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.5,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.5 Trail=0.3",
+    "strategy": "Exp_3D_A32_T05_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.5,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.7 Trail=0.2",
+    "strategy": "Exp_3D_A32_T07_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.7,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.7 Trail=0.25",
+    "strategy": "Exp_3D_A32_T07_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.7,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=32 ATR=0.7 Trail=0.3",
+    "strategy": "Exp_3D_A32_T07_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 0.7,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=32 ATR=1.0 Trail=0.2",
+    "strategy": "Exp_3D_A32_T10_O02",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 1.0,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "ADX=32 ATR=1.0 Trail=0.25",
+    "strategy": "Exp_3D_A32_T10_O025",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 1.0,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=32 ATR=1.0 Trail=0.3",
+    "strategy": "Exp_3D_A32_T10_O03",
+    "group": "grid_3d",
+    "params": {
+      "adx_min": 32,
+      "atr_mult": 1.0,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "EMA(10/30/100)",
+    "strategy": "Exp_EMA_10_30_100",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 10,
+      "ema_mid": 30,
+      "ema_slow": 100
+    }
+  },
+  {
+    "name": "EMA(10/30/200)",
+    "strategy": "Exp_EMA_10_30_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 10,
+      "ema_mid": 30,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(13/34/200)",
+    "strategy": "Exp_EMA_13_34_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 13,
+      "ema_mid": 34,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(13/55/200)",
+    "strategy": "Exp_EMA_13_55_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 13,
+      "ema_mid": 55,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(21/55/100)",
+    "strategy": "Exp_EMA_21_55_100",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 21,
+      "ema_mid": 55,
+      "ema_slow": 100
+    }
+  },
+  {
+    "name": "EMA(21/55/150)",
+    "strategy": "Exp_EMA_21_55_150",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 21,
+      "ema_mid": 55,
+      "ema_slow": 150
+    }
+  },
+  {
+    "name": "EMA(21/75/200)",
+    "strategy": "Exp_EMA_21_75_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 21,
+      "ema_mid": 75,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(21/100/200)",
+    "strategy": "Exp_EMA_21_100_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 21,
+      "ema_mid": 100,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(8/21/100)",
+    "strategy": "Exp_EMA_8_21_100",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 8,
+      "ema_mid": 21,
+      "ema_slow": 100
+    }
+  },
+  {
+    "name": "EMA(8/21/200)",
+    "strategy": "Exp_EMA_8_21_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 8,
+      "ema_mid": 21,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(34/89/200)",
+    "strategy": "Exp_EMA_34_89_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 34,
+      "ema_mid": 89,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(10/55/200)",
+    "strategy": "Exp_EMA_10_55_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 10,
+      "ema_mid": 55,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(15/40/150)",
+    "strategy": "Exp_EMA_15_40_150",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 15,
+      "ema_mid": 40,
+      "ema_slow": 150
+    }
+  },
+  {
+    "name": "EMA(20/50/200)",
+    "strategy": "Exp_EMA_20_50_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 20,
+      "ema_mid": 50,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(25/60/200)",
+    "strategy": "Exp_EMA_25_60_200",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 25,
+      "ema_mid": 60,
+      "ema_slow": 200
+    }
+  },
+  {
+    "name": "EMA(13/34/100)",
+    "strategy": "Exp_EMA_13_34_100",
+    "group": "ema_periods",
+    "params": {
+      "ema_fast": 13,
+      "ema_mid": 34,
+      "ema_slow": 100
+    }
+  },
+  {
+    "name": "SL=-0.06 Lev=3.0",
+    "strategy": "Exp_SL006_Lev3",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.06,
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "SL=-0.06 Lev=5.0",
+    "strategy": "Exp_SL006_Lev5",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.06,
+      "leverage": 5.0
+    }
+  },
+  {
+    "name": "SL=-0.06 Lev=7.0",
+    "strategy": "Exp_SL006_Lev7",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.06,
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "SL=-0.06 Lev=10.0",
+    "strategy": "Exp_SL006_Lev10",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.06,
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "SL=-0.08 Lev=3.0",
+    "strategy": "Exp_SL008_Lev3",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.08,
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "SL=-0.08 Lev=5.0",
+    "strategy": "Exp_SL008_Lev5",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.08,
+      "leverage": 5.0
+    }
+  },
+  {
+    "name": "SL=-0.08 Lev=7.0",
+    "strategy": "Exp_SL008_Lev7",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.08,
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "SL=-0.08 Lev=10.0",
+    "strategy": "Exp_SL008_Lev10",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.08,
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "SL=-0.1 Lev=3.0",
+    "strategy": "Exp_SL01_Lev3",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.1,
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "SL=-0.1 Lev=5.0",
+    "strategy": "Exp_SL01_Lev5",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.1,
+      "leverage": 5.0
+    }
+  },
+  {
+    "name": "SL=-0.1 Lev=7.0",
+    "strategy": "Exp_SL01_Lev7",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.1,
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "SL=-0.1 Lev=10.0",
+    "strategy": "Exp_SL01_Lev10",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.1,
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "SL=-0.12 Lev=3.0",
+    "strategy": "Exp_SL012_Lev3",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.12,
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "SL=-0.12 Lev=5.0",
+    "strategy": "Exp_SL012_Lev5",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.12,
+      "leverage": 5.0
+    }
+  },
+  {
+    "name": "SL=-0.12 Lev=7.0",
+    "strategy": "Exp_SL012_Lev7",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.12,
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "SL=-0.12 Lev=10.0",
+    "strategy": "Exp_SL012_Lev10",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.12,
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "SL=-0.15 Lev=3.0",
+    "strategy": "Exp_SL015_Lev3",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.15,
+      "leverage": 3.0
+    }
+  },
+  {
+    "name": "SL=-0.15 Lev=5.0",
+    "strategy": "Exp_SL015_Lev5",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.15,
+      "leverage": 5.0
+    }
+  },
+  {
+    "name": "SL=-0.15 Lev=7.0",
+    "strategy": "Exp_SL015_Lev7",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.15,
+      "leverage": 7.0
+    }
+  },
+  {
+    "name": "SL=-0.15 Lev=10.0",
+    "strategy": "Exp_SL015_Lev10",
+    "group": "sl_leverage",
+    "params": {
+      "stoploss": -0.15,
+      "leverage": 10.0
+    }
+  },
+  {
+    "name": "DC=14 ATR=0.0",
+    "strategy": "Exp_DC14_ATR00",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 14,
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "DC=14 ATR=0.3",
+    "strategy": "Exp_DC14_ATR03",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 14,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "DC=14 ATR=0.5",
+    "strategy": "Exp_DC14_ATR05",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 14,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "DC=14 ATR=0.7",
+    "strategy": "Exp_DC14_ATR07",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 14,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "DC=18 ATR=0.0",
+    "strategy": "Exp_DC18_ATR00",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 18,
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "DC=18 ATR=0.3",
+    "strategy": "Exp_DC18_ATR03",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 18,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "DC=18 ATR=0.5",
+    "strategy": "Exp_DC18_ATR05",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 18,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "DC=18 ATR=0.7",
+    "strategy": "Exp_DC18_ATR07",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 18,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "DC=20 ATR=0.0",
+    "strategy": "Exp_DC20_ATR00",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 20,
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "DC=20 ATR=0.3",
+    "strategy": "Exp_DC20_ATR03",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 20,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "DC=20 ATR=0.5",
+    "strategy": "Exp_DC20_ATR05",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 20,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "DC=20 ATR=0.7",
+    "strategy": "Exp_DC20_ATR07",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 20,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "DC=25 ATR=0.0",
+    "strategy": "Exp_DC25_ATR00",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 25,
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "DC=25 ATR=0.3",
+    "strategy": "Exp_DC25_ATR03",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 25,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "DC=25 ATR=0.5",
+    "strategy": "Exp_DC25_ATR05",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 25,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "DC=25 ATR=0.7",
+    "strategy": "Exp_DC25_ATR07",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 25,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "DC=30 ATR=0.0",
+    "strategy": "Exp_DC30_ATR00",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 30,
+      "atr_mult": 0.0
+    }
+  },
+  {
+    "name": "DC=30 ATR=0.3",
+    "strategy": "Exp_DC30_ATR03",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 30,
+      "atr_mult": 0.3
+    }
+  },
+  {
+    "name": "DC=30 ATR=0.5",
+    "strategy": "Exp_DC30_ATR05",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 30,
+      "atr_mult": 0.5
+    }
+  },
+  {
+    "name": "DC=30 ATR=0.7",
+    "strategy": "Exp_DC30_ATR07",
+    "group": "dc_atr",
+    "params": {
+      "dc_period": 30,
+      "atr_mult": 0.7
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.15",
+    "strategy": "Exp_Tr003_Off015",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.2",
+    "strategy": "Exp_Tr003_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.25",
+    "strategy": "Exp_Tr003_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.3",
+    "strategy": "Exp_Tr003_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.35",
+    "strategy": "Exp_Tr003_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.03 Offset=0.4",
+    "strategy": "Exp_Tr003_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.03,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.15",
+    "strategy": "Exp_Tr005_Off015",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.2",
+    "strategy": "Exp_Tr005_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.25",
+    "strategy": "Exp_Tr005_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.3",
+    "strategy": "Exp_Tr005_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.35",
+    "strategy": "Exp_Tr005_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.05 Offset=0.4",
+    "strategy": "Exp_Tr005_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.05,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.15",
+    "strategy": "Exp_Tr008_Off015",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.2",
+    "strategy": "Exp_Tr008_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.25",
+    "strategy": "Exp_Tr008_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.3",
+    "strategy": "Exp_Tr008_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.35",
+    "strategy": "Exp_Tr008_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.08 Offset=0.4",
+    "strategy": "Exp_Tr008_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.08,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.15",
+    "strategy": "Exp_Tr01_Off015",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.2",
+    "strategy": "Exp_Tr01_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.25",
+    "strategy": "Exp_Tr01_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.3",
+    "strategy": "Exp_Tr01_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.35",
+    "strategy": "Exp_Tr01_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.1 Offset=0.4",
+    "strategy": "Exp_Tr01_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.1,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.15",
+    "strategy": "Exp_Tr012_Off015",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.15
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.2",
+    "strategy": "Exp_Tr012_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.25",
+    "strategy": "Exp_Tr012_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.3",
+    "strategy": "Exp_Tr012_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.35",
+    "strategy": "Exp_Tr012_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.12 Offset=0.4",
+    "strategy": "Exp_Tr012_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.12,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "TrailPos=0.15 Offset=0.2",
+    "strategy": "Exp_Tr015_Off02",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.15,
+      "trail_offset": 0.2
+    }
+  },
+  {
+    "name": "TrailPos=0.15 Offset=0.25",
+    "strategy": "Exp_Tr015_Off025",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.15,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "TrailPos=0.15 Offset=0.3",
+    "strategy": "Exp_Tr015_Off03",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.15,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "TrailPos=0.15 Offset=0.35",
+    "strategy": "Exp_Tr015_Off035",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.15,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "TrailPos=0.15 Offset=0.4",
+    "strategy": "Exp_Tr015_Off04",
+    "group": "trailing_grid",
+    "params": {
+      "trail_positive": 0.15,
+      "trail_offset": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=32 TP=0.3",
+    "strategy": "Exp_MB32_TP03",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 32,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "MaxBars=32 TP=0.4",
+    "strategy": "Exp_MB32_TP04",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 32,
+      "tp_big": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=32 TP=0.5",
+    "strategy": "Exp_MB32_TP05",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 32,
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "MaxBars=32 TP=0.6",
+    "strategy": "Exp_MB32_TP06",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 32,
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "MaxBars=48 TP=0.3",
+    "strategy": "Exp_MB48_TP03",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 48,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "MaxBars=48 TP=0.4",
+    "strategy": "Exp_MB48_TP04",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 48,
+      "tp_big": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=48 TP=0.5",
+    "strategy": "Exp_MB48_TP05",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 48,
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "MaxBars=48 TP=0.6",
+    "strategy": "Exp_MB48_TP06",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 48,
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "MaxBars=64 TP=0.3",
+    "strategy": "Exp_MB64_TP03",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 64,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "MaxBars=64 TP=0.4",
+    "strategy": "Exp_MB64_TP04",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 64,
+      "tp_big": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=64 TP=0.5",
+    "strategy": "Exp_MB64_TP05",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 64,
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "MaxBars=64 TP=0.6",
+    "strategy": "Exp_MB64_TP06",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 64,
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "MaxBars=80 TP=0.3",
+    "strategy": "Exp_MB80_TP03",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 80,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "MaxBars=80 TP=0.4",
+    "strategy": "Exp_MB80_TP04",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 80,
+      "tp_big": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=80 TP=0.5",
+    "strategy": "Exp_MB80_TP05",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 80,
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "MaxBars=80 TP=0.6",
+    "strategy": "Exp_MB80_TP06",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 80,
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "MaxBars=96 TP=0.3",
+    "strategy": "Exp_MB96_TP03",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 96,
+      "tp_big": 0.3
+    }
+  },
+  {
+    "name": "MaxBars=96 TP=0.4",
+    "strategy": "Exp_MB96_TP04",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 96,
+      "tp_big": 0.4
+    }
+  },
+  {
+    "name": "MaxBars=96 TP=0.5",
+    "strategy": "Exp_MB96_TP05",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 96,
+      "tp_big": 0.5
+    }
+  },
+  {
+    "name": "MaxBars=96 TP=0.6",
+    "strategy": "Exp_MB96_TP06",
+    "group": "timeout_tp",
+    "params": {
+      "max_bars": 96,
+      "tp_big": 0.6
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A26_R03_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A26_R03_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A26_R03_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A26_R03_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A26_R03_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A26_R03_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A26_R03_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A26_R03_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.3 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A26_R03_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A26_R05_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A26_R05_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A26_R05_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A26_R05_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A26_R05_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A26_R05_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A26_R05_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A26_R05_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.5 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A26_R05_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A26_R07_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A26_R07_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A26_R07_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A26_R07_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A26_R07_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A26_R07_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A26_R07_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A26_R07_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=26 ATR=0.7 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A26_R07_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 26,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A28_R03_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A28_R03_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A28_R03_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A28_R03_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A28_R03_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A28_R03_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A28_R03_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A28_R03_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.3 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A28_R03_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A28_R05_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A28_R05_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A28_R05_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A28_R05_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A28_R05_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A28_R05_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A28_R05_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A28_R05_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.5 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A28_R05_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A28_R07_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A28_R07_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A28_R07_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A28_R07_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A28_R07_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A28_R07_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A28_R07_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A28_R07_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=28 ATR=0.7 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A28_R07_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 28,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A30_R03_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A30_R03_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A30_R03_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A30_R03_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A30_R03_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A30_R03_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A30_R03_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A30_R03_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.3 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A30_R03_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.3,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A30_R05_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A30_R05_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A30_R05_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A30_R05_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A30_R05_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A30_R05_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A30_R05_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A30_R05_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.5 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A30_R05_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.5,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.08 Trail=0.25",
+    "strategy": "Exp_Best_A30_R07_S008_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.08 Trail=0.3",
+    "strategy": "Exp_Best_A30_R07_S008_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.08 Trail=0.35",
+    "strategy": "Exp_Best_A30_R07_S008_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.08,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.1 Trail=0.25",
+    "strategy": "Exp_Best_A30_R07_S01_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.1 Trail=0.3",
+    "strategy": "Exp_Best_A30_R07_S01_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.1 Trail=0.35",
+    "strategy": "Exp_Best_A30_R07_S01_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.1,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.12 Trail=0.25",
+    "strategy": "Exp_Best_A30_R07_S012_T025",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.25
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.12 Trail=0.3",
+    "strategy": "Exp_Best_A30_R07_S012_T03",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.3
+    }
+  },
+  {
+    "name": "ADX=30 ATR=0.7 SL=-0.12 Trail=0.35",
+    "strategy": "Exp_Best_A30_R07_S012_T035",
+    "group": "best_combo",
+    "params": {
+      "adx_min": 30,
+      "atr_mult": 0.7,
+      "stoploss": -0.12,
+      "trail_offset": 0.35
+    }
+  },
+  {
+    "name": "Stoch(14,3) Entry>50",
+    "strategy": "Exp_Stoch_14_3_50",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 14,
+      "stoch_d": 3,
+      "stoch_entry": 50
+    }
+  },
+  {
+    "name": "Stoch(14,3) Entry>60",
+    "strategy": "Exp_Stoch_14_3_60",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 14,
+      "stoch_d": 3,
+      "stoch_entry": 60
+    }
+  },
+  {
+    "name": "Stoch(14,3) Entry>70",
+    "strategy": "Exp_Stoch_14_3_70",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 14,
+      "stoch_d": 3,
+      "stoch_entry": 70
+    }
+  },
+  {
+    "name": "Stoch(14,5) Entry>50",
+    "strategy": "Exp_Stoch_14_5_50",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 14,
+      "stoch_d": 5,
+      "stoch_entry": 50
+    }
+  },
+  {
+    "name": "Stoch(21,3) Entry>50",
+    "strategy": "Exp_Stoch_21_3_50",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 21,
+      "stoch_d": 3,
+      "stoch_entry": 50
+    }
+  },
+  {
+    "name": "Stoch(21,5) Entry>60",
+    "strategy": "Exp_Stoch_21_5_60",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 21,
+      "stoch_d": 5,
+      "stoch_entry": 60
+    }
+  },
+  {
+    "name": "Stoch(9,3) Entry>50",
+    "strategy": "Exp_Stoch_9_3_50",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 9,
+      "stoch_d": 3,
+      "stoch_entry": 50
+    }
+  },
+  {
+    "name": "Stoch(9,3) Entry>60",
+    "strategy": "Exp_Stoch_9_3_60",
+    "group": "stoch_dc",
+    "params": {
+      "stoch_k": 9,
+      "stoch_d": 3,
+      "stoch_entry": 60
+    }
+  },
+  {
+    "name": "CCI(14) Entry>100",
+    "strategy": "Exp_CCI_14_100",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 14,
+      "cci_entry": 100
+    }
+  },
+  {
+    "name": "CCI(14) Entry>50",
+    "strategy": "Exp_CCI_14_50",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 14,
+      "cci_entry": 50
+    }
+  },
+  {
+    "name": "CCI(14) Entry>150",
+    "strategy": "Exp_CCI_14_150",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 14,
+      "cci_entry": 150
+    }
+  },
+  {
+    "name": "CCI(20) Entry>100",
+    "strategy": "Exp_CCI_20_100",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 20,
+      "cci_entry": 100
+    }
+  },
+  {
+    "name": "CCI(20) Entry>50",
+    "strategy": "Exp_CCI_20_50",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 20,
+      "cci_entry": 50
+    }
+  },
+  {
+    "name": "CCI(7) Entry>100",
+    "strategy": "Exp_CCI_7_100",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 7,
+      "cci_entry": 100
+    }
+  },
+  {
+    "name": "CCI(7) Entry>50",
+    "strategy": "Exp_CCI_7_50",
+    "group": "cci_trend",
+    "params": {
+      "cci_period": 7,
+      "cci_entry": 50
+    }
+  },
+  {
+    "name": "WillR(14) Entry>-20",
+    "strategy": "Exp_WillR_14_20",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 14,
+      "willr_entry": -20
+    }
+  },
+  {
+    "name": "WillR(14) Entry>-30",
+    "strategy": "Exp_WillR_14_30",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 14,
+      "willr_entry": -30
+    }
+  },
+  {
+    "name": "WillR(14) Entry>-40",
+    "strategy": "Exp_WillR_14_40",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 14,
+      "willr_entry": -40
+    }
+  },
+  {
+    "name": "WillR(21) Entry>-20",
+    "strategy": "Exp_WillR_21_20",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 21,
+      "willr_entry": -20
+    }
+  },
+  {
+    "name": "WillR(21) Entry>-30",
+    "strategy": "Exp_WillR_21_30",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 21,
+      "willr_entry": -30
+    }
+  },
+  {
+    "name": "WillR(7) Entry>-20",
+    "strategy": "Exp_WillR_7_20",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 7,
+      "willr_entry": -20
+    }
+  },
+  {
+    "name": "WillR(7) Entry>-30",
+    "strategy": "Exp_WillR_7_30",
+    "group": "willr_trend",
+    "params": {
+      "willr_period": 7,
+      "willr_entry": -30
+    }
+  },
+  {
+    "name": "SAR(acc=0.02, max=0.2)",
+    "strategy": "Exp_SAR_002_02",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.02,
+      "sar_max": 0.2
+    }
+  },
+  {
+    "name": "SAR(acc=0.01, max=0.2)",
+    "strategy": "Exp_SAR_001_02",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.01,
+      "sar_max": 0.2
+    }
+  },
+  {
+    "name": "SAR(acc=0.02, max=0.1)",
+    "strategy": "Exp_SAR_002_01",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.02,
+      "sar_max": 0.1
+    }
+  },
+  {
+    "name": "SAR(acc=0.01, max=0.1)",
+    "strategy": "Exp_SAR_001_01",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.01,
+      "sar_max": 0.1
+    }
+  },
+  {
+    "name": "SAR(acc=0.03, max=0.3)",
+    "strategy": "Exp_SAR_003_03",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.03,
+      "sar_max": 0.3
+    }
+  },
+  {
+    "name": "SAR(acc=0.02, max=0.3)",
+    "strategy": "Exp_SAR_002_03",
+    "group": "sar_trend",
+    "params": {
+      "sar_acc": 0.02,
+      "sar_max": 0.3
+    }
+  }
+]
