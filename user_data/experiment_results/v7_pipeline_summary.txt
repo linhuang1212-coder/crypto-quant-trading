@@ -1,11 +1,7 @@
-﻿v7 Pipeline Summary
-===================
-Started:  04/06/2026 11:24:55
-Ended:    04/06/2026 11:24:56
-Duration: 00:00:00
-
-Stage 1:   completed=0 failed=0 resumed=0
-Stage 1.5: candidates=0
-Stage 2:   pass=0 fail=0
-Stage 3:   pass=0 fail=0
-
+V7 Stage 3 Summary
+==================
+Duration: 08:08:30
+Stage 2 survivors: 18
+Stage 3 pass: 12
+Stage 3 fail: 6
+Final: V7_G1_P001, V7_G1_P002, V7_G1_P004, V7_G1_P005, V7_G1_P006, V7_G1_P007, V7_G1_P008, V7_G1_P010, V7_G13_P004, V7_G13_P007, V7_G13_P008, V7_G14_P006

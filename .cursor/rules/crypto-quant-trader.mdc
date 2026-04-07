@@ -102,7 +102,15 @@ alwaysApply: true
 - **架构**：Donchian 突破 + 动态DC周期(ATR百分位切换) + MACD(8,17,9)共振过滤 + 阶梯止损S5
 - **基线指标**：Sharpe 1.21, PF 1.50, DD 11.24%, CAGR 54.32%, 1098笔交易, 胜率31.9%
 - **品种**：BTC/ETH/SOL/ADA（4币），15m时间框架，5x杠杆，40%复利
+- **V6验证(04-06)**：173变体三阶段筛选，50/50通过WF。CryptoV11仍为最优，无显著超越
+- **已验证放弃方向**：做空(PF<1.3)/回踩入场(DD>25%)/自适应trail(全部失效)/阶梯止盈(全部负)/退出信号增强(Sharpe<0.9)
 - 详细的已验证经验和因子研究见 `user_data/trading_journal.md`
+
+### 实验框架
+- **运行环境**：macOS + Docker（bash脚本在 `scripts/run_experiments_v7.sh`）
+- **三阶段防过拟合**：全样本筛选 → 分年度验证(6年) → Walk-Forward(3窗口)
+- **门控配置**：`user_data/configs/experiment_gates.json`（统一真相源）
+- **分析脚本**：`user_data/scripts/analyze_v7.py`（自动生成Markdown报告）
 
 ### 知识库协议（必须遵守）
 

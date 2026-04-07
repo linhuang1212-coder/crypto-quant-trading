@@ -1,0 +1,109 @@
+strategy,group,name,window,phase,timerange,trades,tot_profit_pct,sharpe,profit_factor,max_drawdown_pct,cagr,sortino
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W1,train,20200101-20230101,554,237.67,1.01,1.32,12.50,50.25,4.81
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W1,test,20230101-20240101,201,90.48,1.57,1.51,15.00,90.48,9.51
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W2,train,20210101-20240101,564,304.92,1.17,1.41,15.07,59.39,5.53
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W2,test,20240101-20250101,163,47.47,1.55,1.61,9.52,47.31,7.82
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W3,train,20220101-20250101,476,204.55,1.19,1.48,15.03,44.90,5.97
+V7_G1_P001,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=True",W3,test,20250101-20260401,177,60.88,1.35,1.60,10.86,46.44,5.65
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W1,train,20200101-20230101,565,249.90,1.03,1.33,12.50,52.05,4.81
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W1,test,20230101-20240101,206,97.79,1.65,1.53,14.06,97.79,10.00
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W2,train,20210101-20240101,577,341.11,1.23,1.43,14.03,64.00,5.81
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W2,test,20240101-20250101,163,41.76,1.40,1.53,9.52,41.62,7.07
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W3,train,20220101-20250101,482,203.85,1.17,1.47,14.06,44.79,5.80
+V7_G1_P002,group_g1_volume,"G1 vol vp=20 vm=1.0 macd=False",W3,test,20250101-20260401,180,58.06,1.30,1.56,11.81,44.38,5.40
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W1,train,20200101-20230101,537,230.32,0.96,1.32,15.21,49.15,4.64
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W1,test,20230101-20240101,0,0,0,0,0,0,0
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W2,train,20210101-20240101,0,0,0,0,0,0,0
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W2,test,20240101-20250101,155,50.15,1.60,1.67,9.52,49.99,7.94
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W3,train,20220101-20250101,464,190.43,1.17,1.49,16.98,42.63,5.91
+V7_G1_P003,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=True",W3,test,20250101-20260401,169,53.40,1.24,1.57,9.38,40.95,5.15
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W1,train,20200101-20230101,545,229.37,0.96,1.31,15.21,49.00,4.63
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W1,test,20230101-20240101,201,96.38,1.64,1.55,16.33,96.38,10.03
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W2,train,20210101-20240101,557,297.87,1.17,1.42,16.32,58.46,5.74
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W2,test,20240101-20250101,156,49.15,1.58,1.65,9.52,48.98,7.83
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W3,train,20220101-20250101,470,200.89,1.20,1.50,16.33,44.32,5.96
+V7_G1_P004,group_g1_volume,"G1 vol vp=20 vm=1.5 macd=False",W3,test,20250101-20260401,171,52.48,1.23,1.56,9.25,40.27,5.10
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W1,train,20200101-20230101,473,191.95,0.86,1.32,13.39,43.11,4.42
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W1,test,20230101-20240101,181,113.92,1.87,1.73,12.54,113.92,11.13
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W2,train,20210101-20240101,0,0,0,0,0,0,0
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W2,test,20240101-20250101,143,47.75,1.49,1.67,9.07,47.60,7.20
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W3,train,20220101-20250101,0,0,0,0,0,0,0
+V7_G1_P005,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=True",W3,test,20250101-20260401,152,38.39,0.96,1.48,8.47,29.78,4.10
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W1,train,20200101-20230101,477,184.40,0.85,1.31,13.39,41.86,4.44
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W1,test,20230101-20240101,184,125.58,1.98,1.78,12.50,125.58,11.67
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W2,train,20210101-20240101,492,285.14,1.23,1.53,12.54,56.75,6.01
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W2,test,20240101-20250101,143,47.75,1.49,1.67,9.07,47.60,7.20
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W3,train,20220101-20250101,0,0,0,0,0,0,0
+V7_G1_P006,group_g1_volume,"G1 vol vp=20 vm=2.0 macd=False",W3,test,20250101-20260401,153,37.67,0.95,1.47,8.49,29.24,4.05
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W1,train,20200101-20230101,0,0,0,0,0,0,0
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W1,test,20230101-20240101,199,93.45,1.61,1.53,15.00,93.45,9.68
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W2,train,20210101-20240101,562,311.85,1.19,1.42,15.07,60.29,5.62
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W2,test,20240101-20250101,162,49.09,1.59,1.63,9.52,48.93,7.92
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W3,train,20220101-20250101,474,209.45,1.21,1.50,15.09,45.67,6.05
+V7_G1_P007,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=True",W3,test,20250101-20260401,177,60.88,1.35,1.60,10.86,46.44,5.65
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W1,train,20200101-20230101,566,246.19,1.02,1.32,12.50,51.51,4.79
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W1,test,20230101-20240101,204,101.21,1.70,1.56,14.06,101.21,10.18
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W2,train,20210101-20240101,576,343.92,1.24,1.44,14.06,64.35,5.88
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W2,test,20240101-20250101,162,43.02,1.43,1.55,9.52,42.88,7.13
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W3,train,20220101-20250101,480,207.69,1.19,1.48,14.02,45.40,5.83
+V7_G1_P008,group_g1_volume,"G1 vol vp=50 vm=1.0 macd=False",W3,test,20250101-20260401,180,58.06,1.30,1.56,11.81,44.38,5.40
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W1,train,20200101-20230101,535,260.77,1.05,1.36,12.49,53.61,4.82
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W1,test,20230101-20240101,0,0,0,0,0,0,0
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W2,train,20210101-20240101,0,0,0,0,0,0,0
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W2,test,20240101-20250101,156,46.26,1.50,1.61,9.87,46.11,7.41
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W3,train,20220101-20250101,464,204.94,1.19,1.50,14.41,44.96,5.85
+V7_G1_P009,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=True",W3,test,20250101-20260401,170,56.97,1.30,1.60,9.28,43.58,5.43
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W1,train,20200101-20230101,546,270.31,1.06,1.35,12.48,54.96,4.82
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W1,test,20230101-20240101,201,104.55,1.74,1.59,15.04,104.55,10.50
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W2,train,20210101-20240101,558,368.44,1.27,1.47,15.13,67.32,5.95
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W2,test,20240101-20250101,157,39.68,1.33,1.52,10.31,39.55,6.59
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W3,train,20220101-20250101,471,201.22,1.16,1.48,15.11,44.37,5.61
+V7_G1_P010,group_g1_volume,"G1 vol vp=50 vm=1.5 macd=False",W3,test,20250101-20260401,172,55.89,1.29,1.59,9.30,42.79,5.33
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W1,train,20200101-20230101,501,256.78,1.02,1.37,14.09,53.04,4.69
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W1,test,20230101-20240101,186,102.49,1.72,1.63,14.55,102.49,10.39
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W2,train,20210101-20240101,510,350.60,1.24,1.50,14.59,65.17,5.85
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W2,test,20240101-20250101,147,25.35,0.91,1.35,11.96,25.27,4.31
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W3,train,20220101-20250101,437,166.33,1.00,1.43,11.99,38.57,4.77
+V7_G1_P011,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=True",W3,test,20250101-20260401,0,0,0,0,0,0,0
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W1,train,20200101-20230101,508,259.66,1.02,1.37,14.09,53.45,4.64
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W1,test,20230101-20240101,0,0,0,0,0,0,0
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W2,train,20210101-20240101,0,0,0,0,0,0,0
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W2,test,20240101-20250101,148,19.45,0.72,1.27,12.72,19.39,3.39
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W3,train,20220101-20250101,443,164.29,0.97,1.41,12.91,38.22,4.55
+V7_G1_P012,group_g1_volume,"G1 vol vp=50 vm=2.0 macd=False",W3,test,20250101-20260401,0,0,0,0,0,0,0
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W1,train,20200101-20230101,0,0,0,0,0,0,0
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W1,test,20230101-20240101,179,85.28,1.55,1.58,11.16,85.28,9.13
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W2,train,20210101-20240101,512,263.26,1.15,1.44,11.13,53.72,5.54
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W2,test,20240101-20250101,0,0,0,0,0,0,0
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W3,train,20220101-20250101,0,0,0,0,0,0,0
+V7_G2_P011,group_g2_rsi,"G2 RSI p=21 max=80 macd=True",W3,test,20250101-20260401,170,48.15,1.16,1.52,10.27,37.06,4.77
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W1,train,20200101-20230101,556,202.76,0.95,1.30,11.97,44.86,4.47
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W1,test,20230101-20240101,202,82.10,1.46,1.48,14.06,82.10,8.61
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W2,train,20210101-20240101,567,271.68,1.11,1.39,14.05,54.90,5.28
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W2,test,20240101-20250101,164,45.02,1.49,1.59,9.52,44.88,7.03
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W3,train,20220101-20250101,479,178.22,1.11,1.45,13.99,40.60,5.42
+V7_G13_P004,group_g13_compound_exit,"G13 di=True ema=True adx=False bars=16",W3,test,20250101-20260401,182,46.56,1.12,1.46,14.46,35.89,4.47
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W1,train,20200101-20230101,556,205.15,0.94,1.30,12.21,45.24,4.54
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W1,test,20230101-20240101,201,90.03,1.57,1.52,13.67,90.03,9.20
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W2,train,20210101-20240101,566,283.37,1.14,1.40,13.74,56.51,5.46
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W2,test,20240101-20250101,164,45.45,1.51,1.59,9.52,45.30,7.49
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W3,train,20220101-20250101,0,0,0,0,0,0,0
+V7_G13_P007,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=8",W3,test,20250101-20260401,181,51.73,1.21,1.50,13.91,39.72,4.96
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W1,train,20200101-20230101,556,205.22,0.94,1.30,12.21,45.26,4.54
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W1,test,20230101-20240101,201,90.03,1.57,1.52,13.67,90.03,9.20
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W2,train,20210101-20240101,566,283.53,1.14,1.40,13.75,56.53,5.46
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W2,test,20240101-20250101,164,45.53,1.52,1.59,9.52,45.38,7.49
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W3,train,20220101-20250101,478,189.86,1.15,1.47,13.69,42.53,5.72
+V7_G13_P008,group_g13_compound_exit,"G13 di=False ema=True adx=True bars=16",W3,test,20250101-20260401,181,51.54,1.21,1.50,13.92,39.58,4.95
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W1,train,20200101-20230101,520,152.81,0.85,1.31,10.34,36.38,3.95
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W1,test,20230101-20240101,194,40.73,1.06,1.32,13.88,40.73,5.11
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W2,train,20210101-20240101,536,116.07,0.79,1.27,13.93,29.28,3.64
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W2,test,20240101-20250101,0,0,0,0,0,0,0
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W3,train,20220101-20250101,457,71.24,0.65,1.26,19.15,19.62,2.87
+V7_G14_P004,group_g14_regime,"G14 half_lev adx=40",W3,test,20250101-20260401,0,0,0,0,0,0,0
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W1,train,20200101-20230101,0,0,0,0,0,0,0
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W1,test,20230101-20240101,193,37.47,1.02,1.31,13.62,37.47,4.81
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W2,train,20210101-20240101,531,140.33,0.91,1.32,13.54,33.95,3.95
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W2,test,20240101-20250101,150,18.41,0.84,1.35,12.30,18.36,3.23
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W3,train,20220101-20250101,448,74.61,0.71,1.29,17.11,20.40,3.03
+V7_G14_P006,group_g14_regime,"G14 half_lev adx=45",W3,test,20250101-20260401,165,32.58,1.02,1.48,12.14,25.39,3.75
